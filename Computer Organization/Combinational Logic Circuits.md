@@ -29,7 +29,19 @@ Number systems can be thought of as codes. Transform binary numbers into more re
 - counter/alarm
 - BCD to 7-segment display (LED)
 Decoders use AND gates.
+
 **Encoders**
+- (Many to few)
+- decimal, keypads -> binary, octal BDC
+- made from OR gates
+
 **Multiplexers**
+- Data selector (many to one)
+- many inputs to one output
+- MUX used for stereo stuff
+
 **Demultiplexers**
+- one input to many outputs
+- accessing memory
+- like a selector switch
 
