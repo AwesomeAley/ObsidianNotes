@@ -1,4 +1,5 @@
 Types of combinational [[Logic Gates]]
+[[Sequential Logic]]
 **Parity Checker**
 - Catches most transmission errors (but not all)
 - even or odd number of '1's
@@ -24,6 +25,7 @@ The FA can add 3 bits. It is made of two half adders plus an OR gate. The Full A
 
 **Decoders**
 Number systems can be thought of as codes. Transform binary numbers into more readable number systems:
+- (few to many)
 - Binary to octal
 - BCD to decimal
 - counter/alarm
