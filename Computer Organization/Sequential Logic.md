@@ -66,3 +66,6 @@ Allows us to store 1 bit of data for 1 clock pulse
 - Importance: Divides the incoming pulse by 2
 
 ![[Pasted image 20230925103756.png]]
+
+The Q output has half the frequency of the incoming clock pulses
+
