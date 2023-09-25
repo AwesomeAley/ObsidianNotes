@@ -22,6 +22,7 @@ Introduction to Sequential Logic
 - synchronous
 - asynchronous
 
+##  RS Flip-Flop
 #### RS Flip-Flop Truth Table
 
 | S   | R   | Q   | Q'  |     | 
@@ -32,3 +33,4 @@ Introduction to Sequential Logic
 | 1   | 1   | Q   | Q'  |No change     |
 
 
+![[Pasted image 20230925102250.png]]
