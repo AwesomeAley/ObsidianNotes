@@ -33,4 +33,4 @@ Introduction to Sequential Logic
 | 1   | 1   | Q   | Q'  |No change     |
 
 
-![[Pasted image 20230925102250.png]]
+![[Pasted image 20230925102842.png]]
