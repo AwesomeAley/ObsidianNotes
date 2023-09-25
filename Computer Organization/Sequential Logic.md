@@ -34,3 +34,35 @@ Introduction to Sequential Logic
 
 
 ![[Pasted image 20230925102842.png]]
+
+
+## D Flip Flop
+Allows us to store 1 bit of data for 1 clock pulse
+- looks like a clocked RS flip-flop with an inverter on the input
+- inverter guarantees that R input is complement of S input
+- "D" stands for data or delay
+
+![[Pasted image 20230925103258.png]]
+
+
+## JK Flip-Flop
+
+- solves disallowed state of the RS flip-flop by permitting identical inputs
+#### Truth Table
+| J   | K   | Q   | Q'  |           |
+| --- | --- | --- | --- | --------- |
+| 0   | 0   | Q   | Q'  | no change |
+| 0   | 1   | 0   | 1   |           |
+| 1   | 0   | 1   | 0   |           |
+| 1   | 1   | Q   | Q'  | Toggle    | 
+
+![[Pasted image 20230925103540.png]]
+
+
+## Toggle Flip-Flop
+
+- When T is at logical 0, ignores clock pulse
+- When T is at logical 1, Q and Q' cycle between 0 and 1
+- Importance: Divides the incoming pulse by 2
+
+![[Pasted image 20230925103756.png]]
