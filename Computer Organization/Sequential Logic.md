@@ -11,3 +11,12 @@
 - Flip-Flops more 'expensive' (more components, more space on chip) than dynamic RAM
 - Registers, cache, etc, use SRAM, more expensive memory for inside CPU
 - Dynamic Ram (DRAM) uses cheaper memory, but must be 'refreshed' many times (thousands) per second: slower, but cheaper... (less components, capacitor and a gate)
+
+Introduction to Sequential Logic
+- memory
+- flip-flops
+- timing
+- shift registers
+- counters
+- synchronous
+- asynchronous
