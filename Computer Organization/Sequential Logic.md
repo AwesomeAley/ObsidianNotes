@@ -5,6 +5,7 @@
 - Most basic: 2 crossed AND gates
 - 2 outputs opposite of each other
 - 2 state or logic circuits, (many flipflops make a multi stable)
+- when changes states, it remains in that state even after momentary input signal changes! <- memory!
 
 - Static RAM: Flip-Flops (4-6) transistors
 - Dynamic RAM: Capacitors
