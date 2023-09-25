@@ -21,3 +21,14 @@ Introduction to Sequential Logic
 - counters
 - synchronous
 - asynchronous
+
+#### RS Flip-Flop Truth Table
+
+| S   | R   | Q   | Q'  |     | 
+| --- | --- | --- | --- | --- |
+| 0   | 0   | ?   | ?   |Disallowed     |
+| 0   | 1   | 1   | 0   |Set     |
+| 1   | 0   | 0   | 1   | Reset    |
+| 1   | 1   | Q   | Q'  |No change     |
+
+
