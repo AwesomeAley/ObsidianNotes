@@ -37,6 +37,14 @@ can string any number of flip flops together to make larger counter
 
 ![[Pasted image 20230927103113.png]]
 
+Counter Applications:
+- clock or watch: take 30 pulses per second from oscillator chip and divide to 1 per second
+- up and down counters
+- timers
+- digital tools - voltmeters, frequency counters, and dividers
+- computers (many applications such as circuits)
+
+
 
 
 
