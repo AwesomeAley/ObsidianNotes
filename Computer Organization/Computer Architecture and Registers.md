@@ -36,3 +36,8 @@ Much faster than ripple counters, but also use a few more gates (makes it more e
 can string any number of flip flops together to make larger counter
 
 ![[Pasted image 20230927103113.png]]
+
+
+
+
+
