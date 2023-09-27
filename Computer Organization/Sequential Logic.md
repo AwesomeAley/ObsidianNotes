@@ -69,3 +69,18 @@ Allows us to store 1 bit of data for 1 clock pulse
 
 The Q output has half the frequency of the incoming clock pulses
 
+
+## Primary - Secondary Flip-Flips
+
+- The glitch will go unnoticed because the glitch will happen before the falling edge of the clock
+
+
+**Quiz/Test Review**
+- What are the difference between RS, D, JK, and T flip flops
+- What is the weakness of the RS flip flop
+- What are the other names for the RS flip flop
+- How do the D and JK flip flops solve the problem the RS flip flop has?
+- What is special about the T flip flop
+- Hod do you make a t flip flop
+- What is a glitch? what is the solution?
+  
