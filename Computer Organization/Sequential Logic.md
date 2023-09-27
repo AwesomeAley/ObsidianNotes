@@ -75,6 +75,9 @@ The Q output has half the frequency of the incoming clock pulses
 - The glitch will go unnoticed because the glitch will happen before the falling edge of the clock
 
 
+
+
+
 **Quiz/Test Review**
 - What are the difference between RS, D, JK, and T flip flops
 - What is the weakness of the RS flip flop
