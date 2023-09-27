@@ -7,6 +7,7 @@ Topics discussed in Computer Organization
 	- [[Combinational Logic Circuits]]
 - [[Boolean Algebra]] 
 - [[De Morgen's Theorem]]
+- [[Computer Architecture and Registers]]
 
 
 week 3 hw <- temp

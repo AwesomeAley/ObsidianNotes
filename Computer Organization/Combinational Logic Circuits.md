@@ -1,5 +1,6 @@
 Types of combinational [[Logic Gates]]
-[[Sequential Logic]]
+Sequential logic can be performed using [[Flip Flops]]
+
 **Parity Checker**
 - Catches most transmission errors (but not all)
 - even or odd number of '1's
