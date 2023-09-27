@@ -8,6 +8,7 @@ Topics discussed in Computer Organization
 - [[Boolean Algebra]] 
 - [[De Morgen's Theorem]]
 - [[Computer Architecture and Registers]]
+- [[Arithmetic and Logic Units]] 
 
 
 week 3 hw <- temp
