@@ -1,4 +1,4 @@
--Computer Organization
+#ComputerOrganizationHub
 [[Cybersecurity Notes]]
 
 Topics discussed in Computer Organization
