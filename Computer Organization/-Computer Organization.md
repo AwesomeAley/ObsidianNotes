@@ -10,8 +10,3 @@ Topics discussed in Computer Organization
 - [[Computer Architecture and Registers]]
 - [[Arithmetic and Logic Units]] 
 
-
-week 3 hw <- temp
-what is utf-8: equivalent to ASCII, translates to characters
-what is ANSI
-EBCIDC  
