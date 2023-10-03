@@ -6,6 +6,7 @@ A data sublanguage that has constructs for defining and processing a database
 
 Databases can be created, edited, and dropped with the following commands: [[SQL Commands]].
 
+Databases can be navigated with [[SQL Database Navigation]] parameters
 
 ### SQL Categories
 
