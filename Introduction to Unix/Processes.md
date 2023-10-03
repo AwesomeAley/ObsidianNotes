@@ -5,7 +5,8 @@ watch - monitor processes (ctrl-c to end command)
 jobs - display running background processes
 fg - send background process back to the foreground
 bg - send the process back to the foreground
-
+free- display basic memory statistics
+uptime - basic process information
 
 To execute the script in the background, add an ampersand `&` character at the end of the command:
 
