@@ -19,3 +19,24 @@ Start the `sleep` command with a lower priority and then confirm with the `-l
 	su - root
 	nice -n 10 sleep 200 &
 	ps -l
+
+#### Multi - Sessions
+Multi-session command line utilities allow users to manage multiple processes inside a single Bash shell environment. The `screen` and `tmux` commands allow the user to start processes in a session that can be detached while still running, then re-attached and managed by various methods.
+
+The `screen` command allows for multiple processes to run within separate sessions under a single terminal.
+
+A useful feature of the `screen` command is the ability to detach a session, then re-attach it later. To attach and detach a `screen` session, you will need to use the `screen` command keys. All `screen` commands start with a prefix key, the keystrokes **Ctrl**+**A**, followed by a command key to make an action happen.
+
+Press the prefix key **Ctrl**+**A** and then the detach **D** command key, which detaches the current `screen` session and returns the user to the shell prompt.
+
+To list currently running `screen` sessions, run the `screen` command with the list `-list` option:
+
+	screen -list
+
+You can now re-attach the session by using the resume `-r` option with either the PID of the session or by the name of the session:
+
+	screen -r PID
+
+To exit the `screen` command, use the `exit` command:
+
+	exit
