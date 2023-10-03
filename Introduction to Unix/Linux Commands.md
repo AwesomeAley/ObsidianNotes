@@ -12,6 +12,7 @@ whoami - displays current user in use
 cat - concatenate a file (run the file)
 sudo - temporarily increase your privileges to root privileges
 echo - repeats what is typed after
+touch - create file
 rm - delete file
 mkdir - make directory
 rmdir - delete directory
