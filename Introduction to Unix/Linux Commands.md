@@ -21,3 +21,5 @@ man - get information from the manual on commands
 find/locate - locates path to specified file
 whereis - finds source files for a command
 type - determines information about various commands
+ps - list processes running on the system
+watch - monitor processes
