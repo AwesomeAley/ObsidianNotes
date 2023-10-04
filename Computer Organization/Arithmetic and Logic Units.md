@@ -1,3 +1,6 @@
+Major component of modern computer architectures:
+- Von Neumann, Harvard, etc
+
 **Memory**
 - need a cheap way to store millions or billions of bits
 - RAM: capacitors: like a bucker that hold a bunch of electrons
