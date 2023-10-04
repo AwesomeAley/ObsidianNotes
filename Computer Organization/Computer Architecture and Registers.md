@@ -9,6 +9,7 @@ Bus system: everything on the bus should receive the same information, but only 
 If flip flops are among most important circuits, then registers are the most important applications
 a circuit with more than one flip flop connected together is a register although this is an expensive way to hold bits.
 
+
 #### Shift Registers
 
 Made out of flip flops
