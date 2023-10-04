@@ -8,3 +8,4 @@ Fixed point or integer math
 - need an addressing method to retrieve memory and bring it to the CPU
 - also need a bus system to transport between CPU and memory
 - other kinds of memory: EEPROM, Flash, hard drives, floppies, core memory
+
