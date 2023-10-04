@@ -1,5 +1,6 @@
 Major component of modern computer architectures:
 - Von Neumann, Harvard, etc
+Fixed point or integer math
 
 **Memory**
 - need a cheap way to store millions or billions of bits
