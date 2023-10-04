@@ -33,7 +33,7 @@ slower than synchronous counter
 - counters can also be used as dividers
 ![[Pasted image 20230927103131.png]]
 
-Synchronous Counter
+Synchronous Counter (Parallel counter)
 Much faster than ripple counters, but also use a few more gates (makes it more expensive)
 4-bit synchronous counter is a modulo 16 counter
 can string any number of flip flops together to make larger counter
