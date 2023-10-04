@@ -29,6 +29,8 @@ synchronous counters: all change at the same time
 Asynchronous Ripple Counter
 slower than synchronous counter
 - less reliable than synchronous counter (but cheaper, uses fewer gates)
+- can make out of JK and any other type of flip flops
+- counters can also be used as dividers
 ![[Pasted image 20230927103131.png]]
 
 Synchronous Counter
