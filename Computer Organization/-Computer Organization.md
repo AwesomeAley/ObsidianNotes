@@ -9,4 +9,4 @@ Topics discussed in Computer Organization
 - [[De Morgen's Theorem]]
 - [[Computer Architecture and Registers]]
 - [[Arithmetic and Logic Units]] 
-
+Arithmetic Uses in Computer Organization is present in [[Arithmetic]]
