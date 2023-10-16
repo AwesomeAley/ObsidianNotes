@@ -27,3 +27,10 @@ Types of RAM Memory
 	- data
 - Change ROM: re-purpose CPU: calculator, children's toy, traffic light, electronic scale
 - Can store data... but data can be thought of as "universal combinational logic"
+
+### Remember NAND Gate
+- ROM can be reprogrammed to imitate a logic gate
+- first, lay out the NAND ROM gate on a matrix (ROM and RAM laid out in grids)
+- output lines with a diode are logical 1
+- output lines without a diode are a logical 0
+- 
