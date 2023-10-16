@@ -18,3 +18,12 @@ Types of RAM Memory
 - Read only memory - non-volatile
 	-information not lost when electrical power is removed
 	some are erasable, but not the same as volatile
+- Can be randomly accessed (similar in that respect to RAM)
+- Data can be read out non-destructively
+
+### ROM
+- Permanently store patterns of bits
+	- - instructions (micro-code: tell what to do when get input from the outside world)
+	- data
+- Change ROM: re-purpose CPU: calculator, children's toy, traffic light, electronic scale
+- Can store data... but data can be thought of as "universal combinational logic"
