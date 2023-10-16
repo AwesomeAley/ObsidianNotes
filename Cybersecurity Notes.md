@@ -7,6 +7,7 @@ A glossary containing links to all note depositories for Cybersecurity classes
 - [[-Intro to Unix]] 
 - [[-Legal and Ethical Issues in Cyberspace]]
 - [[Discrete Mathematics]]
--]
+- [[Arithmetic]]
+
 
 
