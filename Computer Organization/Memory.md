@@ -33,4 +33,10 @@ Types of RAM Memory
 - first, lay out the NAND ROM gate on a matrix (ROM and RAM laid out in grids)
 - output lines with a diode are logical 1
 - output lines without a diode are a logical 0
-- 
+-
+##### ROM Application
+7 segment display
+- truth table is ROM layout
+- much easier to program than logic gate method
+- cant store ten 7-bit word or 7x10 bits = 70 bits
+- 2^70 combinations of 0s and 1s
