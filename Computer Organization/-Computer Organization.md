@@ -10,4 +10,5 @@ Topics discussed in Computer Organization
 - [[Computer Architecture and Registers]]
 - [[Arithmetic and Logic Units]] 
 - [[Memory]]
+- [[Serial and Parallel Addition]]
 Arithmetic Uses in Computer Organization is present in [[Arithmetic]]
