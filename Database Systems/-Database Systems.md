@@ -1,4 +1,4 @@
-[[Cybersecurity Notes]]
+[[Cybersecurity Class Notes]]
 ### Week 1
 
 - [[Week 1+2 General Info Database Systems]]

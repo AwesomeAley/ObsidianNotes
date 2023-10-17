@@ -1,5 +1,5 @@
 #ComputerOrganizationHub
-[[Cybersecurity Notes]]
+[[Cybersecurity Class Notes]]
 
 Topics discussed in Computer Organization
 [[Unit 1 Computer Organization]]

@@ -1,5 +1,5 @@
 
-Depository for [[Cybersecurity Notes]] : Unix notes
+Depository for [[Cybersecurity Class Notes]] : Unix notes
 
 Base Linux/Unix Notes
 - [[Linux Commands]]
