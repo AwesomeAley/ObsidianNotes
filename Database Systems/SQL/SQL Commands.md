@@ -1,4 +1,4 @@
-Commands used in [[Basic SQL]]. Commands for [[SQL Database Navigation]] also exist for navigation of SQL tables. [[Functions]] also exist for use in querying SQL tables.
+Commands used in [[Basic SQL]]. Commands for [[SQL Database Navigation]] also exist for navigation of SQL tables. [[~GIT/Database Systems/SQL/Functions]] also exist for use in querying SQL tables.
 
 ### Database Creation and Manipulation
 
