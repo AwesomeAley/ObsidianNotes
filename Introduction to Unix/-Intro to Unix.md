@@ -6,3 +6,5 @@ Base Linux/Unix Notes
 	Child files include "Linux File Creation and Manipulation" and "Text Streams and Redirection"
 - [[Unix History]]
 - [[Processes]] 
+- [[Hardware Configuration]]
+
