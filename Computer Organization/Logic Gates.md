@@ -12,7 +12,6 @@ Furthermore, [[Combinational Logic Circuits]]
 
 
 
-
 #### The AND Gate
 
 Boolean Algebra
