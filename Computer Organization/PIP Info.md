@@ -38,3 +38,8 @@ Pip-1 Microinstruction Sequencer
 - No data is transferred unless a clock pulse arrives!
 - Clock pulse must arrive AFTER control signals
 	- Microinstruction sequencer delays clock pules to its control section by part of a clock cycle
+
+Control Words
+Each combination of input signals that can be applied to the 3 registers is a 'control word' You can make a truth table using each combination
+For the three register: A, B, and C with the inputs depicted in the previous diagram: write, clock, read
+Transfer data between register via a *shared* bus
