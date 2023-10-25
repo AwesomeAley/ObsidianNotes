@@ -31,3 +31,10 @@ Pip 8 Instruction Set
 
 Bus information for the PIP instructional computer [[Pip Buses]]
 
+Pip-1 Microinstruction Sequencer
+- When W is 1, data on bus is written to register
+- When R is 1, register data read onto bus
+- Source vs. destination
+- No data is transferred unless a clock pulse arrives!
+- Clock pulse must arrive AFTER control signals
+	- Microinstruction sequencer delays clock pules to its control section by part of a clock cycle
