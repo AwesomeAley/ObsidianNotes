@@ -29,4 +29,5 @@ Pip 8 Instruction Set
 | NOP | No operation              |
 | HLT | Halt                      |
 
+Bus information for the PIP instructional computer [[Pip Buses]]
 
