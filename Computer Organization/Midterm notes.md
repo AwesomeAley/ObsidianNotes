@@ -33,11 +33,3 @@ Fetch, Decode, Execute cycle:
 	- Repeat cycle...
 The computer is a giant state-machine with a clock
 
-The PIP-1 is a hypothetical or instructional computer
-- Bus-orientated
-	Address/Data bus: bi --directional
-		Binary address sent from input down to memory
-		binary word sent from memory up to control
-	Control bus: uni-directional
-		carry micro code from control to other sections
-	Power supply bus: not shown in diagrams
