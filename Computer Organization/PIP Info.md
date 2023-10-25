@@ -43,3 +43,16 @@ Control Words
 Each combination of input signals that can be applied to the 3 registers is a 'control word' You can make a truth table using each combination
 For the three register: A, B, and C with the inputs depicted in the previous diagram: write, clock, read
 Transfer data between register via a *shared* bus
+
+#### Pip-1 Registers
+MAR - Memory Address Register
+- points to memory location in PROM
+IR - Instruction Register
+- Instruction to be decoded and executed
+A Register (The Accumulator)
+- Accumulator for arithmetic
+B Register
+- Working register
+C Register (Output)
+- Illuminates LED lamps on front panel
+Registers are strings of flip flops! Static RAM
