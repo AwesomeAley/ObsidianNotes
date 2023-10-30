@@ -7,3 +7,11 @@ TRI-STATE gate: 3 states with **enable input**
 Adding an enable input to a gate produces 3rd logic gate
 - enable at 0, gate electronically disconnected from output
 - 3rd state: floating (high-impedance state)
+
+### BUFFER (Truth) Gate
+
+![[Pasted image 20231030102021.png]]
+
+### Tri-State Gate
+
+![[Pasted image 20231030102059.png]]
