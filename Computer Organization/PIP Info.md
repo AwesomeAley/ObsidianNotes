@@ -29,6 +29,7 @@ Pip 8 Instruction Set
 | NOP | No operation              |
 | HLT | Halt                      |
 
+#### Buses
 Bus information for the PIP instructional computer [[Pip Buses]]
 
 Pip-1 Microinstruction Sequencer
