@@ -32,7 +32,7 @@ Pip 8 Instruction Set
 #### Buses
 Bus information for the PIP instructional computer [[Pip Buses]]
 
-Pip-1 Microinstruction Sequencer
+### Pip-1 Microinstruction Sequencer
 - When W is 1, data on bus is written to register
 - When R is 1, register data read onto bus
 - Source vs. destination
@@ -57,3 +57,4 @@ B Register
 C Register (Output)
 - Illuminates LED lamps on front panel
 Registers are strings of flip flops! Static RAM
+
