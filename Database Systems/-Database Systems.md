@@ -1,5 +1,4 @@
 [[Cybersecurity Class Notes]]
-### Week 1
 
 - [[Week 1+2 General Info Database Systems]]
 Plus information on:
@@ -11,7 +10,6 @@ Plus information on:
 **SQL**
 - [[Basic SQL]]
 
-**File Storage**
-- [[Calculating Hard Drive Performance]]
+- [[File Storage and Organization]]
 
 

@@ -1,0 +1,1 @@
+RAID (Redundant Array of Independent Disks) uses *striping* which is the splitting of data across multiple disks. RAID may also use *mirroring* where identical data is stored on multiple disks. Also uses *parity bits* which is a mathematical check on the data used to check whether data has been written or read correctly. 
