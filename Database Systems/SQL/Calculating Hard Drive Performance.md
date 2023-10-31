@@ -7,8 +7,9 @@
 
 Suppose I have a 250 GB hard disk that spins at 7200 rpm.  It has 1024 cylinders and 4platters. The worst case seek time is 0.1 second. If the head is currently sitting on platter 1, track 1, sector 1, how long will it take to move to platter 1, track 512, sector60000?
 
-**Seek Time**
+**Solution - Seek Time**
 Reminder: seek time is the time it takes for read/write head to beover right track
-
   
-Problem: 250 GB hard disk that spins at 7200 rpm.• It has 1024 cylinders and worst case seek time is 0.1 second.• Head is currently sitting on platter 1, track 1 and need to moveto platter 1, track 512• Seek time: 0.1 seconds / 2 = 0.05
+Problem: 250 GB hard disk that spins at 7200 rpm.• It has 1024 cylinders and worst case seek time is 0.1 second.• Head is currently sitting on platter 1, track 1 and need to move to platter 1, track 512• Seek time: 0.1 seconds / 2 = 0.05
+
+**Solution - Latency**
