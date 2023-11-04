@@ -1,4 +1,4 @@
-*[[Cybersecurity Class Notes]]*
+*[[~Cybersecurity Class Notes]]*
 
 ### Week 1
 
