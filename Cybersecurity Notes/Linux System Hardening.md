@@ -7,3 +7,10 @@ The following checklist details steps to harden systems running Linux based oper
 
 ## Preparation and Installation
 #### Set a BIOS/firmware password
+
+#### Update Systems
+	apt update
+
+#### Install Yum Security Plugin
+	yum install yum-security
+
