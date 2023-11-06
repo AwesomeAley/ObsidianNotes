@@ -74,3 +74,11 @@ Registers are strings of flip flops! Static RAM
 	- program counter is a string of flip flops
 - Control is micro-sequencer and logic to orchestrate timing and sequences of micro-code in ROM
 	- control is timer, micro-code in ROM, and logic
+
+PROM VS ROM
+- PROM is 'programable' It is the machine language program input on the front panel switch
+- 
+- PROM contains 4 to 16 line decoders (few to many)
+- MAR is a 4 bit register that selects any of the 16 bytes stored in PROM
+- Press START BUTTON: Program counter is reset to address 0000 (cold start)
+- Release START BUTTON: Program Counter sends 0000 to MAR (when MAR/W is logical 1). When PROM/R receives logical 1 from CONTROL, bye select by MAR is written onto A/D bus (byte could be instruction of data)... then read into any section of PIP-1 as specified by control.
