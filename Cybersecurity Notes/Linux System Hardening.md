@@ -19,3 +19,8 @@ The following checklist details steps to harden systems running Linux based oper
 ###### List updates that are security relevant
 	yum --security check-update
 
+###### To apply updates that are security relevant
+	yum --security update
+
+
+#### Set a BIOS/firmware password
