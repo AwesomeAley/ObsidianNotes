@@ -1,3 +1,5 @@
+
+##### COPPA
 **COPPA** - Children's Online Privacy Protection Act
 - Governs how websites collect information from children under the age of 13
 - definitions of COPPA
