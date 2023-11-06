@@ -40,7 +40,7 @@ Bus information for the PIP instructional computer [[Pip Buses]]
 - Clock pulse must arrive AFTER control signals
 	- Microinstruction sequencer delays clock pules to its control section by part of a clock cycle
 
-Control Words
+#### Control Words
 Each combination of input signals that can be applied to the 3 registers is a 'control word' You can make a truth table using each combination
 For the three register: A, B, and C with the inputs depicted in the previous diagram: write, clock, read
 Transfer data between register via a *shared* bus
@@ -67,3 +67,10 @@ Registers are strings of flip flops! Static RAM
 	- Busy lamp
 - Input/output is switches and lamps
 
+#### Control
+- PROM hold the machine language program (Instruction and Data)
+	- PROM is an array of diodes connected to physical switches (can be re-programmed by user)
+- Program Counter is a 4-bit binary counter - location in memory of current instruction
+	- program counter is a string of flip flops
+- Control is micro-sequencer and logic to orchestrate timing and sequences of micro-code in ROM
+	- control is timer, micro-code in ROM, and logic
