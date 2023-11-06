@@ -58,3 +58,12 @@ C Register (Output)
 - Illuminates LED lamps on front panel
 Registers are strings of flip flops! Static RAM
 
+#### PIP-1 Input/Output
+- Input is front panel switches
+	- 16 x 8 switches for new machine language program (PROM)
+	- START/STOP switches
+- Output is front panel LED lights
+	- C register - 8 lamps
+	- Busy lamp
+- Input/output is switches and lamps
+
