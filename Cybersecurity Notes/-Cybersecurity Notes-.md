@@ -4,4 +4,5 @@
 - [[C-Suite Info]]
 - [[Incident Response Notes]]
 
-Also includes notes taken in [[~Cybersecurity Class Notes]]
+Also includes class notes taken in [[~Cybersecurity Class Notes]]
+[[-Important Links-]] filled with information
