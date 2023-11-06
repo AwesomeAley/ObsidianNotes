@@ -6,4 +6,4 @@ The following checklist details steps to harden systems running Linux based oper
 
 
 ## Preparation and Installation
-####
+#### Set a BIOS/firmware password
