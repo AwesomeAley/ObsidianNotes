@@ -20,3 +20,5 @@ including
 Compliance standards for [[Finance Related Regulations and Standards]]
 including:
 - SOX
+- GLBA
+- SEC rule 30
