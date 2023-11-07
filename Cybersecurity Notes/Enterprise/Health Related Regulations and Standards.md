@@ -1,4 +1,4 @@
-##### HIPAA
+##### HIPAA  
 Health Insurance Portability and Accountability Act
 
 1. **Portability**: It aims to ensure that individuals can maintain their health insurance coverage when they change jobs or if they have pre-existing medical conditions. This aspect of HIPAA allows for the continuity of health insurance coverage.
