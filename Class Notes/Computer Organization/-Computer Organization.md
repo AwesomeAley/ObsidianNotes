@@ -11,5 +11,5 @@ Topics discussed in Computer Organization
 - [[Arithmetic and Logic Units]] 
 - [[Memory]]
 - [[Serial and Parallel Addition]]
-- [[PIP Info]]
+- [[PIP-1 Info]]
 Arithmetic Uses in Computer Organization is present in [[Arithmetic]]
