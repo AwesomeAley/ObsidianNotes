@@ -12,3 +12,5 @@ Telephone and teletype networks used **circuit switching**, in which a closed-lo
 - if the circuit is broken at any point, the whole connection fails.
 The development of **packet switching** enabled the next leap in long-distance digital communication.
 - messages are digitized and chopped up into a series of packets; each packet has a header with information about which connection it is a part of.
+- The same physical wires can be used for many logical connections; routers and switches examine packets to route them to their destination
+Much more robust, because losing individual packets doesn't terminate the connection and packets can use multiple routes to get to their destination routing around congestion and failures. This method was also implemented for telephone communication.
