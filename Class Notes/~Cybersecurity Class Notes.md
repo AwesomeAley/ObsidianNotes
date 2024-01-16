@@ -10,7 +10,7 @@ A glossary containing links to all note depositories for Cybersecurity classes
 - [[Discrete Mathematics]]
 - [[Arithmetic]]
 
-- [[Cloud Computing and Virtualization]]
+- [[-Cloud Computing and Virtualization]]
 - [[Encryption]]
 - [[Penetration Testing]]
 - [[Wireless Security]]
