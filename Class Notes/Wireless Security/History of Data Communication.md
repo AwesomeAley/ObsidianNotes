@@ -35,7 +35,7 @@ In the 80s, computing became personal, in the 90s and 00s, with the rise of the 
 - early laptops were considered devices for working "offline"
 - however the rise of the internet soon created demand for connectivity everywhere
 
-The use of two way radios to encode and transmit data over short distances was already understood; what was needed was protocols to establish wireless LANs, taking advatnage of an upstream wired internet connection
+The use of two way radios to encode and transmit data over short distances was already understood; what was needed was protocols to establish wireless LANs, taking advantage of an upstream wired internet connection
 The IEEE led a standardization process for protocols designed to interoperate with the Ethernet 802 series of standards
 
 #### The Mobile Telephony and Data Revolutions
@@ -43,3 +43,5 @@ IN the early 1980s, the first analog mobile phone system, called Advanced Mobile
 
 The system is also essentially based on short-range two-way radio communication, but designed from the beginning for roaming between multiple base stations. (towers)
 
+The growth of cellular telephones drove advances in radio data transmission technology.
+The first attempts to provide data communication over cellular network were slow and unreliable. But with the advent of 3G, it became practical to connect to the internet over the cellular network.
