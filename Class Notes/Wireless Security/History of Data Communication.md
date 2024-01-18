@@ -31,3 +31,6 @@ Italian inventory Guglielmo Marconi successfully sent the first radio transmissi
 
 Soon modulation techniques were developed to encode sound directly in the signal, and powerful transmitters enabled radio broadcasting into people's homes.
 
+In the 80s, computing became personal, in the 90s and 00s, with the rise of the laptop form factor: it became mobile
+- early laptops were considered devices for working "offline"
+- however the rise of the internet soon created demand for connectivity everywhere
