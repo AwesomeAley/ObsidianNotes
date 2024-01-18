@@ -20,4 +20,11 @@ The U.S. government's Advanced Research Projects Agency (ARPA) became involved i
 
 The ARPANET (est. 1969) was the precursor to the internet, the first public packet-switched data network; further packet switching research led to the development of the TCP/IP protocols
 
+Multiple factors contributed to the explosion of participation in the internet starting around 1994:
+- personal computers becoming powerful enough to multi-task and present multimedia content
+- the emergence of the world-wide web from http and html, and browsers as a user-friendly interface to online data.
 
+#### The Birth of Wireless
+The discovery of electromagnetic waves (James Clerk Maxwell) experimentally verified by Heinrich Hertz) led to the idea that they could be used to transmit information invisibly through the air
+
+Italian inventory Guglielmo Marconi successfully sent the first radio transmission (a morse code message) in 1895.
