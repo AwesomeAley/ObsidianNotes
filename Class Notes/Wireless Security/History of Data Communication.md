@@ -34,3 +34,8 @@ Soon modulation techniques were developed to encode sound directly in the signal
 In the 80s, computing became personal, in the 90s and 00s, with the rise of the laptop form factor: it became mobile
 - early laptops were considered devices for working "offline"
 - however the rise of the internet soon created demand for connectivity everywhere
+
+The use of two way radios to encode and transmit data over short distances was already understood; what was needed was protocols to establish wireless LANs, taking advatnage of an upstream wired internet connection
+The IEEE led a standardization process for protocols designed to interoperate with the Ethernet 802 series of standards
+
+#### WI-FI Adoption
