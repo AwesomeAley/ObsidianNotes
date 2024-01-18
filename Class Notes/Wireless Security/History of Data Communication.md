@@ -38,3 +38,8 @@ In the 80s, computing became personal, in the 90s and 00s, with the rise of the 
 The use of two way radios to encode and transmit data over short distances was already understood; what was needed was protocols to establish wireless LANs, taking advatnage of an upstream wired internet connection
 The IEEE led a standardization process for protocols designed to interoperate with the Ethernet 802 series of standards
 
+#### The Mobile Telephony and Data Revolutions
+IN the early 1980s, the first analog mobile phone system, called Advanced Mobile Phone System (AMPS), became commercially available, soon replaced by the CDMA standard in the US and GSM in Europe.
+
+The system is also essentially based on short-range two-way radio communication, but designed from the beginning for roaming between multiple base stations. (towers)
+
