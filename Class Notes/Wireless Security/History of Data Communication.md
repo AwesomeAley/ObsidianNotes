@@ -28,3 +28,6 @@ Multiple factors contributed to the explosion of participation in the internet s
 The discovery of electromagnetic waves (James Clerk Maxwell) experimentally verified by Heinrich Hertz) led to the idea that they could be used to transmit information invisibly through the air
 
 Italian inventory Guglielmo Marconi successfully sent the first radio transmission (a morse code message) in 1895.
+
+Soon modulation techniques were developed to encode sound directly in the signal, and powerful transmitters enabled radio broadcasting into people's homes.
+
