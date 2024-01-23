@@ -4,6 +4,6 @@ The 7-layer model was standardized to have a consistent way to talk about those 
 Code that implements protocols for each layer typically only communicates with the layers directly above and below.
 
 ![[Pasted image 20240118114839.png]]
-### [[Layers 3 and Above]]
+### [[Layer 3 Network]]
 Incudes, the network layer, data link layer, and physical layer. 
-Network Layer involved [[Local Area Networks]]
+Network Layer involved [[Layer 4 Transport]]
