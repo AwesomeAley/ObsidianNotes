@@ -10,6 +10,6 @@ Ethernet interface devices are identified by a 48-bit MAC address. These are wri
 
 Unlike IP addresses, there are uniquely assigned to each hardware device by the manufacturer (though they can be spoofed).
 
-The unit of transmission for the Ethernet is called the *Frame*, and unlike IP packets it has both a header and a footer.
+The unit of transmission for the Ethernet is called the *Frame*, and unlike IP packets it has both a header and a footer. 
 
 ![[Pasted image 20240123114345.png]]
