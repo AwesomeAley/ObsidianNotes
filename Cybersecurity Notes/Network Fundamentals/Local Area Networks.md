@@ -21,3 +21,4 @@ Addresses are written as 8 fields of 4 hexadecimal digits:
 
 Many IPv6 addresses have several groups of zeroes, and these can be abbreviated by a double :: 
 
+Though all major operating systems now support IPv6, its adoption for the internet at large has been delayed seemingly indefinitely. Some people say NAT and DHCP are good enough as workarounds, but others disagree.
