@@ -11,3 +11,4 @@ Higher layer sessions should remain active such as logging into your banking app
 **Main Idea**: Don't use lower-layer data to identify application-layer sessions,
 - use cookies not IP addresses
 - re-establish a TCP connection with the same upper-layer session data
+
