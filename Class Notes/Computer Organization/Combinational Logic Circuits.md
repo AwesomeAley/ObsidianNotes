@@ -1,4 +1,4 @@
-Types of combinational [[Logic Gates]]
+Types of combinational [[Logic Gates Bitwise Operators]]
 Sequential logic can be performed using [[Flip Flops]]
 
 **Parity Checker**

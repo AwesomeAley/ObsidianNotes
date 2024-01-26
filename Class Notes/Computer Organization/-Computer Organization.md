@@ -3,7 +3,7 @@
 
 Topics discussed in Computer Organization
 [[Unit 1 Computer Organization]]
-- [[Logic Gates]]
+- [[Logic Gates Bitwise Operators]]
 	- [[Combinational Logic Circuits]]
 - [[Boolean Algebra]] 
 - [[De Morgen's Theorem]]
