@@ -13,3 +13,34 @@ Consumer microwave ovens use RF emissions at a frequency of 2.45 Ghz but a typic
 AM radio towers may transmit with power of up to 50,000 watts
 
 **Phase** is a measure of how much the peaks of two waves at the same frequency are in or out of alignment. Measured in degrees between 0 (fully in phase) and 180 (fully out of phase).
+
+#### Propagation and Attenuation
+How RF waves *propagate*, or spread out from their point of transmission, is crucial to the quality of signal received and how quickly and reliably data can be transmitted.
+
+Weakening or loss of a signal is called *Attenuation*
+
+Attenuation happens naturally over increased distance, as the wave spreads out and less of its strength can be picked up at any one point.
+Attenuation is also affected by the physical environment; physical materials absorb and deflect wave's energy. Denser materials cause more attenuation, and conductive materials case more interference than non-conductive.
+
+#### Phenomena that Affects Propagation
+**Absorption** 
+- A material may absorb a portion of a signal
+- Drywall will weaken a 2.4GHz Wi-Fi signal to half of its original power
+- A brick wall will weaken it 1/16 of its original power
+**Reflection**
+- A wave may bounce off an object in a different direction
+- metal objects obviously reflect; glass and concrete can as well
+- Reflection is a major cause of Wi-Fi performance degradation; reflected waves can interfere with each other, causing attenuation or corruption.
+**Scattering**
+- Scattering is best described as multiple reflections in multiple directions
+**Refraction**
+Passing through mediums of different density can cause RF signals to be bent so that its travel continues at a different angle
+
+### Measuring Attenuation in dB
+The power of Wi-Fi signals at the reception point is measured as loss or attenuation from the transmitted signal: a *relative* not absolute measure
+
+Measured in *decibels* (dB), which are a base-10 logarithmic scale
+- specially for receivers, measured in dBm, or decibel-milliwatts, for EM applications
+  - Remember, logarithm of a fraction is a negative number: all signal strength values will  be negative
+  - Every -10 dB represents a reduction of the absolute power in mW by 1/10
+  Example: A signal of -30 dBm is what fraction of the original power: 1/1000
