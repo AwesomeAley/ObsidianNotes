@@ -47,3 +47,4 @@ Measured in *decibels* (dB), which are a base-10 logarithmic scale
 
 ### Antennas 
 Antennas are essential for both sending and receiving wireless signals. AN antenna acts as a receiver when the electromagnetic waves of the RF signal induce an electrical current in the antenna which is then measured. Any piece of metal can be used as an antenna. An omnidirectional Wi-Fi antenna radiates 360 degrees on the horizontal plane and between 7 and 80 degrees on the vertical plane (assuming the antenna is positioned vertically). You should have multiple angles.
+**Gain** is the measure of how much an antenna concentrates or directs a signal.
