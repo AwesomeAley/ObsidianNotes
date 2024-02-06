@@ -44,3 +44,6 @@ Measured in *decibels* (dB), which are a base-10 logarithmic scale
   - Remember, logarithm of a fraction is a negative number: all signal strength values will  be negative
   - Every -10 dB represents a reduction of the absolute power in mW by 1/10
   Example: A signal of -30 dBm is what fraction of the original power: 1/1000
+
+### Antennas 
+Antennas are essential for both sending and receiving wireless signals. AN antenna acts as a receiver when the electromagnetic waves of the RF signal induce an electrical current in the antenna which is then measured. Any piece of metal can be used as an antenna. 
