@@ -24,4 +24,8 @@ Enables configuration of seamless roaming, where a client station can roam from 
 
 ## Independent Basic Service Set (IBSS)
 No access point is needed; client stations form peer-to-peer relationships with other client stations.
-CLient devices must be configured in ad-hoc mode (not infrastructure mode)
+Client devices must be configured in ad-hoc mode (not infrastructure mode)
+
+## Mesh Basic Service Set (MBSS)
+Used to provide coverage over a larger area without connecting every AP to the wired distribution source
+Mesh points may communicate with each other on a different network than they provide to clients
