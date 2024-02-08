@@ -23,3 +23,5 @@ Used in larger networks to connect multiple access point to an Ethernet LAN, wit
 Enables configuration of seamless roaming, where a client station can roam from the service area of one access point into the service area of another access point without disrupting the connection.
 
 ## Independent Basic Service Set (IBSS)
+No access point is needed; client stations form peer-to-peer relationships with other client stations.
+CLient devices must be configured in ad-hoc mode (not infrastructure mode)
