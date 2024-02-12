@@ -11,7 +11,7 @@ A glossary containing links to all note depositories for Cybersecurity classes
 - [[Arithmetic]]
 
 - [[-Cloud Computing and Virtualization]]
-- [[~GIT/Class Notes/Encryption/Encryption]]
+- [[Encryption]]
 - [[-Penetration Testing]]
 - [[-Wireless Security]]
 
