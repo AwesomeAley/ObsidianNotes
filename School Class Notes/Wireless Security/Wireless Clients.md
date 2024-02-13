@@ -31,4 +31,10 @@ Besides open authentication, shared-key authentication was sometimes used in con
 ### Disassociation and Deauthentication
 Either a client or AP may send a disassociation frame to terminate the association. It is the polite wat to leave a WLAN. It is a notification, not a request; cannot be refused by any party (unless the frame's integrity check fails).
 
-Deauthentication frames automatically cause disassociation as well, since authentication is required for association. Deauthentication frames are commonly sent by APs to kick off devices.
+Deauthentication frames automatically cause disassociation as well, since authentication is required for association. Deauthentication frames are commonly sent by APs to kick off devices. These frames can also be sent by malicious parties are part of an attack. 
+
+Integration with the wired Layer 2 network
+To forward WI=FI frames onto a wired network, the AP must reframe the 802.11 frames as 802.3 Ethernet frames. This technology is called **integration Service (IS)**
+Removes the 802.11 frame header and footer, then adds 802.3 header and footer to the frame body.
+Management and control frames are purely for the MAC sublayer and have no need to be translated by the integration service.
+
