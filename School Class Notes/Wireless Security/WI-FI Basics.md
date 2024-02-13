@@ -2,6 +2,7 @@
 [[2.4 GHz Channels]]
 [[5GHz WI-FI Channels]]
 [[802.11 Standards]]
+[[WI-FI Frames]]
 
 Remember that the primary goal of WI-FI is to create a local area network (WLAN). Connection to the internet is by means of an "upstream" wired connection, known as the distribution network.
 

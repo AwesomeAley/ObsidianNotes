@@ -18,3 +18,6 @@ For this reason it is called "open" authentication.
 2. The client sends an authentication request frame with a sequence number 1 to an AP, setting the authentication to open
 3. The AP responds with an authentication response frame with sequence number 2, also set to open
 
+### Part 2: Association
+1. Client sends an association request frame to the AP. The request contains chosen encrpytion tpyses if required.
+2. 
