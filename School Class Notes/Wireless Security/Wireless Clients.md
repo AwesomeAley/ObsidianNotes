@@ -19,5 +19,16 @@ For this reason it is called "open" authentication.
 3. The AP responds with an authentication response frame with sequence number 2, also set to open
 
 ### Part 2: Association
-1. Client sends an association request frame to the AP. The request contains chosen encrpytion tpyses if required.
-2. 
+1. Client sends an association request frame to the AP. The request contains chosen encryption types if required.
+
+
+
+Notes on Authentication and Association
+A client can actually be *authenticated* to multiple APs at the same time, though not associated. This can speed up the association process when moving between APs.
+
+Besides open authentication, shared-key authentication was sometimes used in conjunction with WEP security.
+
+### Disassociation and Deauthentication
+Either a client or AP may send a disassociation frame to terminate the association. It is the polite wat to leave a WLAN. It is a notification, not a request; cannot be refused by any party (unless the frame's integrity check fails).
+
+Deauthentication frames automatically cause disassociation as well, since authentication is required for association. Deauthentication frames are commonly sent by APs to kick off devices.
