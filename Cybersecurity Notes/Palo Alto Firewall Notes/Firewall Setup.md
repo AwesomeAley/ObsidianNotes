@@ -18,3 +18,6 @@ Download and Install new updates
 ![[Pasted image 20240215125940.png]]
 a schedule for routine updates can be set
 
+### Update Software
+![[Pasted image 20240215130416.png]]
+reboot post installation
