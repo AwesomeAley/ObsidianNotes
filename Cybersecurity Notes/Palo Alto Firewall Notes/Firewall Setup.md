@@ -23,5 +23,3 @@ a schedule for routine updates can be set
 reboot post installation
 
 
-# [[Firewall Security Profiles]]
-Security Policy is top to bottom in terms of priority

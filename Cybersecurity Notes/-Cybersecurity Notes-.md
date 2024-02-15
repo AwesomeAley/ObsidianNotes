@@ -6,6 +6,7 @@
 - [[Incident Response Notes]]
 - [[-Network Fundamentals]]
 - [[Security Basics]] 
+- [[-Palo Alto Firewall Notes]]
 ### Personal Notes
 - [[Home Lab Creation]]
 
