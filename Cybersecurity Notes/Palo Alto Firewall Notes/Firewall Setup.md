@@ -12,6 +12,9 @@ device > licenses
 ![[Pasted image 20240215125740.png]]
 
 ### Dynamic Updates
-device > dynamic updates
+device > dynamic updates > antivirus
+device > dynamic updates > applications and threats
 Download and Install new updates 
 ![[Pasted image 20240215125940.png]]
+a schedule for routine updates can be set
+
