@@ -11,3 +11,7 @@ Click `add` to specify authorized ip addresses
 ### Restrict Administrative Services
 Only HTTPS and SSH should be enabled
 ![[Pasted image 20240215113951.png]]
+
+### Edit Administrator Accounts/ Change Passwords
+![[Pasted image 20240215124219.png]]
+
