@@ -3,4 +3,5 @@ The `ps` command is used when you want to view information about processes run
 The `ps` command can be used without any options to list processes that belong to the current user and are associated with the terminal where the command is run.
 
 **Parameters:**
--A
+`-a` display information on all processes running on the system
+`-f` display additional information on processes
