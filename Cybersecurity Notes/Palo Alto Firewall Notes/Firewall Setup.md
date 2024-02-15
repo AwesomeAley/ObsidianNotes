@@ -27,3 +27,9 @@ reboot post installation
 
 ### Add basic default firewall policy
 ![[Pasted image 20240215134655.png]]
+
+set source as trusted and destination as untrusted (external)
+![[Pasted image 20240215134950.png]]
+
+set profile settings to default
+![[Pasted image 20240215135038.png]]
