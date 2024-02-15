@@ -5,7 +5,7 @@ The `ps` command can be used without any options to list processes that belong
 **Parameters (flags):**
 `-A` display information on all processes running on the system
 `-a` displays processes from all users
-`i`
+`-u` includes user-orientated information such as cpu/memory usage
 `-f` display additional information on processes
 
 The trick is to pipe the command into grep to look for specific processes
