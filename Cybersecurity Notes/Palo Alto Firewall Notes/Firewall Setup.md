@@ -25,3 +25,5 @@ a schedule for routine updates can be set
 reboot post installation
 
 
+### Add basic default firewall policy
+![[Pasted image 20240215134655.png]]
