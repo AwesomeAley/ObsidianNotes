@@ -24,3 +24,4 @@ reboot post installation
 
 
 # [[Firewall Security Profiles]]
+Security Policy is top to bottom in terms of priority
