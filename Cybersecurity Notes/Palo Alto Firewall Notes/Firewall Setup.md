@@ -21,3 +21,6 @@ a schedule for routine updates can be set
 ### Update Software
 ![[Pasted image 20240215130416.png]]
 reboot post installation
+
+
+# [[Firewall Security Profiles]]
