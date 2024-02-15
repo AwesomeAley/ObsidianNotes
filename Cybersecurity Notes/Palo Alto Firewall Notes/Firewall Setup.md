@@ -26,6 +26,7 @@ reboot post installation
 
 
 ### Add basic default firewall policy
+add basic firewall policy with default security profiles to secure outbound connections to some degree before more specific policies are made
 ![[Pasted image 20240215134655.png]]
 
 set source as trusted and destination as untrusted (external)
