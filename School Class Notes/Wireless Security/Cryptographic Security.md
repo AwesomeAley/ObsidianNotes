@@ -20,3 +20,4 @@ Server issues a challenge message, generated uniquely at random. Client uses the
 
 ### WEP Keying
 The static, shared key used on a WEP network (what you type in to connect) is 40 bits or 104 bits in length.
+Shared key authentication proves that you know the shared key, then the key is used to encrypt individual frames is derived form the shared key.
