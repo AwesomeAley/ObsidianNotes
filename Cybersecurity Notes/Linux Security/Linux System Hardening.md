@@ -24,3 +24,20 @@ The following checklist details steps to harden systems running Linux based oper
 
 
 #### Set a BIOS/firmware password
+
+
+
+### Check IP Tables
+[[IP Tables]] guide
+
+### Check Sudoers
+visudo
+### Check Users
+/etc/passwd
+
+### Check user files
+
+### Check open/listening ports
+
+### Check running processes
+
