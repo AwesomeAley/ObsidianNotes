@@ -1,2 +1,0 @@
-5 GHz WI-FI uses a selection of frequency ranges from the U-NII (Unlicensed National Information Infrastructure) bands defined by the FCC.
-Base channels width of 20MHz, but channel bonding can be used to create wider channels up to 160 MHz. WI-FI 6 has expanded into the U-NII-4 channels at 5.9 GHz. Notice the channel number ranging from 36 to 177.
