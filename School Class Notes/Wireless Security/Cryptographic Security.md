@@ -10,6 +10,6 @@
 - Ensuring that wireless frames cannot be modified or forged without detection
 - achieved by message integrity protocols
 
-### Wired Equivalent Protocol
+### Wired Equivalent Protocol (WEP)
 Authentication and encryption method introduced with the original 802.11 standard. This is not intended to be perfectly secure, but as secure as the wired ethernet equivalent.  Significant weaknesses found early on.
 
