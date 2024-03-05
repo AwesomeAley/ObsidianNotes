@@ -2,6 +2,10 @@ A list of commands used in the CLI of Linux/Unix
 Commands below are general commands, but commands to know also include
 Commands for [[Linux File Creation and Manipulation]]
 
+``` ascii
+tag of "&" will make a program run in the background
+```
+
 cd - change directory
 ls - list contents in directory
 	-a/--all : lists all files in directory
