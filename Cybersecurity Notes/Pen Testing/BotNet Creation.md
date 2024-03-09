@@ -1,4 +1,4 @@
-First create a server script utilizing the Python sockets library
+First create a server script utilizing the [[Python Sockets Library]]
 
 ``` python
 #!/usr/bin/python3
