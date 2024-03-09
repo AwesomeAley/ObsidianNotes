@@ -127,7 +127,7 @@ print("botted_hosts.txt written")
 
 ### CandC.py Script
 lastly this script sends commands to all compromised devices provided. This script takes the path to a text file containing compromised device information as the first argument. The file is to be formatted as follows:
-` `
+` <victim ip> \n`
 
 
 ```python
