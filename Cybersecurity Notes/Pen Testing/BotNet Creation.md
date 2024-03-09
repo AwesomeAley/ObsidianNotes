@@ -1,4 +1,4 @@
-First create a server script utilizing psocket
+First create a server script utilizing the Python sockets library
 
 ``` python
 #!/usr/bin/python3
