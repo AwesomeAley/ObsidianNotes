@@ -1,4 +1,4 @@
-First create a server script utilizing the [[Python Sockets Library]]
+First create a server script utilizing the [[Python Sockets Library]] to run on victim clients that will keep an open listening port. (In this case 8081)
 
 ``` python
 #!/usr/bin/python3

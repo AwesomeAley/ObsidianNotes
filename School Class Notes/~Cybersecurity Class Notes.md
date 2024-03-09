@@ -12,7 +12,7 @@ A glossary containing links to all note depositories for Cybersecurity classes
 
 - [[-Cloud Computing and Virtualization]]
 - [[Encryption]]
-- [[-Penetration Testing]]
+- [[~GIT/School Class Notes/Penetration Testing/-Penetration Testing]]
 - [[-Wireless Security]]
 
 
