@@ -1,4 +1,4 @@
-Execute the netstat command alone to show a relatively simple list of all active tcp connections which, for each one, will show the local Ip Address (your computer), the foreign IP address (the other computer or network device), along with their respective port numbers, as well as the TCP state.
+Execute the netstat command alone to show a relatively simple list of all active tcp connections for the device which, for each one, will show the local Ip Address (your computer), the foreign IP address (the other computer or network device), along with their respective port numbers, as well as the TCP state.
 
 `netstat -nalp`
 
