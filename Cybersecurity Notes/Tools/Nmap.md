@@ -5,5 +5,6 @@ https://nmap.org/book/man.html
 `nmap <range of hosts (10.0.0.0-255)>
 
 #### Flags
-`-sP` = skip port scan (used for scanning for listening addresses)
-`-A `= all
+`-sP`= skip port scan (used for scanning for listening addresses)
+`-A `= enable OS and version detection, scriptscanning, traceroute
+`-T4`= for faster execution
