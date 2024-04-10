@@ -8,6 +8,7 @@
 - [[-Network Fundamentals]]
 - [[Security Basics]] 
 - [[-Palo Alto Firewall Notes]]
+- [[-Scripts-]]
 ### Personal Notes
 - [[Home Lab Creation]]
 
