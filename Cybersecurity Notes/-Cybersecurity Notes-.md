@@ -2,13 +2,11 @@
 - [[-Tools]]
 - [[Linux System Hardening]]
 - [[Virtual Machines]]
-- [[Digital Forensics]]
-- [[C-Suite]]
 - [[Incident Response Notes]]
 - [[-Network Fundamentals]]
-- [[Security Basics]] 
 - [[-Palo Alto Firewall Notes]]
 - [[-Scripts-]]
+- [[~GIT/Cybersecurity Notes/Pen Testing/-Penetration Testing|-Penetration Testing]]
 ### Personal Notes
 - [[Home Lab Creation]]
 

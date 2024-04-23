@@ -1,1 +1,0 @@
-Information on policy in terms of cybersecurity:
