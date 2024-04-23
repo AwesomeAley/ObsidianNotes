@@ -1,6 +1,7 @@
 - [[-Enterprise-]]
 - [[-Tools]]
 - [[Linux System Hardening]]
+- [[-Windows-]]
 - [[Virtual Machines]]
 - [[Incident Response Notes]]
 - [[-Network Fundamentals]]

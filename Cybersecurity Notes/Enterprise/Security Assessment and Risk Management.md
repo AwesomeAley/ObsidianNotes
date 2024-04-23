@@ -1,5 +1,5 @@
   
-Security assessment and risk management are core practices in cybersecurity. Security assessment involves evaluating an organization's digital infrastructure to uncover vulnerabilities and threats with an [[Infrastructure Evaluation]]. [[Risk Management]] focuses on identifying and mitigating potential security risks. Together, they form a proactive strategy to protect against cyber threats and safeguard sensitive information. In a constantly evolving digital landscape, these practices are crucial for maintaining a robust security posture.
+Security assessment and risk management are core practices in cybersecurity. Security assessment involves evaluating an organization's digital infrastructure to uncover vulnerabilities and threats with an [[Infrastructure Evaluation]]. Risk Management focuses on identifying and mitigating potential security risks. Together, they form a proactive strategy to protect against cyber threats and safeguard sensitive information. In a constantly evolving digital landscape, these practices are crucial for maintaining a robust security posture.
 
 Security assessment involves a systematic evaluation of an organization's information systems, networks, and infrastructure to identify vulnerabilities and potential threats. Here are the key steps typically involved in a security assessment:
 

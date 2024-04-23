@@ -1,6 +1,5 @@
 [[Modulation]]
 [[2.4 GHz and 5GHz Channels]]
-[[5GHz WI-FI Channels]]
 [[802.11 Standards]]
 [[WI-FI Frames]]
 
