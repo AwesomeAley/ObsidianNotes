@@ -6,7 +6,7 @@
 110: POP Post Office Protocol
 123: NTP — Network Time Protocol
 143: IMAP Internet Message Access Protocol
-443: HTTPS - HTTP Secure
+443: HTTPS - HTTP Secure (TLS encryption)
 
 
 
