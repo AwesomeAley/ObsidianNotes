@@ -29,4 +29,5 @@ We can then write the command with the variable set accordingly to get the appli
 `**adb shell am start -n jakhar.aseem.diva/.APICreds2Activity -a jakhar.aseem.diva.action.View_CREDS2 --ez check_pin false**`
 ![[Pasted image 20240501182935.png]]
 
-
+# 11 Access Control Issues - Part 3
+![[Pasted image 20240501183245.png]]
