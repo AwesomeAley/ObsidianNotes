@@ -1,5 +1,5 @@
 
-## 7 Input Validation Issues = Part 1
+## 7 Input Validation Issues - Part 1
 This challenge involves SQL injection, as the user input is not sanitized in anyway. Entering `'OR '1' == '1` outputs all the user info for all users.
 
 ![[Screenshot 2024-05-01 174441.png]]
