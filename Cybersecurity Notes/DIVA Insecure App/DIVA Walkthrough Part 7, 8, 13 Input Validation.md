@@ -10,3 +10,8 @@ We remember from earlier challenges that there is an XML file storing user passw
 ![[Pasted image 20240501175912.png]]
 
 
+# 13 Input Validation Issues - Part 3
+![[Pasted image 20240501185615.png]]
+
+Buffer Overflow! Input a shit ton of random characters to crash the app! 
+![[Pasted image 20240501185826.png]]
