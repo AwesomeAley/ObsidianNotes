@@ -31,3 +31,12 @@ We can then write the command with the variable set accordingly to get the appli
 
 # 11 Access Control Issues - Part 3
 ![[Pasted image 20240501183245.png]]
+
+We first find the content provider in NotesProvider.class
+![[Pasted image 20240501183554.png]]
+We see it is stored in the URI "jakhar.aseem.diva.provider.notesprovider", "notes",
+
+So we formulate a command using **am** to access this information.
+`./adb shell content query --uri content://jakhar.aseem.diva.provider.notesprovider/notes/`
+![[Pasted image 20240501183732.png]]
+
