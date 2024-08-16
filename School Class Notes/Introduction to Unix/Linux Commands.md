@@ -10,6 +10,10 @@ tag of "&" will make a program run in the background
 ps - list processes for current user running on the system
 	ps aux - list all processes 
 top - real time statistics on processes
+kill (PID of process) - end a process
+	- SIGTERM - Kill the process, but allow it to do some cleanup tasks beforehand
+- SIGKILL - Kill the process - doesn't do any cleanup after the fact
+- SIGSTOP - Stop/suspend a process
 
 
 **Filesystem Navigation**
