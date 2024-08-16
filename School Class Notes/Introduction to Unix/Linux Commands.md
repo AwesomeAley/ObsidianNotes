@@ -15,6 +15,16 @@ kill (PID of process) - end a process
 - SIGKILL - Kill the process - doesn't do any cleanup after the fact
 - SIGSTOP - Stop/suspend a process
 
+Enter the use of `systemctl` -- this command allows us to interact with the **systemd** process/daemon. Continuing on with our example, systemctl is an easy to use command that takes the following formatting: `systemctl [option] [service]`
+
+For example, to tell apache to start up, we'll use `systemctl start apache2`. Seems simple enough, right? Same with if we wanted to stop apache, we'd just replace the `[option]` with stop (instead of start like we provided)
+
+We can do four options with `systemctl`:
+
+- Start
+- Stop
+- Enable 
+- Disable
 
 **Filesystem Navigation**
 cd - change directory
