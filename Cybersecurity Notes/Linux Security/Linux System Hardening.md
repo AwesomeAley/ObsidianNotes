@@ -3,7 +3,7 @@
 information gathering for this starts here
 https://security.utexas.edu/os-hardening-checklist/linux-7#1
 
-The following checklist details steps to harden systems running Linux based operating systems.  [[-Intro to Unix]] for further information on terminal usage.
+The following checklist details steps to harden systems running Linux based operating systems.  [[-Linux Basics]] for further information on terminal usage.
 
 
 ## Preparation and Installation

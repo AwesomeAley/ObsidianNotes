@@ -1,5 +1,6 @@
 - [[-Enterprise-]]
 - [[-Tools]]
+- [[-Linux Basics]]
 - [[Linux System Hardening]]
 - [[-Windows-]]
 - [[Virtual Machines]]
@@ -12,5 +13,5 @@
 - [[Home Lab Creation]]
 
 
-Also includes class notes taken in [[~Cybersecurity Class Notes]]
+
 [[-Important Links-]] filled with information
