@@ -6,11 +6,20 @@ Commands for [[Linux File Creation and Manipulation]]
 tag of "&" will make a program run in the background
 ```
 
+**System processes**
+ps - list processes for current user running on the system
+	ps aux - list all processes 
+top - real time statistics on processes
+
+
+**Filesystem Navigation**
 cd - change directory
 ls - list contents in directory
 	-a/--all : lists all files in directory
 	-l : shows the listing in long format
 pwd - print working directory (display current directory)
+
+
 clear - clears terminal
 whoami - displays current user in use
 cat - concatenate a file (run the file)
@@ -26,5 +35,4 @@ man - get information from the manual on commands
 find/locate - locates path to specified file
 whereis - finds source files for a command
 type - determines information about various commands
-ps - list processes running on the system
 watch - monitor processes
