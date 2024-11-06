@@ -1,5 +1,5 @@
 ### Windows Administration
-- [[Windows Applications]]
+- [[Windows Administration]]
 
 ## Windows Troubleshooting
 If you have any issues involving the screen (flickering, bugging out), this might help:
