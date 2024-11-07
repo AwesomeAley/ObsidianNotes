@@ -1,4 +1,6 @@
 Installing universal forwarder to send logs to Splunk server
+helpful youtube video:
+[https://www.youtube.com/watch?v=yl3gY3JEtmU](https://www.youtube.com/watch?v=yl3gY3JEtmU)
 
 ### Add splunk user and group
 
