@@ -1,4 +1,5 @@
-Installig
+Installing universal forwarder to send logs to Splunk server
+
 ### Add splunk user and group
 
 ```bash
