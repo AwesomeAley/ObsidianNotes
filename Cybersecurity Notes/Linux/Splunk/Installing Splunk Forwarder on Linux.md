@@ -13,7 +13,7 @@ groupadd splunkfwd
 ```bash
 sudo su
 export SPLUNK_HOME="/opt/splunkforwarder"
-mkdir $SPLUNK_HOME
+mkdir $SPLUNK_HOME./spl
 
 
 wget -O splunkforwarder-9.3.1-0b8d769cb912-Linux-x86_64.tgz "https://download.splunk.com/products/universalforwarder/releases/9.3.1/linux/splunkforwarder-9.3.1-0b8d769cb912-Linux-x86_64.tgz"
