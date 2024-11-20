@@ -14,6 +14,7 @@ to find information on flags, run the nmap command with no arguments. Noteworthy
 `-sN, -sF, -sX`= commit scan with NULL, FIN, or XMAS
 these can be used to attempt to bypass firewalls
 `-sN`= commit scan with ICMP ping (ignores ports)
+`-sV`= version detection
 
 `-p <port range, - for all.`= specify ports
 `-sP`= skip port scan (used for scanning for listening addresses)
