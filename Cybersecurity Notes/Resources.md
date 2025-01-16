@@ -7,6 +7,9 @@ Resources with bountiful helpful information for all aspects cybersecurity.
 	Framework for discussing and planning adversary engagement. Engage adversaries and attackers.
 **MITRE Defend** - https://d3fend.mitre.org
 	Knowledge bank of cybersecurity countermeasures
+	**ATT&CK Emulation Plans** - https://mitre-engenuity.org
+		Plans to simulate attacks from certain threat groups
+
 
 
 
