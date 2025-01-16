@@ -1,3 +1,4 @@
+- [[Resources]] - Websites with helpful information and guides
 - [[-Enterprise-]]
 - [[-Tools]]
 - [[-Linux Basics]]
