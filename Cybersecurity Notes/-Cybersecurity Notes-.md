@@ -1,10 +1,14 @@
 - [[Resources]] - Websites with helpful information and guides
 - [[-Enterprise-]]
 - [[-Tools]]
-- [[-Linux Basics]]
 - [[Linux System Hardening]]
-- [[-Windows-]]
-- [[Virtual Machines]]
+- #### Linux
+	- [[Linux System Hardening]]
+	- [[Monitoring Linux Systems]] basic commands for basic monitoring
+	- - [[-Linux Basics]] such as commands and directory navigation (class notes included)
+	- [[IP Tables]]
+- #### Windows
+	
 - [[Incident Response Notes]]
 - [[-Network Fundamentals]]
 - [[-Palo Alto Firewall Notes]]
