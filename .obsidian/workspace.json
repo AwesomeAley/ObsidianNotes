@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Setting up Docker.md",
+                "file": "Cybersecurity Notes/Windows/Updating Display Drivers on Windows 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting up Docker"
+              "title": "Updating Display Drivers on Windows 11"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2cee04a6166f1b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef5c4ff450b921b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-Cybersecurity Notes-"
             }
           }
         ]
@@ -163,12 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "328caa867d69c5b3",
+  "active": "ef5c4ff450b921b5",
   "lastOpenFiles": [
+    "Cybersecurity Notes/Windows/Windows User Management.md",
+    "Cybersecurity Notes/Windows/Windows Administration Applications.md",
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Cybersecurity Notes/!Root!",
+    "Cybersecurity Notes/Windows/Updating Display Drivers on Windows 11.md",
+    "Cybersecurity Notes/Windows/How to Disable Simplified Context Menu.md",
+    "Cybersecurity Notes/Setting up Docker.md",
     "Cybersecurity Notes/Active Directory Basics.md",
     "Cybersecurity Notes/GitSync Test.md",
     "Cybersecurity Notes/Resources.md",
-    "Cybersecurity Notes/Setting up Docker.md",
     "Cybersecurity Notes/Wireshark 101.md",
     "School Class Notes/Cloud Computing and Virtualization/Amazon Cloud Cert.md",
     "School Class Notes/Cloud Computing and Virtualization/-Cloud Computing and Virtualization.md",

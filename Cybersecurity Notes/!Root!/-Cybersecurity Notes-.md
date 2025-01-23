@@ -8,7 +8,11 @@
 	- - [[-Linux Basics]] such as commands and directory navigation (class notes included)
 	- [[IP Tables]]
 - #### Windows
-	
+	- Misc. windows operations:
+		- [[How to Disable Simplified Context Menu]] (get rid of windows 11 shitty right click)
+		- [[Updating Display Drivers on Windows 11]]
+
+
 - [[Incident Response Notes]]
 - [[-Network Fundamentals]]
 - [[-Palo Alto Firewall Notes]]
