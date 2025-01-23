@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Linux/Linux Tools/Nmap.md",
+                "file": "Cybersecurity Notes/Windows/Windows Scripts/Microsoft Activation Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "Microsoft Activation Script"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Scripts/-Scripts-.md",
+                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Scripts-"
+              "title": "-Cybersecurity Notes-"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "ef5c4ff450b921b5",
   "lastOpenFiles": [
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Cybersecurity Notes/Windows/Windows Scripts/Microsoft Activation Script.md",
     "Cybersecurity Notes/Linux/Linux Tools/Nmap.md",
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Cybersecurity Notes/Scripts/-Scripts-.md",
     "Cybersecurity Notes/Windows/Updating Display Drivers on Windows 11.md",
     "Cybersecurity Notes/Windows/Windows User Management.md",
     "Cybersecurity Notes/Windows/Windows Administration Applications.md",

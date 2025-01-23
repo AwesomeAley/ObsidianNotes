@@ -18,6 +18,8 @@
 	- **Windows Administration**
 		- [[Windows Administration Applications]]
 		- [[Windows User Management]]
+	- **Scripts**
+		- [[Microsoft Activation Script]] - HUGE: this script pulled from github allows for activation of windows versions and software like free! word or powerpoint
 	
 
 
