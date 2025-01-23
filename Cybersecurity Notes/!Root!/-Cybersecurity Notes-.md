@@ -1,7 +1,7 @@
 - [[Resources]] - Websites with helpful information and guides
 - [[-Enterprise-]]
-- [[-Tools]]
-- [[Linux System Hardening]]
+
+
 - #### Linux
 	- [[Linux System Hardening]]
 	- [[Monitoring Linux Systems]] basic commands for basic monitoring
