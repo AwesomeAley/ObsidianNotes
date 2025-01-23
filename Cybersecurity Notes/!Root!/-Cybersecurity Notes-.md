@@ -11,6 +11,7 @@ Hub for all notes cybersecurity
 		- [[Nmap]] - network exploration
 		- **Splunk**
 			- [[Installing Splunk Forwarder on Linux]]
+		- Packet inspection with [[Wireshark 101]]
 - ### Windows
 	- **Misc. windows operations**
 		- [[How to Disable Simplified Context Menu]] (get rid of windows 11 shitty right click)
@@ -32,4 +33,4 @@ Hub for all notes cybersecurity
 
 
 
-[[-Important Links-]] filled with information
+[[Persistent Malware]] filled with information
