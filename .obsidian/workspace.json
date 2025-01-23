@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Active Directory Basics.md",
+                "file": "Cybersecurity Notes/Setting up Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Directory Basics"
+              "title": "Setting up Docker"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cybersecurity Notes/Setting up Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Setting up Docker"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cybersecurity Notes/Setting up Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Setting up Docker"
             }
           },
           {
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity Notes/GitSync Test.md"
+                "file": "Cybersecurity Notes/Setting up Docker.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of GitSync Test"
+              "title": "Outline of Setting up Docker"
             }
           }
         ]
@@ -161,7 +163,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7319686e09fd2f64",
+  "active": "328caa867d69c5b3",
   "lastOpenFiles": [
     "Cybersecurity Notes/Active Directory Basics.md",
     "Cybersecurity Notes/GitSync Test.md",
