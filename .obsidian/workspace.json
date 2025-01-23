@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
+                "file": "Cybersecurity Notes/Enterprise/Incident Response Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireshark 101"
+              "title": "Incident Response Notes"
             }
           }
         ]
@@ -185,12 +185,16 @@
   },
   "active": "ef5c4ff450b921b5",
   "lastOpenFiles": [
-    "Cybersecurity Notes/Setting up Docker.md",
+    "Cybersecurity Notes/Enterprise/Incident Response Notes.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
-    "Cybersecurity Notes/Linux/Linux System Hardening.md",
-    "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
-    "README.md",
     "Cybersecurity Notes/Linux/Persistent Malware.md",
+    "Cybersecurity Notes/Enterprise/Defining Scope and Objectives.md",
+    "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
+    "Cybersecurity Notes/Enterprise/-Enterprise-.md",
+    "Cybersecurity Notes/Enterprise/- Regulations and Standards.md",
+    "Cybersecurity Notes/Setting up Docker.md",
+    "Cybersecurity Notes/Linux/Linux System Hardening.md",
+    "README.md",
     "Cybersecurity Notes/Resources.md",
     "Important Links/Online IP Databases.md",
     "Cybersecurity Notes/Windows/Active Directory Basics.md",
@@ -211,9 +215,6 @@
     "Cybersecurity Notes/GitSync Test.md",
     "School Class Notes/Cloud Computing and Virtualization/Amazon Cloud Cert.md",
     "School Class Notes/Cloud Computing and Virtualization/-Cloud Computing and Virtualization.md",
-    "Z - Pasted Images/Pasted image 20230905113806.png",
-    "Cybersecurity Notes/Capture the Flag/Image Cryptography.md",
-    "Cybersecurity Notes/Capture the Flag/XOR encryption with randomly generated key.md",
-    "Cybersecurity Notes/Capture the Flag/Command Injection.md"
+    "Z - Pasted Images/Pasted image 20230905113806.png"
   ]
 }

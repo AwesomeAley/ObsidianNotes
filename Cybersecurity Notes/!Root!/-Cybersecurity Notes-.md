@@ -5,7 +5,9 @@ Hub for all notes cybersecurity
 - ### Linux
 	- [[Linux System Hardening]]
 	- [[Monitoring Linux Systems]] basic commands for basic monitoring
-	- - [[-Linux Basics]] such as commands and directory navigation (class notes included)
+	- [[-Linux Basics]] such as commands and directory navigation (class notes included)
+	- [[Incident Response Notes]] - Commands for incident response
+	- [[Persistent Malware]]
 	- [[IP Tables]]
 	- **Linux Tools**
 		- [[Nmap]] - network exploration
@@ -22,15 +24,33 @@ Hub for all notes cybersecurity
 		- Active Directory! [[Active Directory Basics]]
 	- **Scripts**
 		- [[Microsoft Activation Script]] - HUGE: this script pulled from github allows for activation of windows versions and software like free! word or powerpoint
-	
-
-- [[-Enterprise-]]
-- [[Incident Response Notes]]
-- [[-Network Fundamentals]]
-- [[-Palo Alto Firewall Notes]]
+- ### Enterprise 
+	- [[Security Assessment and Risk Management]].
+	- [[8 Secure Design Principles]]
+	- Compliance standards for [[Health Related Regulations and Standards]]
+		including:
+		- HIPAA
+	- Compliance standards for [[Children Related Standards and Regulations]]
+		including 
+		- COPPA
+		- CIPA
+		- FERPA
+	- Compliance standards for [[Finance Related Regulations and Standards]]
+		including:
+		- SOX
+		- GLBA
+		- SEC rule 30
+- ### General Security Basics
+	- [[-Network Fundamentals]]
+- ### Applications
+	- **Firewalls**
+		- Palo Alto (NGFW) [[-Palo Alto Firewall Notes]]
+- ### Capture the Flag
+	- [[Command Injection]]
+	- [[Image Cryptography]]
+	- [[XOR encryption with randomly generated key]]
 - [[~GIT/Cybersecurity Notes/Pen Testing/-Penetration Testing|-Penetration Testing]]
-### Personal Notes
 
 
 
-[[Persistent Malware]] filled with information
+
