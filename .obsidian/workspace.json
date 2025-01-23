@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Links/Online IP Databases.md",
+                "file": "Important Links/-Important Links-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Online IP Databases"
+              "title": "-Important Links-"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Resources.md",
+                "file": "Cybersecurity Notes/Linux/Linux System Hardening.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Linux System Hardening"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "328caa867d69c5b3",
   "lastOpenFiles": [
-    "Cybersecurity Notes/Resources.md",
-    "Cybersecurity Notes/Windows/Active Directory Basics.md",
-    "Important Links/Online IP Databases.md",
+    "Cybersecurity Notes/Linux/Linux System Hardening.md",
     "Important Links/-Important Links-.md",
+    "Cybersecurity Notes/Resources.md",
+    "Important Links/Online IP Databases.md",
+    "Cybersecurity Notes/Windows/Active Directory Basics.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "~GIT/Cybersecurity Notes/Pen Testing/-Penetration Testing.md",
     "Cybersecurity Notes/Pen Testing/-Penetration Testing.md",

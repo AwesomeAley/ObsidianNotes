@@ -11,5 +11,8 @@ Resources with bountiful helpful information for all aspects cybersecurity.
 		Plans to simulate attacks from certain threat groups
 
 
-
+## Online Address Lookup Databases
+check ip addresses, domain names, and subnets for potential malicious nature: 
+- www.abuseipdb.com
+- https://talosintelligence.com/
 

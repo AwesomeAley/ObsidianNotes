@@ -3,6 +3,9 @@
 information gathering for this starts here
 https://security.utexas.edu/os-hardening-checklist/linux-7#1
 
+Linux Hardening utexas Guide
+https://security.utexas.edu/admin
+
 The following checklist details steps to harden systems running Linux based operating systems.  [[-Linux Basics]] for further information on terminal usage.
 
 
