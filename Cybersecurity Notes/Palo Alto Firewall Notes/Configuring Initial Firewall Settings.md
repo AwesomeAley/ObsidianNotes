@@ -42,8 +42,6 @@ Configurations can be rolledback, saved, loaded, exported, and imported as neede
 
 #### Via CLI
 
-#### View Current Configuration
-
 To see the full running configuration:
 `show configuration`
 
