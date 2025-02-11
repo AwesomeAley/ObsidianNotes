@@ -32,3 +32,7 @@ In the services window set the
 Under the **NTP** tab, set the
 	- *Primary NTP Server* to: 0.pool.ntp.org
 	- *Secondary NTP Server* to: 1.pool.ntp.org
+
+
+### Managing Configurations
+Navigate to **Device > Setup > Operations**
