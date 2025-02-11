@@ -33,15 +33,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Cybersecurity Notes-"
+              "title": "Configuring Initial Firewall Settings"
+            }
+          },
+          {
+            "id": "34695636fc5a72c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,10 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef5c4ff450b921b5",
+  "active": "34695636fc5a72c2",
   "lastOpenFiles": [
-    "Cybersecurity Notes/Enterprise/Incident Response Notes.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Z - Pasted Images/Pasted image 20250210201003.png",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
+    "Cybersecurity Notes/Enterprise/Incident Response Notes.md",
     "Cybersecurity Notes/Linux/Persistent Malware.md",
     "Cybersecurity Notes/Enterprise/Defining Scope and Objectives.md",
     "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
@@ -213,8 +229,6 @@
     "Cybersecurity Notes/!Root!",
     "Cybersecurity Notes/Windows/How to Disable Simplified Context Menu.md",
     "Cybersecurity Notes/GitSync Test.md",
-    "School Class Notes/Cloud Computing and Virtualization/Amazon Cloud Cert.md",
-    "School Class Notes/Cloud Computing and Virtualization/-Cloud Computing and Virtualization.md",
     "Z - Pasted Images/Pasted image 20230905113806.png"
   ]
 }
