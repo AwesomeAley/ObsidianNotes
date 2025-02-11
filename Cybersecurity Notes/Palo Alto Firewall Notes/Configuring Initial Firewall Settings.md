@@ -81,3 +81,5 @@ Rollback to a Previous Version
 
 
 ## Examine Log Files
+Navigate to **Monitor > Logs**
+
