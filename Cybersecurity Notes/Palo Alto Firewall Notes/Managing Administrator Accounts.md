@@ -1,7 +1,9 @@
 #### Authentication Profiles
 First create an authentication profile to define how users authenticate when accessing the firewall
 Navigate to **Device > Authentication Profile**
-
+**Recommended to use the internal local database for competition**
+Example (using local database):
+![[Pasted image 20250211101321.png]]
 Server profiles (**Device > Server Profiles**) can be created for relevant authentication methods such as LDAP or Kerberos to be implemented into authentication profiles
 Example (RADIUS):
 ![[Pasted image 20250211101225.png]]
