@@ -10,3 +10,5 @@ Navigate to **Policies > Security** Click **Add**
 - **Actions** - Define what you want your rule to do with defined traffic. Deny, allow, log etc.
 
 **Hit count** is a valuable metric displayed on the policy table that can be used to determine whether a rule is being used or not. These can also be reset by highlighting the policy and clicking **Reset Rule Hit Counter** at the bottom right.
+
+**IMPORTANT** Rules are top-to-bottom, so the firewall checks the rule list top to bottom until a rule matches. It will stop after the first match.
