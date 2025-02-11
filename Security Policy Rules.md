@@ -8,4 +8,4 @@ Navigate to **Policies > Security** Click **Add**
 - **Application and Service/URL Category** - Define the applications, services, and URLs involved in the rule
 - **Actions** - Define what you want your rule to do with defined traffic. Deny, allow, log etc.
 
-**Hit count** is a valuable metric displayed on the policy table that can be used to determine whether a rule is being used or not.
+**Hit count** is a valuable metric displayed on the policy table that can be used to determine whether a rule is being used or not. These can also be reset by highlighting the policy and clicking **Reset Rule Hit Counter** at the bottom right.
