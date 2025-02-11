@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
+                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Managing Administrator Accounts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuring Initial Firewall Settings"
+              "title": "Managing Administrator Accounts"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managing Administrator Accounts.md",
+                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Managing Administrator Accounts"
+              "title": "-Cybersecurity Notes-"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9387a505cda3701",
+  "active": "ef5c4ff450b921b5",
   "lastOpenFiles": [
     "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
-    "Managing Administrator Accounts.md",
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Managing Administrator Accounts.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Security Profiles.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Network Interfaces.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Setup.md",
@@ -202,7 +202,6 @@
     "Z - Pasted Images/Pasted image 20250210202258.png",
     "Cybersecurity Notes/Windows/Windows Tools/Nessus.md",
     "Cybersecurity Notes/Windows/Windows Tools",
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Enterprise/Incident Response Notes.md",
     "Cybersecurity Notes/Linux/Persistent Malware.md",
     "Cybersecurity Notes/Enterprise/Defining Scope and Objectives.md",

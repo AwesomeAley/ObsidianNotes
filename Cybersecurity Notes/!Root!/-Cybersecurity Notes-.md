@@ -46,7 +46,8 @@ Hub for all notes cybersecurity
 	- [[-Network Fundamentals]]
 - ### Applications
 	- **Firewalls**
-		- Palo Alto (NGFW) [[-Palo Alto Firewall Notes]]
+		- [[Configuring Initial Firewall Settings]]
+		- [[Managing Administrator Accounts]]
 - ### Capture the Flag
 	- [[Command Injection]]
 	- [[Image Cryptography]]
