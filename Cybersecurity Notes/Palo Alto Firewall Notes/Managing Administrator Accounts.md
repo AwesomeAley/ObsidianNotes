@@ -3,9 +3,10 @@ First create an authentication profile to define how users authenticate when acc
 Navigate to **Device > Authentication Profile**
 
 Server profiles (**Device > Server Profiles**) can be created for relevant authentication methods such as LDAP or Kerberos to be implemented into authentication profiles
-
-Authentication sequences (**Device > Authentication Sequence**) can be used if multiple authentication profiles are to be checked for each user
-Example:
+Example (RADIUS):
+![[Pasted image 20250211101225.png]]
+Authentication sequences (**Device > Authentication Sequence**) can be used if multiple authentication profiles are to be checked for each user. Position defines sequence.
+Example (LDAP and RADIUS):
 ![[Pasted image 20250211101058.png]]
 #### Adding Users
 (If using Local-Database as authentication method) Users can then be added to the Local User Database
