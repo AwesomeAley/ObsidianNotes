@@ -9,6 +9,14 @@ Set settings for the management interface on the firewall
 Primarily the address and what service will be used to connect to the firewall
 To the left add **permitted IP addresses** (addresses that are allowed management access)
 ![[Pasted image 20250210204238.png]]
+#### Via CLI:
+``` palo CLI
+config
+show deviceconfig system permitted-ip [ip addrews]
+delete deviceconfig system permitted-ip [ip address]
+set device config system permitted-ip [ip address]
+commit
+```
 
 ### Check for Software Updates
 Go to `Device > Software` to browse versions
