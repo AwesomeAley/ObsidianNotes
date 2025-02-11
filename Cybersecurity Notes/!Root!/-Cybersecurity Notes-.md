@@ -15,6 +15,8 @@ Hub for all notes cybersecurity
 			- [[Installing Splunk Forwarder on Linux]]
 		- Packet inspection with [[Wireshark 101]]
 - ### Windows
+	- **Windows Tools**
+		- [[Nessus]] one of the best vuln scanners
 	- **Misc. windows operations**
 		- [[How to Disable Simplified Context Menu]] (get rid of windows 11 shitty right click)
 		- [[Updating Display Drivers on Windows 11]]
