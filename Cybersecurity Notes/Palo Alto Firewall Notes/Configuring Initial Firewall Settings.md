@@ -8,6 +8,7 @@ Navigate to `Device > Setup > Interfaces` and click on the `Management` interfac
 Set settings for the management interface on the firewall
 Primarily the address and what service will be used to connect to the firewall
 To the left add **permitted IP addresses** (addresses that are allowed management access)
+	if empty all ips are authorized
 ![[Pasted image 20250210204238.png]]
 #### Via CLI:
 ``` palo CLI
