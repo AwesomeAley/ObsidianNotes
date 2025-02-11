@@ -40,8 +40,21 @@
               "icon": "lucide-file",
               "title": "Configuring Initial Firewall Settings"
             }
+          },
+          {
+            "id": "34695636fc5a72c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef5c4ff450b921b5",
+  "active": "34695636fc5a72c2",
   "lastOpenFiles": [
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Z - Pasted Images/Pasted image 20250210201003.png",
