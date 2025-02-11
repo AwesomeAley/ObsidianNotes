@@ -43,10 +43,10 @@ Configurations can be rolledback, saved, loaded, exported, and imported as neede
 #### Via CLI
 
 To see the full running configuration:
-`show configuration`
+`show`
 
 To view a specific section, such as network settings:
-`show configuration | match <keyword>`
+`show | match <keyword>`
 
 If you want to see pending changes before committing:
 `show config diff`
