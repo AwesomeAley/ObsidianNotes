@@ -20,3 +20,4 @@ Set settings for the management interface on the firewall
 Primarily the address and what service will be used to connect to the firewall
 ![[Pasted image 20250210201003.png]]
 To the left add **permitted IP addresses** 
+![[Pasted image 20250210202258.png]]
