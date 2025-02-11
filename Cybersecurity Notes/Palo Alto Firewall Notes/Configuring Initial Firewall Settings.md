@@ -14,3 +14,9 @@ In the web interface, select `Device > Setup > Management`
 Here you can set settings such as banner and domain
 
 ### Modify the Management Interface
+Navigate to `Device > Setup > Interfaces` and click on the `Management` interface
+
+Set settings for the management interface on the firewall
+Primarily the address and what service will be used to connect to the firewall
+![[Pasted image 20250210201003.png]]
+
