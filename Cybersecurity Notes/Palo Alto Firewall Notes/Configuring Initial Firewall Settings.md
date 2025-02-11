@@ -85,7 +85,7 @@ Navigate to **Monitor > Logs**
 
 #### Creating Log filters
 filters are entered via search bar above table
-elements can be selected to add them to filter
+elements can be selected to add them to filterS
 
 
 
