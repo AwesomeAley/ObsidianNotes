@@ -36,3 +36,4 @@ Under the **NTP** tab, set the
 
 ### Managing Configurations
 Navigate to **Device > Setup > Operations**
+![[Pasted image 20250211083311.png]]
