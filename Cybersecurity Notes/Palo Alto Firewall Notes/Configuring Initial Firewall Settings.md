@@ -1,8 +1,8 @@
-### Configure General Settings
+## Configure General Settings
 In the web interface, select `Device > Setup > Management`
 Here you can set settings such as banner and domain
 
-### Modify the Management Interface
+## Modify the Management Interface
 Navigate to `Device > Setup > Interfaces` and click on the `Management` interface
 
 Set settings for the management interface on the firewall
@@ -18,11 +18,11 @@ set device config system permitted-ip [ip address]
 commit
 ```
 
-### Check for Software Updates
+## Check for Software Updates
 Go to `Device > Software` to browse versions
 You can hit `Check now` in the bottom left corner for check for new software
 
-### Configure the DNS and NTP Servers
+## Configure the DNS and NTP Servers
 In the web interface, select `Device > Setup > Services`
 In the services window set the 
 	- *Update Server* to: updates.paloaltonetworks.com
@@ -78,3 +78,6 @@ View Configuration Versions
 
 Rollback to a Previous Version
 `rollback to version <X> commit`
+
+
+## Examine Log Files
