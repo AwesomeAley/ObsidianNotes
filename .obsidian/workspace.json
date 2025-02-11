@@ -45,12 +45,14 @@
             "id": "34695636fc5a72c2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Configuring Initial Firewall Settings"
             }
           }
         ],
