@@ -88,5 +88,6 @@ filters are entered via search bar above table
 elements can be selected to add them to the filter
 ![[Pasted image 20250211090402.png]]
 
+The filter builder can be used to construct more advanced filters via the blue "plus" symbol to the left of the filter bar
 
 Tue feb 11 14:59:54 2025
