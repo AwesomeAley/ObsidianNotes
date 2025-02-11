@@ -45,139 +45,38 @@ Configurations can be rolledback, saved, loaded, exported, and imported as neede
 #### View Current Configuration
 
 To see the full running configuration:
-
-sh
-
-CopyEdit
-
 `show configuration`
 
 To view a specific section, such as network settings:
-
-sh
-
-CopyEdit
-
 `show configuration | match <keyword>`
 
----
-
-### **Saving and Committing Changes**
-
-After making configuration changes, you must commit them:
-
-sh
-
-CopyEdit
-
-`commit`
-
 If you want to see pending changes before committing:
-
-sh
-
-CopyEdit
-
 `show config diff`
 
----
-
-### **3. Load, Save, and Revert Configurations**
-
-#### **Save Configuration to a Named Snapshot**
-
-sh
-
-CopyEdit
-
+Save Configuration to a Named Snapshot
 `save config to <filename.xml>`
+	Example:
+	`save config to backup-jan.xml`
 
-Example:
-
-sh
-
-CopyEdit
-
-`save config to backup-jan.xml`
-
-#### **Load a Saved Configuration**
-
-sh
-
-CopyEdit
-
+Load a Saved Configuration
 `load config from <filename.xml>`
 
-Then commit the changes:
-
-sh
-
-CopyEdit
-
-`commit`
-
-#### **Revert to Last Saved Configuration (Before Last Commit)**
-
-sh
-
-CopyEdit
-
+Revert to Last Saved Configuration (Before Last Commit)
 `revert config`
 
----
-
-### **4. Export and Import Configurations**
-
-#### **Export Running Configuration (via SCP or TFTP)**
-
-sh
-
-CopyEdit
-
+Export Running Configuration (via SCP or TFTP)
 `scp export configuration from running-config.xml to <user>@<server>:/path/`
+	Example:
+	`scp export configuration from running-config.xml to admin@192.168.1.10:/home/admin/`
 
-Example:
-
-sh
-
-CopyEdit
-
-`scp export configuration from running-config.xml to admin@192.168.1.10:/home/admin/`
-
-#### **Import Configuration**
-
-sh
-
-CopyEdit
-
+Import Configuration
 `scp import configuration from <user>@<server>:/path/<filename.xml>`
 
 Then, load and commit:
-
-sh
-
-CopyEdit
-
 `load config from <filename.xml> commit`
 
----
-
-### **5. Set and Rollback Configuration Versions**
-
-#### **View Configuration Versions**
-
-sh
-
-CopyEdit
-
+View Configuration Versions
 `show config audit summary`
 
-#### **Rollback to a Previous Version**
-
-sh
-
-CopyEdit
-
+Rollback to a Previous Version
 `rollback to version <X> commit`
-
-(Replace `<X>` with the desired version number.)
