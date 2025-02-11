@@ -18,7 +18,8 @@ delete deviceconfig system permitted-ip [ip address]
 set device config system permitted-ip [ip address]
 commit
 ```
-
+set the ip address for the management interface
+ `set deviceconfig system ip-address <new-ip> netmask <subnet-mask> default-gateway <gateway-ip>`
 ## Check for Software Updates
 Go to `Device > Software` to browse versions
 You can hit `Check now` in the bottom left corner for check for new software
