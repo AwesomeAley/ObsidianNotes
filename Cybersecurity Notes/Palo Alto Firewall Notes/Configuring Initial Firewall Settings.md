@@ -84,3 +84,9 @@ Rollback to a Previous Version
 Navigate to **Monitor > Logs**
 
 #### Creating Log filters
+filters are entered via search bar above table
+elements can be selected to add them to filter
+
+
+
+Tue feb 11 14:59:54 2025
