@@ -7,7 +7,7 @@ Navigate to **Policies > NAT**. Click **Add** to create a new policy.
 First create a policy for inbound zones to internet
 In the *NAT Policy Rule* window, configure the *general* tab with name, description, and NAT type; most likely ipv4.
 
-In the *original packet* tab, configure source internal zones and then destination external zone with associated interface/service as needed.
+In the *original packet* tab, define how to packet will look when it reaches the firewall. configure source internal zones and then destination external zone with associated interface/service as needed.
 
 In my example my source is my two internal zones, destination is my "internet" zone and its interface:
 ![[Pasted image 20250212114210.png]]
