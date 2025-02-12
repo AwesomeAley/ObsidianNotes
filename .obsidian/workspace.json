@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firewall Quick Guide.md",
+                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firewall Quick Guide"
+              "title": "Firewall Setup"
             }
           }
         ],
@@ -195,13 +195,13 @@
   },
   "active": "5101b02dac1b061d",
   "lastOpenFiles": [
-    "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
-    "Firewall Quick Guide.md",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Security Profiles.md",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Managing Administrator Accounts.md",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Policy Rules.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Network Interfaces.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Setup.md",
-    "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Security Profiles.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring NAT.md",
     "Z - Pasted Images/Pasted image 20250212115544.png",
