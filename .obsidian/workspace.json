@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuring NAT.md",
+                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring NAT.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,13 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f32be1fff6522d4b",
+  "active": "7319686e09fd2f64",
   "lastOpenFiles": [
-    "Pasted image 20250212114210.png",
+    "Z - Pasted Images/Pasted image 20250212114434.png",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring NAT.md",
+    "Z - Pasted Images/Pasted image 20250212114210.png",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
-    "Configuring NAT.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Policy Rules.md",
-    "Pasted image 20250212101947.png",
+    "Z - Pasted Images/Pasted image 20250212101947.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Network Interfaces.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Managing Administrator Accounts.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Setup.md",
@@ -229,8 +230,6 @@
     "Z - Pasted Images/Pasted image 20240215124219.png",
     "Pasted image 20240215113618.png.md",
     "Pasted image 20240215113521.png.md",
-    "Z - Pasted Images/Pasted image 20240215113521.png",
-    "Z - Pasted Images/Pasted image 20240215113618.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/-Palo Alto Firewall Notes.md",
     "Cybersecurity Notes/Windows/Windows Tools/Nessus.md",
     "Cybersecurity Notes/Windows/Windows Tools",
