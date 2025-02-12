@@ -1,5 +1,6 @@
 **NOTE** - In documentation, ">" dictates operational mode, "#" dictates configuration mode. Configuration mode is activated with `configuration` and changes must be committed with `commit`
 
+### Initial setup
 Turn off the management interface and data external interface temporarily - you don't know who's accessing it
 CLI:
 ```
@@ -33,4 +34,29 @@ Secure admin accounts
 
 Turn data interfaces back on if turned off
 `# set network interface ethernet ethernet1/1 link-state up`
+
+### Modify the Management Interface
+Navigate to `Device > Setup > Interfaces` and click on the `Management` interface
+
+Set settings for the management interface on the firewall
+Primarily the address and what service will be used to connect to the firewall
+To the left add **permitted IP addresses** (addresses that are allowed management access)
+	if empty all ips are authorized
+![[Pasted image 20250210204238.png]]
+#### Via CLI:
+``` palo CLI
+config
+show deviceconfig system permitted-ip [ip addrews]
+delete deviceconfig system permitted-ip [ip address]
+set device config system permitted-ip [ip address]
+commit
+```
+set the ip address for the management interface
+ `set deviceconfig system ip-address <new-ip> netmask <subnet-mask> default-gateway <gateway-ip>`
+
+Manage configurations as needed [[Configuring Initial Firewall Settings]]
+
+### Licensing
+Navigate to **Device > Licenses > Activate feature using authorization code**
+Activate with provided authorization code
 
