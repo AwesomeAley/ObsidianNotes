@@ -46,8 +46,9 @@ Hub for all notes cybersecurity
 	- [[-Network Fundamentals]]
 - ### Applications
 	- **Firewalls**
-		- [[Configuring Initial Firewall Settings]]
-		- [[Managing Administrator Accounts]]
+		- Initial startup with [[Configuring Initial Firewall Settings]]
+		- [[Managing Administrator Accounts]] - determine who has access
+		- [[Security Policy Rules]]
 - ### Capture the Flag
 	- [[Command Injection]]
 	- [[Image Cryptography]]
