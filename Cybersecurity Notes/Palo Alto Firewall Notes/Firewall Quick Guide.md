@@ -30,3 +30,7 @@ Only allow secure protocols to connect to the management interface (ssh, https, 
 Secure admin accounts
 `> show admins all`
 [[Managing Administrator Accounts]]
+
+Turn data interfaces back on if turned off
+`# set network interface ethernet ethernet1/1 link-state up`
+
