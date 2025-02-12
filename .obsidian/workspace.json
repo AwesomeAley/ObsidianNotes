@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "-Cybersecurity Notes-"
-            }
-          },
-          {
-            "id": "6ca4b4d590deed46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Firewall Quick Guide"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,16 +164,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ca4b4d590deed46",
+  "active": "f32be1fff6522d4b",
   "lastOpenFiles": [
-    "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Pasted image 20250212130939.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",
+    "Z - Pasted Images/Pasted image 20250212130951.png",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring Initial Firewall Settings.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Policy Rules.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Network Interfaces.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Managing Administrator Accounts.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Setup.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Security Profiles.md",
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Configuring NAT.md",
     "Z - Pasted Images/Pasted image 20250212115544.png",
     "Z - Pasted Images/Pasted image 20250212115506.png",
@@ -198,8 +185,6 @@
     "Z - Pasted Images/Pasted image 20250211101321.png",
     "Z - Pasted Images/Pasted image 20250211101225.png",
     "Z - Pasted Images/Pasted image 20250211090402.png",
-    "Z - Pasted Images/Pasted image 20250211090825.png",
-    "Z - Pasted Images/Pasted image 20250211101058.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Initial Securing of Firewall.md",
     "Pasted image 20240215113618.png.md",
     "Pasted image 20240215113521.png.md",
@@ -217,7 +202,6 @@
     "README.md",
     "Cybersecurity Notes/Resources.md",
     "Important Links/Online IP Databases.md",
-    "Cybersecurity Notes/Windows/Active Directory Basics.md",
     "~GIT/Cybersecurity Notes/Pen Testing",
     "~GIT/Cybersecurity Notes",
     "~GIT",

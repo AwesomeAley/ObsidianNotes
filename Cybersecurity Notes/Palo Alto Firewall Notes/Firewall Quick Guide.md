@@ -60,3 +60,6 @@ Manage configurations as needed [[Configuring Initial Firewall Settings]]
 Navigate to **Device > Licenses > Activate feature using authorization code**
 Activate with provided authorization code
 
+Download all up-to-date updates/patches. Set up update schedules
+![[Pasted image 20250212130951.png]]
+
