@@ -17,4 +17,5 @@ In the *translated packet* tab, configure what address you want the source packe
 In my example, I want it translated to the external facing interface of `ethernet1/1` with its associated public address of `203.0.113.20/24`:
 ![[Pasted image 20250212114434.png]]
 ## Create a Destination NAT Policy
+Navigate to **Policies > NAT**. Click **Add** to create a new policy.
 
