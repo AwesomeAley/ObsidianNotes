@@ -8,6 +8,7 @@ Navigate to **Policies > Security** Click **Add**
 - **Destination** - Define the destination (zone, address, device) of traffic
 - **Application and Service/URL Category** - Define the applications, services, and URLs involved in the rule.
 	- The application-default setting instructs the firewall to allow an application such as web-browsing as long as that application is using the predefined service (or destination port).
+	- This section can be used to allow functions such as ping or web-browsing
 - **Actions** - Define what you want your rule to do with defined traffic. Deny, allow, log etc.
 
 ### Determining Policy Details
