@@ -1,5 +1,7 @@
 Internal private ip addresses need to be converted to a single public-facing address, This needs to be configured via *NAT Policies*. 
 
+
+## Create a Source NAT Policy
 Navigate to **Policies > NAT**. Click **Add** to create a new policy.
 
 First create a policy for inbound zones to internet
@@ -14,3 +16,5 @@ In the *translated packet* tab, configure what address you want the source packe
 
 In my example, I want it translated to the external facing interface of `ethernet1/1` with its associated public address of `203.0.113.20/24`:
 ![[Pasted image 20250212114434.png]]
+## Create a Destination NAT Policy
+
