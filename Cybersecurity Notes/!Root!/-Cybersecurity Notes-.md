@@ -26,6 +26,12 @@ Hub for all notes cybersecurity
 		- Active Directory! [[Active Directory Basics]]
 	- **Scripts**
 		- [[Microsoft Activation Script]] - HUGE: this script pulled from github allows for activation of windows versions and software like free! word or powerpoint
+- ### Applications
+	- **Firewalls**
+		- Initial startup with [[Configuring Initial Firewall Settings]]
+		- [[Managing Administrator Accounts]] - determine who has access
+		- [[Security Policy Rules]]
+		- [[Configuring NAT]]
 - ### Enterprise 
 	- [[Security Assessment and Risk Management]].
 	- [[8 Secure Design Principles]]
@@ -44,11 +50,6 @@ Hub for all notes cybersecurity
 		- SEC rule 30
 - ### General Security Basics
 	- [[-Network Fundamentals]]
-- ### Applications
-	- **Firewalls**
-		- Initial startup with [[Configuring Initial Firewall Settings]]
-		- [[Managing Administrator Accounts]] - determine who has access
-		- [[Security Policy Rules]]
 - ### Capture the Flag
 	- [[Command Injection]]
 	- [[Image Cryptography]]
