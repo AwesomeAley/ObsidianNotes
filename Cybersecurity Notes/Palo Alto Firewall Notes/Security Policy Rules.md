@@ -19,3 +19,5 @@ The firewall is a stateful firewall; if outbound traffic is allowed, reply traff
 ### Monitoring Effectiveness
 **Hit count** is a valuable metric displayed on the policy table that can be used to determine whether a rule is being used or not. These can also be reset by highlighting the policy and clicking **Reset Rule Hit Counter** at the bottom right.
 
+### Security Profiles
+You will also want to set [[Security Profiles]] for all inbound and outbound traffic to improve monitoring, detection, and protection.
