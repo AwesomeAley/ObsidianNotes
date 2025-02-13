@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/General Firewall Configurations.md",
+                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Firewall Configurations"
+              "title": "Turning on Decryption"
             }
           },
           {
@@ -178,6 +178,8 @@
   },
   "active": "f32be1fff6522d4b",
   "lastOpenFiles": [
+    "Pasted image 20250213131214.png",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/General Firewall Configurations.md",
     "Z - Pasted Images/Pasted image 20250213113125.png",
     "Pasted image 20250213130931.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
@@ -191,7 +193,6 @@
     "Z - Pasted Images/Pasted image 20250213094553.png",
     "Z - Pasted Images/Pasted image 20250213094155.png",
     "Z - Pasted Images/Pasted image 20250213094135.png",
-    "Cybersecurity Notes/Palo Alto Firewall Notes/General Firewall Configurations.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Network Interfaces.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",

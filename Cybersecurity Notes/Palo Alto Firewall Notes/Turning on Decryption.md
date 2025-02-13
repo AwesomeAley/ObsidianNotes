@@ -15,10 +15,27 @@ Click on each CA once generated and checkmark the appropriate characteristic
 ![[Pasted image 20250213113125.png]]
 ## Create a Decryption Profile
 Navigate to **Objects > Decryption Profile** Click **Add** 
-Fill out the profile according to needs. If for outbound traffic, fill out the *SSL Forward Proxy* tab. 
+Fill out the profile according to needs. 
+If for outbound traffic, fill out the *SSL Forward Proxy* tab
+	Recommended to block sessions with 
+		- expired certificates, 
+		- untrusted issuers, 
+		- unknown status, 
+		- unsupported versions,  
+		- unsupported cipher suites
+For inbound traffic, fill out the *SSL Inbound Inspection* tab
+	Recommended to block sessions with 
+		- unsupported versions
+		- unsupported cipher suites
+		- if resources are not available
+## Create the Decryption Policy Rule
+Navigate to **Policies > Decryption** Click **Add**
 
+Fill out *General, Source*, and *Destination* tabs as appropriate
+For both versions fill out *SSL Protocol Settings* tab
+For the *Service/URL Category* tab, select *service-https* for the service.
 
-## Install certificates on devices
+## Install certificates on devices (For Outbound Decryption)
 ### Linux
 Download certificate as *Base64 Encoded Certificate (PEM)* to device.
 
