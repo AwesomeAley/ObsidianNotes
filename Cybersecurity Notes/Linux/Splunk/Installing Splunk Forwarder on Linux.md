@@ -10,7 +10,7 @@ groupadd splunkfwd
 ```
 
 ### Install 
-```bash
+```
 sudo su
 export SPLUNK_HOME="/opt/splunkforwarder"
 mkdir $SPLUNK_HOME./spl
