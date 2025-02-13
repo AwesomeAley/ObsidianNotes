@@ -40,7 +40,8 @@ sudo $SPLUNK_HOME/bin/splunk start --accept-license
 location of inputs (and outputs) file:
 $SPLUNK_HOME/etc/system/local/inputs.conf)
 
-"
+```
+
 [monitor:///ufhost/var/log]
 
 [fschange:/ufhost/etc/]
@@ -56,7 +57,8 @@ pollPeriod=60
 recurse=true
 sendEventMaxSize=10000
 index=main
-"
+```
+
 
 ### connect to receiving indexer 
 ### Examples:
