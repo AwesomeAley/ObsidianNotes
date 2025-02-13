@@ -54,7 +54,7 @@ commit
 set the ip address for the management interface
  `set deviceconfig system ip-address <new-ip> netmask <subnet-mask> default-gateway <gateway-ip>`
 
-Manage configurations as needed [[Configuring Initial Firewall Settings]]
+Manage configurations as needed [[General Firewall Configurations]]
 
 ### Licensing and Updating
 Navigate to **Device > Licenses > Activate feature using authorization code**

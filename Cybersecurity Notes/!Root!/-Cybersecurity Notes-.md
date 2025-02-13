@@ -26,7 +26,7 @@ Hub for all notes cybersecurity
 		- [[Microsoft Activation Script]] - HUGE: this script pulled from github allows for activation of windows versions and software like free! word or powerpoint
 - ### Applications
 	- **Firewalls**
-		- Initial startup with [[Configuring Initial Firewall Settings]]
+		- Initial startup with [[General Firewall Configurations]]
 		- [[Managing Administrator Accounts]] - determine who has access
 		- [[Security Policy Rules]]
 		- [[Configuring NAT]]
