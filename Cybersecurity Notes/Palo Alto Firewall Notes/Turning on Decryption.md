@@ -13,6 +13,9 @@ Do the same for your Forward Untrust certificate authority.
 
 Click on each CA once generated and checkmark the appropriate characteristic
 ![[Pasted image 20250213113125.png]]
+## Create a Decryption Profile
+Navigate to **Objects > Decryption Profile** Click **Add** 
+Fill out the profile according to needs. If for outbound traffic, fill out the *SSL Forward Proxy* tab. 
 
 
 ## Install certificates on devices

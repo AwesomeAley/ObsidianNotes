@@ -25,18 +25,15 @@
             "id": "4b39418764024504",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
-                "mode": "source",
-                "source": false
+                "file": "Z - Pasted Images/Pasted image 20250213113125.png"
               },
-              "icon": "lucide-file",
-              "title": "Turning on Decryption"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250213113125"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,12 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b39418764024504",
+  "active": "f32be1fff6522d4b",
   "lastOpenFiles": [
-    "Pasted image 20250213113125.png",
+    "Z - Pasted Images/Pasted image 20250213113125.png",
+    "Pasted image 20250213130931.png",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Profiles.md",
     "Pasted image 20250213112828.png",
-    "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
     "Pasted image 20250213112704.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Policy Rules.md",
     "Z - Pasted Images/Pasted image 20250213095224.png",
@@ -199,8 +197,6 @@
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",
     "Installing Splunk Forwarder on Windows.md",
     "Cybersecurity Notes/Linux/Splunk/Installing Splunk Forwarder on Linux.md",
-    "Pasted image 20250212130939.png",
-    "Z - Pasted Images/Pasted image 20250212130951.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Managing Administrator Accounts.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Setup.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Security Profiles.md",
