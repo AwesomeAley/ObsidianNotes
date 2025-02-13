@@ -56,5 +56,8 @@ Block downloading and uploading dangerous files.
 Alert on all file uploads and downloads
 ![[Pasted image 20250213095224.png]]
 
+## Wildfire Analysis
+Use the default wildfire analysis profile
+
 
 
