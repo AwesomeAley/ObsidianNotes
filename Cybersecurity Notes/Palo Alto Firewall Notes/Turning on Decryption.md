@@ -34,7 +34,11 @@ Navigate to **Policies > Decryption** Click **Add**
 Fill out *General, Source*, and *Destination* tabs as appropriate
 For both versions fill out *SSL Protocol Settings* tab
 For the *Service/URL Category* tab, select *service-https* for the service.
-
+For the *Options* tab
+	- select *Decrypt*
+	- The type SSL (Forward Proxy or Inbound Inspection)
+	- Apply the decryption profile made earlier
+	- Choose logging settings
 ## Install certificates on devices (For Outbound Decryption)
 ### Linux
 Download certificate as *Base64 Encoded Certificate (PEM)* to device.

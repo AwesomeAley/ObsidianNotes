@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
+                "file": "Installing Splunk Forwarder on Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Turning on Decryption"
+              "title": "Installing Splunk Forwarder on Windows"
             }
           },
           {
@@ -179,10 +179,11 @@
   "active": "f32be1fff6522d4b",
   "lastOpenFiles": [
     "Pasted image 20250213131214.png",
+    "Installing Splunk Forwarder on Windows.md",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/General Firewall Configurations.md",
     "Z - Pasted Images/Pasted image 20250213113125.png",
     "Pasted image 20250213130931.png",
-    "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Profiles.md",
     "Pasted image 20250213112828.png",
     "Pasted image 20250213112704.png",
@@ -192,11 +193,9 @@
     "Z - Pasted Images/Pasted image 20250213094811.png",
     "Z - Pasted Images/Pasted image 20250213094553.png",
     "Z - Pasted Images/Pasted image 20250213094155.png",
-    "Z - Pasted Images/Pasted image 20250213094135.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Network Interfaces.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",
-    "Installing Splunk Forwarder on Windows.md",
     "Cybersecurity Notes/Linux/Splunk/Installing Splunk Forwarder on Linux.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Managing Administrator Accounts.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Setup.md",
