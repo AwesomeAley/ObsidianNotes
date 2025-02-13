@@ -11,8 +11,6 @@ Hub for all notes cybersecurity
 	- [[IP Tables]]
 	- **Linux Tools**
 		- [[Nmap]] - network exploration
-		- **Splunk**
-			- [[Installing Splunk Forwarder on Linux]]
 		- Packet inspection with [[Wireshark 101]]
 - ### Windows
 	- **Windows Tools**
@@ -32,6 +30,8 @@ Hub for all notes cybersecurity
 		- [[Managing Administrator Accounts]] - determine who has access
 		- [[Security Policy Rules]]
 		- [[Configuring NAT]]
+	- **Splunk**
+			- [[Installing Splunk Forwarder on Linux]]
 - ### Enterprise 
 	- [[Security Assessment and Risk Management]].
 	- [[8 Secure Design Principles]]
