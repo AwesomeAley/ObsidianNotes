@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "splunk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f32be1fff6522d4b",
+  "active": "7319686e09fd2f64",
   "lastOpenFiles": [
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",
