@@ -12,4 +12,17 @@ Click on each CA once generated and checkmark the appropriate characteristic
 
 ## Install certificates on devices
 ### Linux
-Download certificate
+Download certificate as *Base64 Encoded Certificate (PEM)* to device.
+
+Copy the .crt file to the certificate store
+`cp *.crt /usr/share/ca-certificates/`
+
+Extract the certificates 
+`sudo dpkg-reconfigure ca-certificates`
+
+Validate the installed certificates
+`ls /etc/ssl/certs | grep "[CERT NAME]`
+
+## Windows
+Double click on .crt file. Installer will open. Install to trusted root CA directory.
+
