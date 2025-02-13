@@ -10,3 +10,6 @@ Click on each CA once generated and checkmark the appropriate characteristic
 ![[Pasted image 20250213113125.png]]
 
 
+## Install certificates on devices
+### Linux
+Download certificate
