@@ -1,3 +1,8 @@
+Palo Alto guide: How to Implement and Test SSL Decryption
+https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClEZCA0&lang=en_US
+How to generate a new self-signed SSL Certificate
+https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000Cla8CAC
+
 Establish device certificates
 If your network has a certificate authority, use this external CA, otherwise (as in CCDC) you may generate these locally.
 
