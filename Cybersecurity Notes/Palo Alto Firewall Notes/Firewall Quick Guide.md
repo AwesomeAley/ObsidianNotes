@@ -56,7 +56,7 @@ set the ip address for the management interface
 
 Manage configurations as needed [[Configuring Initial Firewall Settings]]
 
-### Licensing
+### Licensing and Updating
 Navigate to **Device > Licenses > Activate feature using authorization code**
 Activate with provided authorization code
 
