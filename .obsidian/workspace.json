@@ -8,47 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f32be1fff6522d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installing Splunk Forwarder on Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Installing Splunk Forwarder on Windows"
-            }
-          },
-          {
             "id": "cb01ad729c14f3b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCDC Firewall Hardening.md",
+                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/CCDC Firewall Hardening.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "CCDC Firewall Hardening"
             }
-          },
-          {
-            "id": "4b39418764024504",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Z - Pasted Images/Pasted image 20250213113125.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250213113125"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 229.5
   },
   "right": {
     "id": "de5bdddf503ce998",
@@ -193,12 +166,13 @@
   },
   "active": "cb01ad729c14f3b3",
   "lastOpenFiles": [
-    "Pasted image 20250213213056.png",
-    "Pasted image 20250213213039.png",
-    "Pasted image 20250213213009.png",
-    "Pasted image 20250213212854.png",
+    "Z - Pasted Images/Pasted image 20250213212854.png",
+    "Cybersecurity Notes/Palo Alto Firewall Notes/CCDC Firewall Hardening.md",
+    "Z - Pasted Images/Pasted image 20250213213507.png",
+    "Z - Pasted Images/Pasted image 20250213213056.png",
+    "Z - Pasted Images/Pasted image 20250213213039.png",
+    "Z - Pasted Images/Pasted image 20250213213009.png",
     "Installing Splunk Forwarder on Windows.md",
-    "CCDC Firewall Hardening.md",
     "Pasted image 20250213131214.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Turning on Decryption.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/General Firewall Configurations.md",
@@ -208,8 +182,6 @@
     "Pasted image 20250213112828.png",
     "Pasted image 20250213112704.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Policy Rules.md",
-    "Z - Pasted Images/Pasted image 20250213095224.png",
-    "Z - Pasted Images/Pasted image 20250213095125.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Network Interfaces.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",
