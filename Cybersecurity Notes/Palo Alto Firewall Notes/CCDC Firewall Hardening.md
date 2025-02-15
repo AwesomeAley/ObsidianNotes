@@ -20,3 +20,8 @@ Services
 
 Service Groups
 ![[Pasted image 20250213213056.png]]
+
+## Custom Vulnerability Signature that we did
+blocking "curl" command execution
+![[Pasted image 20250215163335.png]]
+![[Pasted image 20250215163400.png]]
