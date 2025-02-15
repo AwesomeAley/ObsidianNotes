@@ -1,4 +1,4 @@
-**NOTE** - In documentation, ">" dictates operational mode, "#" dictates configuration mode. Configuration mode is activated with `configuration` and changes must be committed with `commit`
+	net**NOTE** - In documentation, ">" dictates operational mode, "#" dictates configuration mode. Configuration mode is activated with `configuration` and changes must be committed with `commit`
 
 ### Initial setup
 Turn off the management interface and data external interface temporarily - you don't know who's accessing it
