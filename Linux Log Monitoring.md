@@ -12,6 +12,8 @@ Authentication events (logins)
 
 ## Auditd
 
+Auditd logs are stored in **/var/log/audit/audit.log**
+This can be queried with `ausearch`
 Tracking changes to the /etc/passwd file
 `sudo auditctl -w /etc/passwd -p wrap -k users`
 
