@@ -10,6 +10,7 @@ Authentication events (logins)
 `/var/log/btmp`: failed logins
 `/var/log/wtmp`: every login and logout
 
+## Auditd
 
 
 
