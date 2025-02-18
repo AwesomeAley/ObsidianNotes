@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb01ad729c14f3b3",
+            "id": "9347bfcb0cf6d500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Palo Alto Firewall Notes/CCDC Firewall Hardening.md",
+                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCDC Firewall Hardening"
+              "title": "-Cybersecurity Notes-"
+            }
+          },
+          {
+            "id": "923e3e8ebb6b6962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Log Monitoring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Log Monitoring"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,10 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb01ad729c14f3b3",
+  "active": "923e3e8ebb6b6962",
   "lastOpenFiles": [
-    "Z - Pasted Images/Pasted image 20250213212854.png",
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Linux Log Monitoring.md",
+    "Cybersecurity Notes/Linux/Monitoring Linux Systems.md",
+    "Untitled.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/CCDC Firewall Hardening.md",
+    "Z - Pasted Images/Pasted image 20250215163400.png",
+    "Z - Pasted Images/Pasted image 20250215163335.png",
+    "Z - Pasted Images/Pasted image 20250213212854.png",
     "Z - Pasted Images/Pasted image 20250213213507.png",
     "Z - Pasted Images/Pasted image 20250213213056.png",
     "Z - Pasted Images/Pasted image 20250213213039.png",
@@ -179,11 +200,8 @@
     "Z - Pasted Images/Pasted image 20250213113125.png",
     "Pasted image 20250213130931.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Profiles.md",
-    "Pasted image 20250213112828.png",
-    "Pasted image 20250213112704.png",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Security Policy Rules.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Network Interfaces.md",
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Firewall Quick Guide.md",
     "Cybersecurity Notes/Linux/Splunk/Installing Splunk Forwarder on Linux.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/Managing Administrator Accounts.md",
@@ -200,8 +218,6 @@
     "Cybersecurity Notes/Linux/Persistent Malware.md",
     "Cybersecurity Notes/Enterprise/Defining Scope and Objectives.md",
     "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
-    "Cybersecurity Notes/Enterprise/-Enterprise-.md",
-    "Cybersecurity Notes/Enterprise/- Regulations and Standards.md",
     "~GIT/Cybersecurity Notes/Pen Testing",
     "~GIT/Cybersecurity Notes",
     "~GIT",
