@@ -12,5 +12,8 @@ Authentication events (logins)
 
 ## Auditd
 
+Tracking changes to the /etc/passwd file
+`sudo auditctl -w /etc/passwd -p wrap -k users`
+
 
 
