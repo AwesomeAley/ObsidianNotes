@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Interview Questions.md",
+                "file": "Cybersecurity Notes/Interviewing Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview Questions"
+              "title": "Interviewing Prep"
             }
           }
         ],
@@ -211,7 +211,7 @@
   "lastOpenFiles": [
     "Cybersecurity Notes/Setting up Docker.md",
     "Cybersecurity Notes/Resources.md",
-    "Cybersecurity Notes/Interview Questions.md",
+    "Cybersecurity Notes/Interviewing Prep.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux System Hardening.md",
     "Cybersecurity Notes/Linux/Linux Log Monitoring.md",
