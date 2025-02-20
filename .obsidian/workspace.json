@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "-Cybersecurity Notes-"
             }
+          },
+          {
+            "id": "e56fc40abcc79e3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Questions"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,12 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "231d83f7112001ad",
+  "active": "e56fc40abcc79e3d",
   "lastOpenFiles": [
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Interview Questions.md",
     "Cybersecurity Notes/Linux/Linux System Hardening.md",
     "Cybersecurity Notes/Linux/Linux Log Monitoring.md",
     "Cybersecurity Notes/Linux/Monitoring Linux Systems.md",
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Untitled.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/CCDC Firewall Hardening.md",
     "Z - Pasted Images/Pasted image 20250215163400.png",
@@ -231,7 +246,6 @@
     "Cybersecurity Notes/Windows/Windows Tools",
     "Cybersecurity Notes/Enterprise/Incident Response Notes.md",
     "Cybersecurity Notes/Linux/Persistent Malware.md",
-    "Cybersecurity Notes/Enterprise/Defining Scope and Objectives.md",
     "~GIT/Cybersecurity Notes/Pen Testing",
     "~GIT/Cybersecurity Notes",
     "~GIT",
