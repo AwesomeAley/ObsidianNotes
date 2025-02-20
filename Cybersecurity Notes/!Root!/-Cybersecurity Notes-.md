@@ -26,6 +26,7 @@ Hub for all notes cybersecurity
 		- [[Microsoft Activation Script]] - HUGE: this script pulled from github allows for activation of windows versions and software like free! word or powerpoint
 - ### Applications
 	- **Firewalls**
+	- Preset configs: https://github.com/PaloAltoNetworks/iron-skillet
 		- Initial startup with [[General Firewall Configurations]]
 		- [[Managing Administrator Accounts]] - determine who has access
 		- [[Security Policy Rules]]
