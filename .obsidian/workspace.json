@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Linux Log Monitoring"
             }
+          },
+          {
+            "id": "231d83f7112001ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,10 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "923e3e8ebb6b6962",
+  "active": "231d83f7112001ad",
   "lastOpenFiles": [
-    "Cybersecurity Notes/Linux/Monitoring Linux Systems.md",
+    "Cybersecurity Notes/Linux/Linux System Hardening.md",
     "Cybersecurity Notes/Linux/Linux Log Monitoring.md",
+    "Cybersecurity Notes/Linux/Monitoring Linux Systems.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Untitled.md",
     "Cybersecurity Notes/Palo Alto Firewall Notes/CCDC Firewall Hardening.md",
@@ -217,7 +230,6 @@
     "Cybersecurity Notes/Enterprise/Incident Response Notes.md",
     "Cybersecurity Notes/Linux/Persistent Malware.md",
     "Cybersecurity Notes/Enterprise/Defining Scope and Objectives.md",
-    "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
     "~GIT/Cybersecurity Notes/Pen Testing",
     "~GIT/Cybersecurity Notes",
     "~GIT",
