@@ -1,7 +1,7 @@
-
+preparation plan:
+study technical questions/content
 ## Big Resource
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
-
 
 ## Encountered Interview Questions
 Interview questions I've encountered
