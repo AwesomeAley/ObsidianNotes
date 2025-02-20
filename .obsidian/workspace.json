@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Cybersecurity Notes/Interview Questions.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,8 +209,10 @@
   },
   "active": "e56fc40abcc79e3d",
   "lastOpenFiles": [
+    "Cybersecurity Notes/Setting up Docker.md",
+    "Cybersecurity Notes/Resources.md",
+    "Cybersecurity Notes/Interview Questions.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
-    "Interview Questions.md",
     "Cybersecurity Notes/Linux/Linux System Hardening.md",
     "Cybersecurity Notes/Linux/Linux Log Monitoring.md",
     "Cybersecurity Notes/Linux/Monitoring Linux Systems.md",
@@ -244,8 +246,6 @@
     "Cybersecurity Notes/Palo Alto Firewall Notes/-Palo Alto Firewall Notes.md",
     "Cybersecurity Notes/Windows/Windows Tools/Nessus.md",
     "Cybersecurity Notes/Windows/Windows Tools",
-    "Cybersecurity Notes/Enterprise/Incident Response Notes.md",
-    "Cybersecurity Notes/Linux/Persistent Malware.md",
     "~GIT/Cybersecurity Notes/Pen Testing",
     "~GIT/Cybersecurity Notes",
     "~GIT",
