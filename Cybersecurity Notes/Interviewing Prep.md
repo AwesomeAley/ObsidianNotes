@@ -148,6 +148,19 @@ An attacker gets access to the key distribution center account allowing them to 
 **Explain OWASP top 10**
 A standard awareness document showing top most common security risks to web applications
 
+**Explain SQL and its three types**
+An attacker sends unsanitized data via SQL queries through an application
+1: In band SQLi: Queries sent and replied to over the same channel
+2: Inferential SQLi: Queries that receive a reply that cannot be seen
+3: Out of band SQLi: Queries communicate over a different channel
+**How to prevent?**
+Sanitize queries
+
+**What is XSS and how to prevent?**
+Malicious scripts are injected into websites. For example uploading a script to a fileshare
+Sanitize every variable!
+
+
 
 ## Encountered Interview Questions
 Interview questions I've encountered
