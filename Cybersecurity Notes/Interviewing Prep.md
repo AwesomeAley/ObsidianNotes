@@ -130,6 +130,9 @@ Difference between IDS (detects) and IPS (prevents)
 
 **How can you protect yourself from Man-in-the-Middle attacks?**
 Answers vary; but encryption
+
+**What is Kerberos?**
+Authentication protocol that uses secret-key cryptography to authenticate usersS
 ## Encountered Interview Questions
 Interview questions I've encountered
 
