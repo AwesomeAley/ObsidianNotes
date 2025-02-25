@@ -6,6 +6,8 @@ Do not give a salary expectation. Instead answer like: "I think my salary expect
 ## Big Resource
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
 
+https://danielmiessler.com/blog/infosec-interview-questions#wisdom
+
 ## Interview Questions
 Pulled from
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
