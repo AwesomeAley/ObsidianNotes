@@ -185,11 +185,6 @@ encryption: secures data and requires verification to view data
 Hashing is the process of converting data into a key using a hash function. Original data cannot be retrieved
 encryption is the process of converting plaintext data into unreadable garbage known as the ciphertext. Can be transformed back into plaintext using encryption key
 salted hashes increases hash complexity. 
-## Encountered Interview Questions
-Interview questions I've encountered
-
-**What is "living off the land"**
-A method where attackers use legitimate, trusted built-in tools already in the target system to conduct attacks over using custom-made attacks.
 
 **TLS/SSL**
 TLS is the newest version of SSL. Encryption protocol for web communications
@@ -198,3 +193,49 @@ TLS is the newest version of SSL. Encryption protocol for web communications
 
 Compiler compiles written code, disassembler translates machine code back to assembly language.
 
+**What is the difference between static and dynamic malware analysis?**
+Static Analysis: Analyzing malware without running them. Analyzing each step the malware takes.
+Dynamic Analysis: Analyzing the malware by running it. Analyzing the impact on the system.
+
+**How does malware achieve persistence on Windows?**
+- Services
+- Registry Run Keys (Run, RunOnce)
+- Task Scheduler
+- Infecting clean files
+
+### Event Log Analysis
+**Which event logs are available by default on Windows?**
+- security
+- application
+- system
+
+**Successful authentication event ID:** 4624 (logon type 10 for remote auth, 7 for disconnected session)
+**Failed logon event ID:** 4625
+**Successful RDP session:** 1149
+
+### Threat Intelligence
+**What is cyber threat intelligence (CTI)?**
+Analysis using techniques and tools to generate information about threats. Used to make informed and proactive security decisions.
+
+**Is an IP address by itself Threat Intelligence?**
+No, an ip address can become intelligence when contextualized with the nature of a threat
+
+**What is TAXII in Cyber Threat Intelligence?**
+Trusted Automated eXchange of Intelligence Information, defines how threat information can be shared. MIPS
+
+**Name some Threat Intelligence Platforms**
+- MISP
+- Cisco Talos
+- IBM X-Force Exchange
+- OTX AlienVault
+
+**What are the types of threat intelligence?**
+- Strategic Threat Intelligence
+- Tactical Threat Intelligence
+- Technical Threat Intelligence
+- Operational Threat Intelligence
+## Encountered Interview Questions
+Interview questions I've encountered
+
+**What is "living off the land"**
+A method where attackers use legitimate, trusted built-in tools already in the target system to conduct attacks over using custom-made attacks.
