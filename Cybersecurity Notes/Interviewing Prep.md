@@ -28,7 +28,7 @@ A vulnerability caused by an incomplete or incorrect configuration
 **Vulnerability, Risk, Threat**
 Vulnerability is a weakness in a system that can be exploited
 Risk is what you stand to lose: the level of impact and its likelihood
-
+Threat is an entity or event with the potential to adversely impact operations
 ## Encountered Interview Questions
 Interview questions I've encountered
 
