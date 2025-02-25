@@ -22,6 +22,9 @@ red team attacks systems, blue team defends
 **What is a firewall?**
 A device that filters network traffic based on a set of rules
 
+**What is a security misconfiguration?**
+A vulnerability caused by an incomplete or incorrect configuration
+
 
 ## Encountered Interview Questions
 Interview questions I've encountered
