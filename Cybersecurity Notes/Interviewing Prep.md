@@ -10,6 +10,7 @@ https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#genera
 Pulled from
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
 
+### General
 **What is black, white, and gray hat?**
 Black hats are hackers who enter systems illegally without permission in an effort to exploit for financial gain.
 White hats are ethical hackers who are certified and have permission. They protect systems/organizations
@@ -71,6 +72,21 @@ Steps attackers take in a cyberattack
 
 **What is SIEM?**
 Security information and event management is a security solution that provides real time logging of events to detect threats.
+
+**What are IOCs, and IOAs?**
+IOC: Indicators of compromise are evidence of  the techniques used for potential intrusions
+IOA: Indicators of attack are evidence of techniques used in an attack
+
+**True positive vs False Positive**
+True positive is when an alert alerts the situation it is supposed to detect.
+False positive is when an alert alerts a situation that it is not supposed to detect.
+
+**Describe the Zero Trust security concept**
+A model that operates on the principle of never trust always verify. Assumes threats can come from outside and inside the network and require strict verification of very access attempt.
+
+### Network
+**What is the OSI Model? Explain each layer**
+
 ## Encountered Interview Questions
 Interview questions I've encountered
 
