@@ -88,7 +88,17 @@ A model that operates on the principle of never trust always verify. Assumes thr
 **What is the OSI Model? Explain each layer**
 A model that describes the standard of communication processes.
 
-7: Application: Closest to the end users, implements communication between the client and the server.
+7: Application: Closest to the end users, actions done via application that facilitate communication between the client and the server.
+
+6: Presentation Layer: Establishes data formatting and translating into a format specified by the application layer.
+
+5: Session Layer: Creates the setup, controls the connections, and ends the teardown between devices.
+
+4: Transport Layer: Provides the mean of transferring/transporting data from source to destination across a network
+
+3: Provides the means of transferring/transporting data to different networks
+
+2: Data Link Layer: 
 ## Encountered Interview Questions
 Interview questions I've encountered
 
