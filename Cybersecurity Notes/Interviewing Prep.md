@@ -43,6 +43,7 @@ An extra layer of authentication before users are given access. Requires users t
 
 **Could you share some general endpoint security product categories?**
 - Antivirus
+- antispyware
 - host-firewall
 - EDR (endpoint detection and response)
 - XDR (extended detection and response)
