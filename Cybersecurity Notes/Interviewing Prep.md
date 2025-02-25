@@ -1,5 +1,8 @@
 Get to know the organization, the position you are interviewing for, and what difficulties/responsibilities both have.
 
+Do not give a salary expectation. Instead answer like: "I think my salary expectations are within your scale. I am open to your suggestions at the proposal stage"
+
+
 ## Big Resource
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
 
