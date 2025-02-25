@@ -7,6 +7,8 @@ Do not give a salary expectation. Instead answer like: "I think my salary expect
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
 
 ## Interview Questions
+Pulled from
+https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
 
 **What is black, white, and gray hat?**
 Black hats are hackers who enter systems illegally without permission in an effort to exploit for financial gain.
@@ -29,6 +31,12 @@ A vulnerability caused by an incomplete or incorrect configuration
 Vulnerability is a weakness in a system that can be exploited
 Risk is what you stand to lose: the level of impact and its likelihood
 Threat is an entity or event with the potential to adversely impact operations
+
+**What is compliance?**
+Following the set of standards authorized by a governing body
+
+**What is MITRE ATT\*CK**
+Globally-accessible knowledge base of adversary attacks and techniques. 
 ## Encountered Interview Questions
 Interview questions I've encountered
 
