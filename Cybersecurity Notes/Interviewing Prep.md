@@ -19,6 +19,9 @@ Sending packets to specific ports on a host and analyzing the response. Used to 
 **Blue Team vs Red Team?**
 red team attacks systems, blue team defends
 
+**What is a firewall?**
+A device that filters network traffic based on a set of rules
+
 
 ## Encountered Interview Questions
 Interview questions I've encountered
