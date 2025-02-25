@@ -191,3 +191,10 @@ Interview questions I've encountered
 **What is "living off the land"**
 A method where attackers use legitimate, trusted built-in tools already in the target system to conduct attacks over using custom-made attacks.
 
+**TLS/SSL**
+TLS is the newest version of SSL. Encryption protocol for web communications
+
+### Malware Analysis
+
+Compiler compiles written code, disassembler translates machine code back to assembly language.
+
