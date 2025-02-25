@@ -98,7 +98,13 @@ A model that describes the standard of communication processes.
 
 3: Provides the means of transferring/transporting data to different networks
 
-2: Data Link Layer: 
+2: Data Link Layer: Provides node-to-node data transfer a link between two connected nodes. Detects and corrects errors in the physical layer and defines the protocol to establish, the flow, and terminate a connection between two physically connected devices
+	- MAC Layer: How devices gain access to a medium and permission to transmit data
+	- LLC Layer: Identifying and encapsulating network layer protocols, error checking, and frame synchronization
+1: Physical Layer: The transmission and reception of raw unstructured data between a device and physical medium
+
+![[Pasted image 20250225112106.png]]
+
 ## Encountered Interview Questions
 Interview questions I've encountered
 
