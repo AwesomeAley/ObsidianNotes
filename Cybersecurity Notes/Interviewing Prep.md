@@ -1,4 +1,4 @@
-Get to know the organization, the position you are interviewing for, and what difficulties/interests both have.
+Get to know the organization, the position you are interviewing for, and what difficulties/responsibilities both have.
 
 ## Big Resource
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
