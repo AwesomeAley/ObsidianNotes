@@ -58,6 +58,9 @@ A model that forms the basis for the security of systems
 Confidentiality, Integrity, Availability
 **What is AAA?**
 Authentication, authorization, accounting
+
+**What is the Cyber Kill Chain?**
+A model that identifies
 ## Encountered Interview Questions
 Interview questions I've encountered
 
