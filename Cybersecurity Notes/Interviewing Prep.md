@@ -159,9 +159,32 @@ Sanitize queries
 **What is XSS and how to prevent?**
 Malicious scripts are injected into websites. For example uploading a script to a fileshare
 Sanitize every variable!
+1: Reflected XSS: non-persistent, payload contained in the request
+2: Stored XXS: persistent, attacker permanently uploads payload
+3: DOM based XXS: Payload executed through the website code
 
+**What is IDOR?**
+Insecure direct object reference: vulnerability where someone can access an object that belongs to somebody else
 
+**What is LFI, RFI?**
+Local/Remote File Inclusion: vulnerability where a file is included to the same/different server without sanitizing the data from the user.
 
+**What is CSRF?**
+Forged requests using the credentials of authenticated user making that user preform unwanted actions
+
+**What is WAF?**
+Web Application Firewall: Filters and monitors https traffic between web app and the internet.
+
+### Cryptography
+**What are encoding, hashing, encryption?**
+encoding: converts data to the desired format for exchange
+hashing: maintains the integrity of data
+encryption: secures data and requires verification to view data
+
+**Differences between hashing and encryption?**
+Hashing is the process of converting data into a key using a hash function. Original data cannot be retrieved
+encryption is the process of converting plaintext data into unreadable garbage known as the ciphertext. Can be transformed back into plaintext using encryption key
+salted hashes increases hash complexity. 
 ## Encountered Interview Questions
 Interview questions I've encountered
 
