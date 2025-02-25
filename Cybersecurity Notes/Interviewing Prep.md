@@ -132,7 +132,23 @@ Difference between IDS (detects) and IPS (prevents)
 Answers vary; but encryption
 
 **What is Kerberos?**
-Authentication protocol that uses secret-key cryptography to authenticate usersS
+Authentication protocol that uses secret-key cryptography to authenticate users
+
+**What is a Golden Ticket attack?**
+An attacker gets access to the key distribution center account allowing them to create authentication tickets to grant access to any resource.
+
+### Web Application Security
+**What are the HTTP response codes?**
+- 1XX: informational
+- 2XX: Success
+- 3XX: Redirection
+- 4XX: Client-side Error
+- 5XX Server-side Error
+
+**Explain OWASP top 10**
+A standard awareness document showing top most common security risks to web applications
+
+
 ## Encountered Interview Questions
 Interview questions I've encountered
 
