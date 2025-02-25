@@ -1,5 +1,5 @@
-preparation plan:
-study technical questions/content
+Get to know the organization, the position you are interviewing for, and what difficulties/interests both have.
+
 ## Big Resource
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
 
