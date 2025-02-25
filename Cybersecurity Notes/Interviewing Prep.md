@@ -16,6 +16,9 @@ Gray hats are a mix. Illegally find vulnerabilities and access systems but do no
 **What is port scanning?**
 Sending packets to specific ports on a host and analyzing the response. Used to find what ports are open and receiving/sending data.
 
+**Blue Team vs Red Team?**
+red team attacks systems, blue team defends
+
 
 ## Encountered Interview Questions
 Interview questions I've encountered
