@@ -108,7 +108,28 @@ A model that describes the standard of communication processes.
 **What is the Three-Way Handshake?**
 TCP uses the three-way handshake to establish a reliable connection. Both sides synchronize (SYN) and acknowledge (ACK) each other.
 ![[Pasted image 20250225120708.png]]
+**What is the TCP/IP Model?**
+Default model of communication. Developed by DOD
+1: Application Layer
+2: Transport Layer
+3: Internet Layer
+4: Network Access Layer
 
+**What is ARP?**
+Address resolution protocol is a communication protocol used for discovering data link layer addresses (MAC) with the given network layer address (IP)
+
+**What is DHCP?**
+Dynamic Host Configuration Protocol is a protocol that automatically assigns IP address to devices.
+
+**Share some general network security product names**
+- firewall
+- IDS (intrusion detection system)
+- IPS (intrusion prevention system)
+- WAF (Web application firewall)
+Difference between IDS (detects) and IPS (prevents)
+
+**How can you protect yourself from Man-in-the-Middle attacks?**
+Answers vary; but encryption
 ## Encountered Interview Questions
 Interview questions I've encountered
 
