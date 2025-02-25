@@ -6,6 +6,17 @@ Do not give a salary expectation. Instead answer like: "I think my salary expect
 ## Big Resource
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
 
+## Interview Questions
+
+**What is black, white, and gray hat?**
+Black hats are hackers who enter systems illegally without permission in an effort to exploit for financial gain.
+White hats are ethical hackers who are certified and have permission. They protect systems/organizations
+Gray hats are a mix. Illegally find vulnerabilities and access systems but do not exploit them. Usually notify owners for reward
+
+**What is port scanning?**
+Sending packets to specific ports on a host and analyzing the response. Used to find what ports are open and receiving/sending data.
+
+
 ## Encountered Interview Questions
 Interview questions I've encountered
 
