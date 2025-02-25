@@ -25,7 +25,9 @@ A device that filters network traffic based on a set of rules
 **What is a security misconfiguration?**
 A vulnerability caused by an incomplete or incorrect configuration
 
-
+**Vulnerability, Risk, Threat**
+Vulnerability is a weakness in a system that can be exploited
+Risk is what you stand to lose: the level of impact on the assets.
 ## Encountered Interview Questions
 Interview questions I've encountered
 
