@@ -86,7 +86,9 @@ A model that operates on the principle of never trust always verify. Assumes thr
 
 ### Network
 **What is the OSI Model? Explain each layer**
+A model that describes the standard of communication processes.
 
+7: Application: Closest to the end users, implements communication between the client and the server.
 ## Encountered Interview Questions
 Interview questions I've encountered
 
