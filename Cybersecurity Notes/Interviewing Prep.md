@@ -37,6 +37,8 @@ Following the set of standards authorized by a governing body
 
 **What is MITRE ATT\*CK**
 Globally-accessible knowledge base of adversary attacks and techniques. 
+
+
 ## Encountered Interview Questions
 Interview questions I've encountered
 
