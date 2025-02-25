@@ -105,6 +105,10 @@ A model that describes the standard of communication processes.
 
 ![[Pasted image 20250225112106.png]]
 
+**What is the Three-Way Handshake?**
+TCP uses the three-way handshake to establish a reliable connection. Both sides synchronize (SYN) and acknowledge (ACK) each other.
+![[Pasted image 20250225120708.png]]
+
 ## Encountered Interview Questions
 Interview questions I've encountered
 
