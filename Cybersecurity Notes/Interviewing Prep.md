@@ -41,7 +41,12 @@ Globally-accessible knowledge base of adversary attacks and techniques.
 **What is 2FA**
 An extra layer of authentication before users are given access. Requires users to provide an additional piece of information. 
 
-
+**Could you share some general endpoint security product categories?**
+- Antivirus
+- host-firewall
+- EDR (endpoint detection and response)
+- XDR (extended detection and response)
+- DLP (Data loss prevention)
 ## Encountered Interview Questions
 Interview questions I've encountered
 
