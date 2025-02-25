@@ -48,6 +48,16 @@ An extra layer of authentication before users are given access. Requires users t
 - EDR (endpoint detection and response)
 - XDR (extended detection and response)
 - DLP (Data loss prevention)
+
+**What is HIDS and NIDS?**
+HIDS = host intrusion detection system
+NIDS = network intrusion detection system
+
+**What is the CIA triad?**
+A model that forms the basis for the security of systems
+Confidentiality, Integrity, Availability
+**What is AAA?**
+Authentication, authorization, accounting
 ## Encountered Interview Questions
 Interview questions I've encountered
 
