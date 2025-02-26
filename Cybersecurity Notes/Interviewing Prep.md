@@ -19,6 +19,9 @@ Black hats are hackers who enter systems illegally without permission in an effo
 White hats are ethical hackers who are certified and have permission. They protect systems/organizations
 Gray hats are a mix. Illegally find vulnerabilities and access systems but do not exploit them. Usually notify owners for reward
 
+**What is a SOC?**
+A centralized unit focuses on monitoring, detecting, analyzing, and responding to threats
+
 **What is port scanning?**
 Sending packets to specific ports on a host and analyzing the response. Used to find what ports are open and receiving/sending data.
 
