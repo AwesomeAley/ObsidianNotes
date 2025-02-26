@@ -12,6 +12,9 @@ Company salary range: $60k-$80k
 - Staying current on IT security trends, vulnerabilities, and news and recommending security enhancements
 
 
+
+
+
 Understand IR lifecycle
 steps of IR
 walk me through a specific security incident and how you handled it
