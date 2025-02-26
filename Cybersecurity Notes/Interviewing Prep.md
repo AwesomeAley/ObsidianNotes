@@ -246,4 +246,14 @@ A method where attackers use legitimate, trusted built-in tools already in the t
 
 ### System Administration
 **How do you change your DNS settings in Linux/Windows?**
+Linux
+edit the *network configuration file*
+`sudo nano /etc/systemd/resolved.conf`
+modify
+`DNS=8.8.8.8 8.8.4.4`
+
+Windows
+*Control Panel* > *Network and Sharing Center* > *Change Adapter*
+Right click active network adapter > *Properties*
+Select *Internet Protocol Version 4* > *Properties*
 
