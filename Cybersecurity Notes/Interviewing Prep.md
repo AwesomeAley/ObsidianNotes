@@ -12,6 +12,7 @@ https://danielmiessler.com/blog/infosec-interview-questions#wisdom
 Pulled from
 https://github.com/LetsDefend/SOC-Interview-Questions/blob/main/README.md#general
 
+## SOC Interview Questions
 ### General
 **What is black, white, and gray hat?**
 Black hats are hackers who enter systems illegally without permission in an effort to exploit for financial gain.
@@ -236,8 +237,13 @@ Trusted Automated eXchange of Intelligence Information, defines how threat infor
 - Tactical Threat Intelligence
 - Technical Threat Intelligence
 - Operational Threat Intelligence
-## Encountered Interview Questions
-Interview questions I've encountered
 
 **What is "living off the land"**
 A method where attackers use legitimate, trusted built-in tools already in the target system to conduct attacks over using custom-made attacks.
+
+
+## InfoSec Interview Questions
+
+### System Administration
+**How do you change your DNS settings in Linux/Windows?**
+
