@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Interviewing Prep.md",
+                "file": "Sentinel Threat Investigation Analyst.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interviewing Prep"
+              "title": "Sentinel Threat Investigation Analyst"
             }
           }
         ],
@@ -181,8 +181,8 @@
   },
   "active": "e56fc40abcc79e3d",
   "lastOpenFiles": [
-    "Sentinel Threat Investigation Analyst.md",
     "Cybersecurity Notes/Interviewing Prep.md",
+    "Sentinel Threat Investigation Analyst.md",
     "Cybersecurity Notes/Resources.md",
     "Cybersecurity Notes/Enterprise/Finance Related Regulations and Standards.md",
     "Pasted image 20250225120708.png",

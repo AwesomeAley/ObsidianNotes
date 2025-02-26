@@ -14,3 +14,4 @@ Company salary range: $60k-$80k
 
 Understand IR lifecycle
 steps of IR
+walk me through a specific security incident and how you handled it
