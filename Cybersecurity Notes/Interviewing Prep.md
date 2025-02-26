@@ -266,3 +266,4 @@ Both: initial exchange done by using asymmetric and that bulk data requires spee
 
 **Difference between symmetric and public-key encryption?**
 Symmetric uses one key while public-key uses two
+Symmetric encryption uses the same key to encrypt and decrypt, while asymmetric encryption requires a pair of keys using a public key to encrypt and a private key to decrypt the data.
