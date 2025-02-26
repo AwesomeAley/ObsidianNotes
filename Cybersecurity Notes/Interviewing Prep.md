@@ -21,6 +21,7 @@ Gray hats are a mix. Illegally find vulnerabilities and access systems but do no
 
 **What is a SOC?**
 A centralized unit focuses on monitoring, detecting, analyzing, and responding to threats
+SOC analysts are the front line responsible to continuously monitor an organization's operations and network for suspicious activity.
 
 **What is port scanning?**
 Sending packets to specific ports on a host and analyzing the response. Used to find what ports are open and receiving/sending data.
