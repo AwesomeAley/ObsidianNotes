@@ -16,3 +16,4 @@ Understand IR lifecycle
 steps of IR
 walk me through a specific security incident and how you handled it
 what technologies are you familiar with
+what tools do you use to stay up to date on security trends
