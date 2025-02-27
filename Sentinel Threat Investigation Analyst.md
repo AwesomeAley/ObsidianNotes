@@ -4,6 +4,7 @@ Company salary range: $60k-$80k
 Discuss usage of splunk, panos, snort
 
 - Confident triaging alerts and reports of incidents
+incident handling process: detect > analyze > contain> eradicate > recover
 - Confident analyzing real traffic and associated artifacts: malicious, normal, and application traffic; and demonstrate the ability to differentiate malicious traffic from false positives
 - Configuring firewalls, data encryption, and other security measures
 - Understanding of how DNS works for both legitimate and malicious purposes
