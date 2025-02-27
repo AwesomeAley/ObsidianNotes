@@ -1,6 +1,7 @@
 Company salary range: $60k-$80k
 
 - Experience performing daily system monitoring and health checks for various security products
+Discuss usage of splunk, panos, snort
 - Confident triaging alerts and reports of incidents
 - Confident analyzing real traffic and associated artifacts: malicious, normal, and application traffic; and demonstrate the ability to differentiate malicious traffic from false positives
 - Configuring firewalls, data encryption, and other security measures
