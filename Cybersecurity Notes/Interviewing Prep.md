@@ -155,7 +155,7 @@ An attacker gets access to the key distribution center account allowing them to 
 **Explain OWASP top 10**
 A standard awareness document showing top most common security risks to web applications
 
-**Explain SQL and its three types**
+**Explain SQLi and its three types**
 An attacker sends unsanitized data via SQL queries through an application
 1: In band SQLi: Queries sent and replied to over the same channel
 2: Inferential SQLi: Queries that receive a reply that cannot be seen
