@@ -35,7 +35,8 @@
               "title": "Sentinel Threat Investigation Analyst"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54de7d223d05b874",
+  "active": "e56fc40abcc79e3d",
   "lastOpenFiles": [
-    "Sentinel Threat Investigation Analyst.md",
     "Cybersecurity Notes/Interviewing Prep.md",
+    "Sentinel Threat Investigation Analyst.md",
     "Cybersecurity Notes/Resources.md",
     "Cybersecurity Notes/Enterprise/Finance Related Regulations and Standards.md",
     "Pasted image 20250225120708.png",

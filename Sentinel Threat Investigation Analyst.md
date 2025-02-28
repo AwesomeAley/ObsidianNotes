@@ -1,7 +1,7 @@
 Company salary range: $60k-$80k
 
 - Experience performing daily system monitoring and health checks for various security products
-Discuss usage of splunk, panos, snort
+Discuss usage of splunk, panos, cisco prime, solar winds, apc smartconnect
 
 - Confident triaging alerts and reports of incidents
 incident handling process: detect > analyze > contain> eradicate > recover
