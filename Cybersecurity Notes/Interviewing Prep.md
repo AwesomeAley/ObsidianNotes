@@ -279,6 +279,8 @@ SAR (Suspicious Activity Reporting) - Financial institutions must report suspici
 
 EDD (Enhanced Due Diligence) - Due diligence financial institutions must undertake to assess high-risk customers and activities that pose a risk of money laundering and fraudulent activities.
 
+CFT (Countering Financial Terrorism) - Regulatory measures, policies, and procedures that financial institutions must follow to protect, detect, and report financial activities that could support terrorism.
+
 Financial institutions are also required to keep detailed records of all transactions for a specific period of time. Transactions must also be monitored to help detect illicit and fraudulent activities. Organizations must also ensure that they are not conducting business with sanctioned entities.
 
 
@@ -287,6 +289,8 @@ Bank Secrecy Act (BAC) (1970) - Foundation of AML regulations, requires financia
 
 USA PATRIOT Act (2001) - Strengthened AML measures with focus on combating terrorist financing
 
+
+Sanctions
 OFAC Sanctions - A division of the Treasury Department responsible for enforcing trade sanctions. Essentially a list of banned entities that US financial institutions cannot conduct business with. Entities involved include terrorism , drug trafficking, human rights abuses, etc.
 	SDN (Specially Designated Nationals) List - List of entities subject to US sanctions.
 	includes country-based sanction programs (Cuba, North Korea, Iran), as well as lists that target specific industries (finance, energy, defense)
