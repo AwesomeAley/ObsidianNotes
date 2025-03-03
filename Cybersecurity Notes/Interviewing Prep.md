@@ -277,12 +277,21 @@ KYC (Know Your Customer) - Financial institutions must verify the identity of th
 
 SAR (Suspicious Activity Reporting) - Financial institutions must report suspicious transactions to regulatory authorities such as FinCEN. 
 
+EDD (Enhanced Due Diligence) - Due diligence financial institutions must undertake to assess high-risk customers and activities that pose a risk of money laundering and fraudulent activities.
+
 Financial institutions are also required to keep detailed records of all transactions for a specific period of time. Transactions must also be monitored to help detect illicit and fraudulent activities. Organizations must also ensure that they are not conducting business with sanctioned entities.
+
 
 ### Major AML Regulations
 Bank Secrecy Act (BAC) (1970) - Foundation of AML regulations, requires financial institutions to report large cash transactions ($10,000) and suspicious activities.
 
 USA PATRIOT Act (2001) - Strengthened AML measures with focus on combating terrorist financing
+
+OFAC Sanctions - A division of the Treasury Department responsible for enforcing trade sanctions. Essentially a list of banned entities that US financial institutions cannot conduct business with. Entities involved include terrorism , drug trafficking, human rights abuses, etc.
+	SDN (Specially Designated Nationals) List - List of entities subject to US sanctions.
+	includes country-based sanction programs (Cuba, North Korea, Iran), as well as lists that target specific industries (finance, energy, defense)
+
+
 
 Financial Action Task Force (FATF) - International framework providing guidance on AML policies
 
