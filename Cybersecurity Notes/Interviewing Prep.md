@@ -270,3 +270,10 @@ Symmetric encryption uses the same key to encrypt and decrypt, while asymmetric 
 
 
 ## Fintech/GRC Interview Questions
+AML/CFT compliance
+risk mitigation effectiveness
+CDD and onboarding
+KYC and CIP requirements
+OFAC watchlists
+SAR
+GRC
