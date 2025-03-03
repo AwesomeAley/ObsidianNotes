@@ -270,10 +270,20 @@ Symmetric encryption uses the same key to encrypt and decrypt, while asymmetric 
 
 
 ## Fintech/GRC Interview Questions
-AML/CFT compliance
-risk mitigation effectiveness
-CDD and onboarding
-KYC and CIP requirements
-OFAC watchlists
-SAR
-GRC
+### AML (Anti-Money Laundering) Laws
+CDD (Customer Due Diligence) - Financial institutions must verify the identities of their customers, assess their risk profiles, and monitor their transactions
+
+KYC (Know Your Customer) - Financial institutions must verify the identity of their customers before allowing them to open accounts to prevent fraudulent activities
+
+SAR (Suspicious Activity Reporting) - Financial institutions must report suspicious transactions to regulatory authorities such as FinCEN. 
+
+Financial institutions are also required to keep detailed records of all transactions for a specific period of time. Transactions must also be monitored to help detect illicit and fraudulent activities. Organizations must also ensure that they are not conducting business with sanctioned entities.
+
+### Major AML Regulations
+Bank Secrecy Act (BAC) (1970) - Foundation of AML regulations, requires financial institutions to report large cash transactions ($10,000) and suspicious activities.
+
+USA PATRIOT Act (2001) - Strengthened AML measures with focus on combating terrorist financing
+
+Financial Action Task Force (FATF) - International framework providing guidance on AML policies
+
+EU regulations
