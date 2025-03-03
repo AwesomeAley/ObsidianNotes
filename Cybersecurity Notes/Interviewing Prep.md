@@ -305,3 +305,10 @@ Sarbanes-Oxley Act of 2002 (SOX)
 - Requires CEO/CFO certifications on financial reports
 - Mandates internal controls audits and oversight by the Public Company Accounting Oversight Board (PCAOB)
 
+Dodd-Frank Act (2010)
+- After 2008 financial crisis to increase market oversight.
+- Created the Financial Stability Oversight Council (FSOC) and Consumer Financial Protection Bureau (CFPB)
+- Requires hedge funds and private equity funds to register with the SEC
+- enforces whistleblower protections
+
+
