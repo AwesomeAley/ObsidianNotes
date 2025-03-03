@@ -298,4 +298,10 @@ United Nations Security Council Sanctions list
 FATF high-risk jurisdictions
 Financial Action Task Force (FATF) - International framework providing guidance on AML policies
 
-EU regulations
+EU regulations (AMLDs)
+
+**SEC Regulations**
+Sarbanes-Oxley Act of 2002 (SOX)
+- Requires CEO/CFO certifications on financial reports
+- Mandates internal controls audits and oversight by the Public Company Accounting Oversight Board (PCAOB)
+
