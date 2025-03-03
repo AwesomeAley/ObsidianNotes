@@ -301,8 +301,8 @@ Financial Action Task Force (FATF) - International framework providing guidance 
 EU regulations (AMLDs)
 
 **SEC Regulations**
-Securities Act of 1933
-- requires 
+Governs financial markets, investment activities, and public companies to ensure transparency, protect investors, and prevent fraud. 
+
 Sarbanes-Oxley Act of 2002 (SOX)
 - Requires CEO/CFO certifications on financial reports
 - Mandates internal controls audits and oversight by the Public Company Accounting Oversight Board (PCAOB)
