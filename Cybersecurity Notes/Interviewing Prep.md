@@ -294,9 +294,8 @@ USA PATRIOT Act (2001) - Strengthened AML measures with focus on combating terro
 OFAC Sanctions - A division of the Treasury Department responsible for enforcing trade sanctions. Essentially a list of banned entities that US financial institutions cannot conduct business with. Entities involved include terrorism , drug trafficking, human rights abuses, etc.
 	SDN (Specially Designated Nationals) List - List of entities subject to US sanctions.
 	includes country-based sanction programs (Cuba, North Korea, Iran), as well as lists that target specific industries (finance, energy, defense)
-
-
-
+United Nations Security Council Sanctions list
+FATF high-risk jurisdictions
 Financial Action Task Force (FATF) - International framework providing guidance on AML policies
 
 EU regulations
