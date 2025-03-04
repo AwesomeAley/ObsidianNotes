@@ -281,6 +281,10 @@ EDD (Enhanced Due Diligence) - Due diligence financial institutions must underta
 
 CFT (Countering Financial Terrorism) - Regulatory measures, policies, and procedures that financial institutions must follow to protect, detect, and report financial activities that could support terrorism.
 
+CIP (Customer Identification Program) - US federal regulations that mandate financial institutions to verify the identities of customers when opening accounts.
+	- Collect identifying information and verify identity such as DOB, name, address, identification number (SSN)
+	- maintain records and monitor/reporting SARs
+
 Financial institutions are also required to keep detailed records of all transactions for a specific period of time. Transactions must also be monitored to help detect illicit and fraudulent activities. Organizations must also ensure that they are not conducting business with sanctioned entities.
 
 
