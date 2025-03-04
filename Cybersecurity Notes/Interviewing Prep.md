@@ -293,6 +293,7 @@ Bank Secrecy Act (BAC) (1970) - Foundation of AML regulations, requires financia
 
 USA PATRIOT Act (2001) - Strengthened AML measures with focus on combating terrorist financing
 
+Anti-Money Laundering Act (AMLA) (2001) - new FinCEN powers and modernized BSA
 
 **Sanctions**
 OFAC Sanctions - A division of the Treasury Department responsible for enforcing trade sanctions. Essentially a list of banned entities that US financial institutions cannot conduct business with. Entities involved include terrorism , drug trafficking, human rights abuses, etc.
