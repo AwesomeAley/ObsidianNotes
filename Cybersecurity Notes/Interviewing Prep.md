@@ -314,4 +314,8 @@ Dodd-Frank Act (2010)
 - enforces whistleblower protections
 
 
+COBIT (Control Objectives for Information and Related Technologies) - IT governance and control framework
+
+ISO 38500 - IT corporate governance standard
+
 
