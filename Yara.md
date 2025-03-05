@@ -24,4 +24,9 @@ rule helloworld_checker{
 Open source tool for advanced YARA scans
 https://github.com/Neo23x0/Loki/releases
 
-
+Navigate to Loki directory
+`cd ~/Loki/`
+Update signature base directory
+`--update`
+Run Loki
+`python -loki.py -h`
