@@ -17,3 +17,5 @@ rule helloworld_checker{
 		any of them and filesize < 10KB
 }
 ```
+
+![[Pasted image 20250305105617.png]]
