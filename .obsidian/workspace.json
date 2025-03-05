@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54de7d223d05b874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "db6a4a0d2f7fdfdb",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Yara"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +166,13 @@
   },
   "active": "db6a4a0d2f7fdfdb",
   "lastOpenFiles": [
-    "Yara.md",
-    "Yara.md",
-    "README.md",
     "Cybersecurity Notes/Interviewing Prep.md",
+    "Cybersecurity Notes/Enterprise/Finance Related Regulations and Standards.md",
+    "README.md",
+    "Yara.md",
+    "Yara.md",
     "Sentinel Threat Investigation Analyst.md",
     "Cybersecurity Notes/Resources.md",
-    "Cybersecurity Notes/Enterprise/Finance Related Regulations and Standards.md",
     "Pasted image 20250225120708.png",
     "Z - Pasted Images/Pasted image 20250225112106.png",
     "Cybersecurity Notes/Setting up Docker.md",

@@ -1,4 +1,37 @@
+Bank Secrecy Act (BAC) (1970) - Foundation of AML regulations, requires financial institutions to report large cash transactions ($10,000) and suspicious activities.
 
+USA PATRIOT Act (2001) - Strengthened AML measures with focus on combating terrorist financing
+
+Anti-Money Laundering Act (AMLA) (2001) - new FinCEN powers and modernized BSA
+
+**Sanctions**  
+OFAC Sanctions - A division of the Treasury Department responsible for enforcing trade sanctions. Essentially a list of banned entities that US financial institutions cannot conduct business with. Entities involved include terrorism , drug trafficking, human rights abuses, etc.  
+SDN (Specially Designated Nationals) List - List of entities subject to US sanctions.  
+includes country-based sanction programs (Cuba, North Korea, Iran), as well as lists that target specific industries (finance, energy, defense)  
+United Nations Security Council Sanctions list  
+FATF high-risk jurisdictions  
+Financial Action Task Force (FATF) - International framework providing guidance on AML policies
+
+EU regulations (AMLDs)
+
+**SEC Regulations**  
+Governs financial markets, investment activities, and public companies to ensure transparency, protect investors, and prevent fraud.
+
+Sarbanes-Oxley Act of 2002 (SOX)
+
+- Requires CEO/CFO certifications on financial reports
+- Mandates internal controls audits and oversight by the Public Company Accounting Oversight Board (PCAOB)
+
+Dodd-Frank Act (2010)
+
+- After 2008 financial crisis to increase market oversight.
+- Created the Financial Stability Oversight Council (FSOC) and Consumer Financial Protection Bureau (CFPB)
+- Requires hedge funds and private equity funds to register with the SEC
+- enforces whistleblower protections
+
+COBIT (Control Objectives for Information and Related Technologies) - IT governance and control framework
+
+ISO 38500 - IT corporate governance standard
 #### SOX
 Sarbanes-Oxley Act of 2002
 
