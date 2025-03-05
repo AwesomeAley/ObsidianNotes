@@ -24,9 +24,15 @@ rule helloworld_checker{
 Open source tool for advanced YARA scans
 https://github.com/Neo23x0/Loki/releases
 
+Loki Yara rules are stored in
+/
 Navigate to Loki directory
 `cd ~/Loki/`
 Update signature base directory
 `--update`
-Run Loki
+Run Loki 
 `python -loki.py -h`
+
+Scan with Loki
+`python ~/Loki/loki.py -p [TARGET DIRECTORY]`
+
