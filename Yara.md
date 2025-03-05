@@ -37,3 +37,5 @@ Run Loki
 Scan with Loki
 `python ~/Loki/loki.py -p [TARGET DIRECTORY]`
 
+### Valhalla
+An online repository of YARA rules
