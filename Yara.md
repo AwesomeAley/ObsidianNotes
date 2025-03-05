@@ -6,6 +6,7 @@ Basic usage
 ### Yara Rule Files
 Rule to search for strings
 ```bash
+
 rule helloworld_checker{
 	strings:
 		$hello_world = "Hello World!"
@@ -13,6 +14,6 @@ rule helloworld_checker{
 		$string_upper = "HELLO WORLD"
 
 	condition:
-		any of them
+		any of them and filesize < 10KB
 }
 ```
