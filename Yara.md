@@ -20,3 +20,8 @@ rule helloworld_checker{
 
 ![[Pasted image 20250305105617.png]]
 
+### LOKI
+Open source tool for advanced YARA scans
+https://github.com/Neo23x0/Loki/releases
+
+
