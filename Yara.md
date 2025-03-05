@@ -25,7 +25,8 @@ Open source tool for advanced YARA scans
 https://github.com/Neo23x0/Loki/releases
 
 Loki Yara rules are stored in
-/
+`~/Loki/signature-base/yara`
+
 Navigate to Loki directory
 `cd ~/Loki/`
 Update signature base directory
