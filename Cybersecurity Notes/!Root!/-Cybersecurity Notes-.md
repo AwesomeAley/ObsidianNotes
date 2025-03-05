@@ -12,7 +12,7 @@ Hub for all notes cybersecurity
 	- **Linux Tools**
 		- [[Nmap]] - network exploration
 		- Packet inspection with [[Wireshark 101]]
-		- [[Yara]] (Loki, yarGen) file signature finder
+		- [[Yara]] (Loki, yarGen) file signature finder 
 - ### Windows
 	- **Windows Tools**
 		- [[Nessus]] one of the best vuln scanners
