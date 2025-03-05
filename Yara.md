@@ -1,7 +1,7 @@
 Pattern matching tool to find malware
 
 Basic usage
-`yara [.YAR RULE FILE] [TARGET DIRECTOR?FILE]`
+`yara [.YAR RULE FILE] [TARGET DIRECTORY]`
 
 ### Yara Rule Files
 Rule to search for strings
