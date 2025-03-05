@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yara.md",
+                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yara"
+              "title": "-Cybersecurity Notes-"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "db6a4a0d2f7fdfdb",
   "lastOpenFiles": [
+    "Cybersecurity Notes/Linux/Linux Tools/Yara.md",
     "Z - Pasted Images/Pasted image 20250305105617.png",
-    "Yara.md",
     "Z - Pasted Images/Pasted image 20250225120708.png",
     "Cybersecurity Notes/Interviewing Prep.md",
     "Cybersecurity Notes/Enterprise/Finance Related Regulations and Standards.md",
