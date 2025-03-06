@@ -21,3 +21,6 @@ go to *Scans > Tasks*, click on purple magic wand to start the basic configurati
 
 ## Creating Tasks
 Navigate to the star icon on the upper left hand corner of the *Tasks* dashboard and select *New Task*
+
+Configure scan accordingly through the *New Task* window. 
+Elements such as name, scan targets, and scanner type can be configured. Further options such as scoping targets can be accessed via blue stars next to options.
