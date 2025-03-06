@@ -17,3 +17,5 @@ credentials:
 admin
 admin
 
+go to *Scans > Tasks*, click on purple magic wand to start the basic configuration wizard. Run the scan on local machine {127.0.0.1}
+
