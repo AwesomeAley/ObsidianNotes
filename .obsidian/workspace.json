@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "-Cybersecurity Notes-"
             }
+          },
+          {
+            "id": "78fa316ac067ff85",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db6a4a0d2f7fdfdb",
+  "active": "78fa316ac067ff85",
   "lastOpenFiles": [
     "Cybersecurity Notes/Linux/Linux Tools/Yara.md",
     "Z - Pasted Images/Pasted image 20250305105617.png",
