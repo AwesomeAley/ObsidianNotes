@@ -10,3 +10,10 @@ https://github.com/mikesplain/openvas-docker
 `apt install docker.io`
 
 `docker run -d -p 443:443 --name openvas mikesplain/openvas`
+
+navigate to `https://127.0.0.1` in a browser
+
+credentials: 
+admin
+admin
+
