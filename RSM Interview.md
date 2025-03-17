@@ -9,6 +9,8 @@
 - Perform analysis and testing to verify the strengths and weaknesses of mobile and web applications and web services (SOAP, WSDL, UDDI)
 - Perform Internet penetration testing using blackbox and whitebox methodologies
 - Review application code, system configurations and device configurations using manual and automated techniques
-- Measure and report clients’ compliance with established industry or government requirements- Identify leaked client data on open and closed (Deep and Dark Web) sources
+- Measure and report clients’ compliance with established industry or government requirements
+- Identify leaked client data on open and closed (Deep and Dark Web) sources
+	- genesis market, breachforums, white house market
 - Perform analytical investigations into specific threat actors, ransomware, and campaigns- Communicate technical findings to a non-technical audience effectively
 - Create and review threat intelligence programs for clients using established intelligence models
