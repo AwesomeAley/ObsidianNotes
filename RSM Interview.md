@@ -3,3 +3,12 @@
 - Ability to track threat actors across Dark Web criminal forums and marketplaces and ability to communicate findings
 - Ability to track malware campaigns and understand adversarial activity from an intelligence perspective
 - Basic understanding of intelligence, including intelligence lifecycle, Kill Chain, Diamond model, and Priority Intelligence Requirements
+
+- Assess security of client networks, hosts, and applications
+- Determine technical, business impact and likelihood of identified security issues and provide remediation guidance to clients
+- Perform analysis and testing to verify the strengths and weaknesses of mobile and web applications and web services (SOAP, WSDL, UDDI)
+- Perform Internet penetration testing using blackbox and whitebox methodologies
+- Review application code, system configurations and device configurations using manual and automated techniques
+- Measure and report clients’ compliance with established industry or government requirements- Identify leaked client data on open and closed (Deep and Dark Web) sources
+- Perform analytical investigations into specific threat actors, ransomware, and campaigns- Communicate technical findings to a non-technical audience effectively
+- Create and review threat intelligence programs for clients using established intelligence models
