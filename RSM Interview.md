@@ -9,6 +9,7 @@
 		Priority intelligence requirements are areas that an organization has identified that require the most attention. (Threat actors/APTs that might target and their TTPs, what vulns may be exploited, what CVEs/methods are exploited/used in our industry and against our assets
 - Assess security of client networks, hosts, and applications
 - Determine technical, business impact and likelihood of identified security issues and provide remediation guidance to clients
+	 discuss GRC documents and work Christian Brothers Services
 - Perform analysis and testing to verify the strengths and weaknesses of mobile and web applications and web services (SOAP, WSDL, UDDI)
 - Perform Internet penetration testing using blackbox and whitebox methodologies
 - Review application code, system configurations and device configurations using manual and automated techniques
