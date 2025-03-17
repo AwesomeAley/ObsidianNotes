@@ -77,6 +77,9 @@ Steps attackers take in a cyberattack
 6: Command and Control: Establishing connection with attacker system for remote control
 7: Actions on objectives: The attacker achieves their goals
 
+**Diamond Model**
+![[Pasted image 20250317154729.png]]
+
 **What is SIEM?**
 Security information and event management is a security solution that provides real time logging of events to detect threats.
 
