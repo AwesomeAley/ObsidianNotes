@@ -5,6 +5,7 @@
 	- Monitor for crednetial leaks: Have I been pwned (check if credentials have been compromised), darkTracer, darkOwl, OSINT open-source techniques
 - Ability to track malware campaigns and understand adversarial activity from an intelligence perspective
 - Basic understanding of intelligence, including intelligence lifecycle, Kill Chain, Diamond model, and Priority Intelligence Requirements
+	- intelligence life cycle: planning/direction, collection, processing, analysis, sharing, feedback
 		Priority intelligence requirements are areas that an organization has identified that require the most attention. (Threat actors/APTs that might target and their TTPs, what vulns may be exploited, what CVEs/methods are exploited/used in our industry and against our assets
 - Assess security of client networks, hosts, and applications
 - Determine technical, business impact and likelihood of identified security issues and provide remediation guidance to clients
