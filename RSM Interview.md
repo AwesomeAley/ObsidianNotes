@@ -1,6 +1,8 @@
 - Strong knowledge of computer network technologies, protocols/topologies, digital forensics and endpoint protection, or threat intelligence
 - Software development, programming and/or scripting experience (Perl, Python, C, Java, PHP, ASP, etc.)
-- Ability to track threat actors across Dark Web criminal forums and marketplaces and ability to communicate findings
+- Ability to track threat actors across Dark Web criminal forums and marketplaces and ability to communicate findings. Identify leaked client data on open and closed (Deep and Dark Web) sources
+	- genesis market, breachforums, white house market
+	- Have I been pwned (check if credentials have been compromised), 
 - Ability to track malware campaigns and understand adversarial activity from an intelligence perspective
 - Basic understanding of intelligence, including intelligence lifecycle, Kill Chain, Diamond model, and Priority Intelligence Requirements
 
@@ -10,7 +12,5 @@
 - Perform Internet penetration testing using blackbox and whitebox methodologies
 - Review application code, system configurations and device configurations using manual and automated techniques
 - Measure and report clients’ compliance with established industry or government requirements
-- Identify leaked client data on open and closed (Deep and Dark Web) sources
-	- genesis market, breachforums, white house market
 - Perform analytical investigations into specific threat actors, ransomware, and campaigns- Communicate technical findings to a non-technical audience effectively
 - Create and review threat intelligence programs for clients using established intelligence models
