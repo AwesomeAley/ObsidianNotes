@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db6a4a0d2f7fdfdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "-Cybersecurity Notes-"
-            }
-          },
-          {
-            "id": "78fa316ac067ff85",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
             "id": "34b0362e527f481a",
             "type": "leaf",
             "state": {
@@ -46,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Interviewing Prep"
             }
-          },
-          {
-            "id": "535df7013ff7f04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "-Cybersecurity Notes-"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,16 +164,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "535df7013ff7f04f",
+  "active": "34b0362e527f481a",
   "lastOpenFiles": [
-    "Cybersecurity Notes/Linux/Linux Tools/OpenVAS.md",
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Interviewing Prep.md",
+    "Cybersecurity Notes/Linux/Linux Tools/OpenVAS.md",
     "Cybersecurity Notes/Linux/Persistent Malware.md",
     "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
     "Cybersecurity Notes/Linux/Linux Log Monitoring.md",
     "Installing Splunk Forwarder on Windows.md",
     "Sentinel Threat Investigation Analyst.md",
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux Tools/Yara.md",
     "Z - Pasted Images/Pasted image 20250305105617.png",
     "Z - Pasted Images/Pasted image 20250225120708.png",

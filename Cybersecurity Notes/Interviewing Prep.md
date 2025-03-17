@@ -103,7 +103,7 @@ A model that describes the standard of communication processes.
 
 4: Transport Layer: Provides the mean of transferring/transporting data from source to destination across a network
 
-3: Provides the means of transferring/transporting data to different networks
+3: Network Layer : Provides the means of transferring/transporting data to different networks
 
 2: Data Link Layer: Provides node-to-node data transfer a link between two connected nodes. Detects and corrects errors in the physical layer and defines the protocol to establish, the flow, and terminate a connection between two physically connected devices
 	- MAC Layer: How devices gain access to a medium and permission to transmit data
