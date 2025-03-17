@@ -265,7 +265,7 @@ Right click active network adapter > *Properties*
 Select *Internet Protocol Version 4* > *Properties*
 
 **Does TLS use symmetric or asymmetric encryption?**
-Both: initial exchange done by using asymmetric and that bulk data requires speed and therefore asymmetric.
+Both: initial exchange done by using asymmetric and that bulk data requires speed and therefore symmetric.
 
 **Difference between symmetric and public-key encryption?**
 Symmetric uses one key while public-key uses two
