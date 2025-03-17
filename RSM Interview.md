@@ -1,0 +1,5 @@
+- Strong knowledge of computer network technologies, protocols/topologies, digital forensics and endpoint protection, or threat intelligence
+- Software development, programming and/or scripting experience (Perl, Python, C, Java, PHP, ASP, etc.)
+- Ability to track threat actors across Dark Web criminal forums and marketplaces and ability to communicate findings
+- Ability to track malware campaigns and understand adversarial activity from an intelligence perspective
+- Basic understanding of intelligence, including intelligence lifecycle, Kill Chain, Diamond model, and Priority Intelligence Requirements
