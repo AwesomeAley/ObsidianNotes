@@ -2,7 +2,7 @@
 - Software development, programming and/or scripting experience (Perl, Python, C, Java, PHP, ASP, etc.)
 - **Ability to track threat actors across Dark Web criminal forums and marketplaces and ability to communicate findings. Identify leaked client data on open and closed (Deep and Dark Web) sources**
 	- DarkWeb marketplace: genesis market, breachforums, white house market
-	- Monitor for crednetial leaks: Have I been pwned (check if credentials have been compromised), darkTracer, darkOwl, OSINT open-source techniques
+	- Monitor for crednetial leaks: Have I been pwned (check if credentials have been compromised), darkTracer, darkOwl, OSINT open-source techniques, 
 - Ability to track malware campaigns and understand adversarial activity from an intelligence perspective
 - **Basic understanding of intelligence, including intelligence lifecycle, Kill Chain, Diamond model, and Priority Intelligence Requirements
 	- intelligence life cycle: planning/direction, collection, processing, analysis, sharing, feedback
