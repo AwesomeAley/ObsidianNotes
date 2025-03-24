@@ -1,4 +1,4 @@
-0Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing. It was designed to rapidly scan large networks, although it works fine against single hosts
+Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing. It was designed to rapidly scan large networks, although it works fine against single hosts
 **Reference**
 https://nmap.org/book/man.html
 #### Usage
