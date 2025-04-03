@@ -1,5 +1,8 @@
 ### **How to Get There Without Losing Muscle**
 
+Recommended macros:
+~2950 kcal/day
+- 
 
 ## ChatGPT initial advice
 
