@@ -16,9 +16,9 @@ Test configuration file. **"-T"** is used for testing the config, **"-c"** is us
 
 ## Logger Mode
 
-| Parameter | Description                                                                                                      |
-| --------- | ---------------------------------------------------------------------------------------------------------------- |
-| -l        | logger mode. Default output folder is **/var/log/snort**. Action is to dump as tcpdump format to this directory. |
-| -k ASCII  | Log packets in ASCII format                                                                                      |
-| -r        | read the dumped logs                                                                                             |
-| -n        | specify the number of packets that will process/read                                                             |
+| Parameter | Description                                                                                                                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -l        | logger mode. Default output folder is **/var/log/snort**. Action is to dump as tcpdump format to this directory. Directory can also be specified after. For example: `-l .` dumps to current directory |
+| -k ASCII  | Log packets in ASCII format                                                                                                                                                                            |
+| -r        | read the dumped logs                                                                                                                                                                                   |
+| -n        | specify the number of packets that will process/read                                                                                                                                                   |
