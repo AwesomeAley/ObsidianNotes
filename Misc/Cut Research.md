@@ -1,5 +1,8 @@
 ### **How to Get There Without Losing Muscle**
 
+
+## ChatGPT initial advice
+
 1. **Set a Moderate Deficit**
     
     - Your current intake (~3355 kcal) has you gaining weight.
