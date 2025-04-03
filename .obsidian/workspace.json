@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snort.md",
+                "file": "Cybersecurity Notes/Linux/Linux Tools/Snort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Snort"
+            }
+          },
+          {
+            "id": "f802f4d6a73f6841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-Cybersecurity Notes-"
             }
           }
         ]
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snort.md",
+                "file": "Cybersecurity Notes/Linux/Linux Tools/Snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snort.md",
+                "file": "Cybersecurity Notes/Linux/Linux Tools/Snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snort.md",
+                "file": "Cybersecurity Notes/Linux/Linux Tools/Snort.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,8 +186,9 @@
   },
   "active": "b3b8e7fa2c28092a",
   "lastOpenFiles": [
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Cybersecurity Notes/Linux/Linux Tools/Snort.md",
     "Untitled.md",
-    "Snort.md",
     "Cybersecurity Notes/Linux/Linux Tools/Nmap.md",
     "Cybersecurity Notes/Interviewing Prep.md",
     "RSM Interview.md",
@@ -187,7 +202,6 @@
     "Sentinel Threat Investigation Analyst.md",
     "Pasted image 20250317182734.png",
     "School Class Notes/Pasted image 20250317154729.png",
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux Tools/OpenVAS.md",
     "Cybersecurity Notes/Linux/Persistent Malware.md",
     "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",

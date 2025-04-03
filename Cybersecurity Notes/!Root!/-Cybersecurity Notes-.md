@@ -14,6 +14,7 @@ Hub for all notes cybersecurity
 		- Packet inspection with [[Wireshark 101]]
 		- [[Yara]] (Loki, yarGen) file signature finder 
 		- [[OpenVAS]] vulnerability scanner
+		- [[Snort]] IDS and IPS
 - ### Windows
 	- **Windows Tools**
 		- [[Nessus]] one of the best vuln scanners
