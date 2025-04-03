@@ -2,7 +2,9 @@
 
 Recommended macros:
 ~2950 kcal/day
-- 
+- protein: 190g
+- fat: 90g
+- carbs: 295
 
 ## ChatGPT initial advice
 
