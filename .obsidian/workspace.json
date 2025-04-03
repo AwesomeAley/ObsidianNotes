@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity Notes/Setting up Docker.md",
+                "file": "Snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Setting up Docker"
+              "title": "Backlinks for Snort"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity Notes/Setting up Docker.md",
+                "file": "Snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Setting up Docker"
+              "title": "Outgoing links from Snort"
             }
           },
           {
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -149,12 +151,12 @@
               "title": "Outline of Snort"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7319686e09fd2f64",
+  "active": "b3b8e7fa2c28092a",
   "lastOpenFiles": [
     "Untitled.md",
     "Snort.md",
