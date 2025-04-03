@@ -20,7 +20,7 @@ Test configuration file. **"-T"** is used for testing the config, **"-c"** is us
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | -l        | logger mode. Default output folder is **/var/log/snort**. Action is to dump as tcpdump format to this directory. Directory can also be specified after. For example: `-l .` dumps to current directory |
 | -k ASCII  | Log packets in ASCII format                                                                                                                                                                            |
-| -r        | read the binary logs. Can also be used to filter. Ex: `sudo snort -r tcp`                                                                                                                              |
+| -r        | read the binary logs. Can also be used to filter. Ex: `sudo snort -r tcp and port 80'                                                                                                                  |
 | -n        | specify the number of packets that will process/read                                                                                                                                                   |
 
 Start logger mode with logs in ASCII format saved to current directory
