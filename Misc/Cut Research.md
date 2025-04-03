@@ -8,7 +8,7 @@ Recommended macros:
 
 Target is ~10%-12% body fat
 
-
+Do cardio 2-4 times a week
 ## ChatGPT initial advice
 
 1. **Set a Moderate Deficit**
