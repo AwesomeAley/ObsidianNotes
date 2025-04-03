@@ -3,8 +3,8 @@
 Recommended macros:
 ~2950 kcal/day
 - protein: 190g
-- fat: 90g
-- carbs: 295
+- fat: 121g
+- carbs: 275
 
 Target is ~10%-12% body fat
 
