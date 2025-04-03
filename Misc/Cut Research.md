@@ -6,6 +6,9 @@ Recommended macros:
 - fat: 90g
 - carbs: 295
 
+Target is ~10%-12% body fat
+
+
 ## ChatGPT initial advice
 
 1. **Set a Moderate Deficit**
