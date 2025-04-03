@@ -145,13 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of Setting up Docker"
             }
+          },
+          {
+            "id": "ec2152cfa1e1687b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3b8e7fa2c28092a",
+  "active": "ec2152cfa1e1687b",
   "lastOpenFiles": [
     "Snort.md",
     "Cybersecurity Notes/Linux/Linux Tools/Nmap.md",
