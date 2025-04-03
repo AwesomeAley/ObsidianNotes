@@ -6,6 +6,10 @@ Test configuration file. **"-T"** is used for testing the config, **"-c"** is us
 
 ## Sniffer mode
 
-|     |     |
-| --- | --- |
-|     |     |
+| Parameter | Description                                      |
+| --------- | ------------------------------------------------ |
+| -v        | Verbose                                          |
+| -d        | Display the packet (payload)                     |
+| -e        | display the link-layer (TCP/IP/UDP/ICMP headers) |
+| -X        | display the full packet details in HEX           |
+| -i        | Define the network interface to listen/sniff     |
