@@ -22,3 +22,6 @@ Test configuration file. **"-T"** is used for testing the config, **"-c"** is us
 | -k ASCII  | Log packets in ASCII format                                                                                                                                                                            |
 | -r        | read the binary logs. Can also be used to filter. Ex: `sudo snort -r tcp`                                                                                                                              |
 | -n        | specify the number of packets that will process/read                                                                                                                                                   |
+
+Start logger mode with logs in ASCII format saved to current directory
+`sudo snort -dev -K ASCII -l .`
