@@ -7,6 +7,7 @@ Recommended macros:
 - carbs: 275
 
 Target is ~10%-12% body fat
+body weight 151lbs-148lbs respectively  
 
 760
 1100
