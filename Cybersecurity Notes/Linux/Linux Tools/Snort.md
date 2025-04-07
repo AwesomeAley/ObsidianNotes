@@ -29,8 +29,8 @@ Start logger mode with logs in ASCII format saved to current directory
 ## IDS/IPS Mode
 
 
-| Parameter | Description                                       |
-| --------- | ------------------------------------------------- |
-| -c        | define config file                                |
-| -D        | background mode                                   |
-| -A        | Alert Modes:<br> **full**<br> **fast**: less info |
+| Parameter | Description                                                                                  |
+| --------- | -------------------------------------------------------------------------------------------- |
+| -c        | define config file                                                                           |
+| -D        | background mode                                                                              |
+| -A        | Alert Modes:<br> **full**<br> **fast**: less info<br> **console**: provide alerts in console |
