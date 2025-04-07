@@ -25,3 +25,12 @@ Test configuration file. **"-T"** is used for testing the config, **"-c"** is us
 
 Start logger mode with logs in ASCII format saved to current directory
 `sudo snort -dev -K ASCII -l .`
+
+## IDS/IPS Mode
+
+
+| Parameter | Description                                       |
+| --------- | ------------------------------------------------- |
+| -c        | define config file                                |
+| -D        | background mode                                   |
+| -A        | Alert Modes:<br> **full**<br> **fast**: less info |
