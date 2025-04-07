@@ -28,7 +28,7 @@ Start logger mode with logs in ASCII format saved to current directory
 
 ## IDS/IPS Mode
 
-Detection:
+### Detection:
 `snort -c /etc/snort[rule or config file]`
 
 | Parameter | Description                                                                                  |
@@ -36,6 +36,9 @@ Detection:
 | -c        | define config file                                                                           |
 | -D        | background mode                                                                              |
 | -A        | Alert Modes:<br> **full**<br> **fast**: less info<br> **console**: provide alerts in console |
-
+### Prevention:
+Activated with `-Q --daq` parameters. Also requires identifying interfaces (at least 2)
+Example:
+`snort -c /etc/snort/snort.conf -q -Q --daq afpacket -i eth0:eth1 -A console`
 
 
