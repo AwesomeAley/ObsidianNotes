@@ -45,4 +45,10 @@ Example:
 ## PCAP Mode
 
 
+| Parameter    | Definition                                  |
+| ------------ | ------------------------------------------- |
+| -r           | read single .pcap file                      |
+| --pcap-list= | read a list separated by spaces             |
+| --pcap-show  | show pcap name on console during processing |
+
 
