@@ -55,4 +55,6 @@ Analyze pcap file captures just like wireshark, but compare them to snort config
 
 ## Snort Rules
 
+![[Pasted image 20250407192752.png]]
+
 
