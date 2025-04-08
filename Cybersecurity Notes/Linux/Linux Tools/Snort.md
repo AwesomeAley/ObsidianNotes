@@ -59,11 +59,11 @@ Analyze pcap file captures just like wireshark, but compare them to snort config
 
 Formatting of rules:
 
-| Parameter | Definition                                                            |
-| --------- | --------------------------------------------------------------------- |
-| !         | used to exclude specific port or ip                                   |
-| :         | used to create lists for example 1024: filters ports 1024 and up      |
-| -> <>     | directional flows; respectively: source to destination, bidirectional |
-|           |                                                                       |
+| Parameter | Definition                                                                             |
+| --------- | -------------------------------------------------------------------------------------- |
+| !         | used to exclude specific port or ip                                                    |
+| :         | used to create lists for example 1024: filters ports 1024 and up                       |
+| -> <>     | directional flows; respectively: source to destination, bidirectional                  |
+| ip/subnet | filter for range of ips for example 192.172.10.10/24 filters for all ips in that range |
 
 
