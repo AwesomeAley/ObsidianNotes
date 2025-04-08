@@ -75,4 +75,5 @@ Analyze pcap file captures just like wireshark, but compare them to snort config
 | nocase          | make content search case insensitive                                     |
 | flags:          | F - FIN<br>S - SYN<br>R - RST<br>P - PSH (push)<br>A - ACK<br>U - URG    |
 | sameip          | filter for same source and destination ips                               |
+| dsize:          | packet size                                                              |
 
