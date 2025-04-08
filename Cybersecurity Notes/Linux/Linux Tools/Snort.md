@@ -42,3 +42,9 @@ Example:
 `snort -c /etc/snort/snort.conf -q -Q --daq afpacket -i eth0:eth1 -A console`
 
 
+## PCAP Mode
+
+| Parameter | Description |
+| --------- | ----------- |
+| -r        |             |
+
