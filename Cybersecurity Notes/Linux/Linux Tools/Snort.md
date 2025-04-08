@@ -44,11 +44,15 @@ Example:
 
 ## PCAP Mode
 
+Analyze pcap file captures just like wireshark, but compare them to snort configs!
+`sudo snort -c /etc/snort/snort.conf -r [test.pcap] -A full -l .`
 
 | Parameter    | Definition                                  |
 | ------------ | ------------------------------------------- |
 | -r           | read single .pcap file                      |
 | --pcap-list= | read a list separated by spaces             |
 | --pcap-show  | show pcap name on console during processing |
+
+## Snort Rules
 
 
