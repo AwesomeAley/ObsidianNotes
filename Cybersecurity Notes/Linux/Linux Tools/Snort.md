@@ -73,4 +73,5 @@ Analyze pcap file captures just like wireshark, but compare them to snort config
 | sid: (REQUIRED) | all rules have an sid, personal custom rules start at SID 1000000 and up |
 | content:        | filter by contect (content:"GET")                                        |
 | flags:          | F - FIN<br>S - SYN<br>R - RST<br>P - PSH (push)<br>A - ACK<br>U - URG    |
+| sameip          | filter for same source and destination ips                               |
 
