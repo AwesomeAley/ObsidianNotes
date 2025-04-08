@@ -67,10 +67,10 @@ Analyze pcap file captures just like wireshark, but compare them to snort config
 | ip/subnet | filter for range of ips for example 192.172.10.10/24 filters for all ips in that range |
 
 
-| Rule Options | Description                                                              |
-| ------------ | ------------------------------------------------------------------------ |
-| msg:         | add message                                                              |
-| sid:         | all rules have an sid, personal custom rules start at SID 1000000 and up |
-| content:     | filter by contect (content:"GET")                                        |
-|              |                                                                          |
+| Rule Options    | Description                                                              |
+| --------------- | ------------------------------------------------------------------------ |
+| msg:            | add message                                                              |
+| sid: (REQUIRED) | all rules have an sid, personal custom rules start at SID 1000000 and up |
+| content:        | filter by contect (content:"GET")                                        |
+|                 |                                                                          |
 
