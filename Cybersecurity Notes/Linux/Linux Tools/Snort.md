@@ -44,7 +44,5 @@ Example:
 
 ## PCAP Mode
 
-| Parameter | Description |
-| --------- | ----------- |
-| -r        |             |
+
 
