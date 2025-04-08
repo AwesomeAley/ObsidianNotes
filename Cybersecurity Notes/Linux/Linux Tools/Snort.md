@@ -57,7 +57,7 @@ Analyze pcap file captures just like wireshark, but compare them to snort config
 
 ![[Pasted image 20250407192752.png]]
 
-Formatting of rules:
+### Formatting of rules:
 
 | Parameter | Definition                                                                             |
 | --------- | -------------------------------------------------------------------------------------- |
@@ -66,4 +66,8 @@ Formatting of rules:
 | -> <>     | directional flows; respectively: source to destination, bidirectional                  |
 | ip/subnet | filter for range of ips for example 192.172.10.10/24 filters for all ips in that range |
 
+
+| Rule Options | Description |
+| ------------ | ----------- |
+|              |             |
 
