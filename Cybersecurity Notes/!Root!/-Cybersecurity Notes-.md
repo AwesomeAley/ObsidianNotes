@@ -35,6 +35,8 @@ Hub for all notes cybersecurity
 - ### Windows
 	- **Windows Tools**
 		- [[Nessus]] one of the best vuln scanners
+
+		- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - Network forensics analysis tool
 	- **Misc. windows operations**
 		- [[How to Disable Simplified Context Menu]] (get rid of windows 11 shitty right click)
 		- [[Updating Display Drivers on Windows 11]]
