@@ -1,15 +1,23 @@
 Hub for all notes cybersecurity
 
-- [[Resources]] - Websites with helpful information and guides
-
 - ### OSINT
 	- [Tenable](https://www.tenable.com/plugins/was/families) - Online vuln database 
-	- [MISP](https://www.misp-project.org/) - threat intelligence resource
+	- [MISP](https://www.misp-project.org/) 
 	- OpenCTI
-	- MITRE Frameworks
+	- **MITRE Frameworks**
+		- **MITRE ATT&CK** - https://attack.mitre.org
+			Knowledge pool of possible attacks as well as techniques on how to combat them. 
+		- **MITRE Engage** - https://engage.mitre.org/
+			Framework for discussing and planning adversary engagement. Engage adversaries and attackers.
+		- **MITRE Defend** - https://d3fend.mitre.org
+			Knowledge bank of cybersecurity countermeasures
+		- **ATT&CK Emulation Plans** - https://mitre-engenuity.org
+			Plans to simulate attacks from certain threat groups
+	- [Talos Intelligence](https://talosintelligence.com/)
 		
 	- [any.run](https://any.run/) - malware info and sandbox
 	- [VirusTotal](https://www.virustotal.com/gui/home/upload) - analyze files and their characteristics (hashes, domains, ips, urls)
+	- [AbuseIP](www.abuseipdb.com) - check ip addresses
 - ### Linux
 	- [[Linux System Hardening]]
 	- [[Monitoring Linux Systems]] basic commands for basic monitoring
