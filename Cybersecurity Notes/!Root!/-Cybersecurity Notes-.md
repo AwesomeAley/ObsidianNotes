@@ -3,7 +3,7 @@ Hub for all notes cybersecurity
 - [[Resources]] - Websites with helpful information and guides
 
 - ### OSINT
-	- Tenable
+	- Tenable - Online vuln database []()
 - ### Linux
 	- [[Linux System Hardening]]
 	- [[Monitoring Linux Systems]] basic commands for basic monitoring
