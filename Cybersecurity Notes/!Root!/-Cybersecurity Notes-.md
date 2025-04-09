@@ -3,7 +3,10 @@ Hub for all notes cybersecurity
 - [[Resources]] - Websites with helpful information and guides
 
 - ### OSINT
-	- Tenable - Online vuln database [https://www.tenable.com/plugins/was/families]()
+	- [Tenable](https://www.tenable.com/plugins/was/families) - Online vuln database 
+		
+	- [any.run](https://any.run/) - malware info and sandbox
+	- [VirusTotal](https://www.virustotal.com/gui/home/upload) - analyze files and their characteristics (hashes, domains, ips, urls)
 - ### Linux
 	- [[Linux System Hardening]]
 	- [[Monitoring Linux Systems]] basic commands for basic monitoring
