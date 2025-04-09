@@ -31,7 +31,7 @@ Hub for all notes cybersecurity
 		- [[Yara]] (Loki, yarGen) file signature finder 
 		- [[OpenVAS]] vulnerability scanner
 		- [[Snort]] Packet sniffer, logger, IDS, and IPS
-		- 
+		- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - Network forensics analysis tool
 - ### Windows
 	- **Windows Tools**
 		- [[Nessus]] one of the best vuln scanners
