@@ -4,6 +4,7 @@ Hub for all notes cybersecurity
 
 - ### OSINT
 	- [Tenable](https://www.tenable.com/plugins/was/families) - Online vuln database 
+	- [MISP]()
 		
 	- [any.run](https://any.run/) - malware info and sandbox
 	- [VirusTotal](https://www.virustotal.com/gui/home/upload) - analyze files and their characteristics (hashes, domains, ips, urls)
