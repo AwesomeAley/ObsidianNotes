@@ -5,6 +5,7 @@ Test configuration file. **"-T"** is used for testing the config, **"-c"** is us
 `sudo snort -c /etc/snort/snort.conf -T`
 
 ## Sniffer mode
+`sudo snort -v -l .`
 
 | Parameter | Description                                      |
 | --------- | ------------------------------------------------ |
