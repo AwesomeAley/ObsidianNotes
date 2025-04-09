@@ -35,7 +35,8 @@
               "title": "-Cybersecurity Notes-"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3b8e7fa2c28092a",
+  "active": "f802f4d6a73f6841",
   "lastOpenFiles": [
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux Tools/Snort.md",
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux Tools/Nmap.md",
     "Cybersecurity Notes/Linux/Linux Tools/-Tools.md",
     "Cybersecurity Notes/Interviewing Prep.md",
