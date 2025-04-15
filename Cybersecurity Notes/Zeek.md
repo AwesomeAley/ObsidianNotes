@@ -70,3 +70,13 @@ signature ftp-brute {
 	event "FTP Brute-force Attempt!" }
 ```
 
+## Scripting
+
+| Script Directory                               | path                                 |
+| ---------------------------------------------- | ------------------------------------ |
+| default zeek scripts                           | /opt/zeek/share/zeek/base            |
+| user generated scripts                         | /opt/zeek/share/zeek/site            |
+| policy scripts                                 | /opt/zeek/share/zeek/policy          |
+| script config file to run scripts in live mode | /opt/zeek/share/zeek/site/local.zeek |
+
+
