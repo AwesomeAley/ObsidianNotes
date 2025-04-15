@@ -71,6 +71,7 @@ signature ftp-brute {
 ```
 
 ## Scripting
+files use the .zeek extension
 
 | Script Directory                               | path                                 |
 | ---------------------------------------------- | ------------------------------------ |
@@ -78,5 +79,7 @@ signature ftp-brute {
 | user generated scripts                         | /opt/zeek/share/zeek/site            |
 | policy scripts                                 | /opt/zeek/share/zeek/policy          |
 | script config file to run scripts in live mode | /opt/zeek/share/zeek/site/local.zeek |
-
-
+Running with script
+`zeek -r sample.pcap sample.zeek`
+Running with signature and script
+`zeek -r sample.pcap -s sample.sig sample.zeek`
