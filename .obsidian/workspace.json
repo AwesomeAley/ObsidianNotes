@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installing Splunk Forwarder on Windows.md",
+                "file": "Cybersecurity Notes/CLI Sorting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installing Splunk Forwarder on Windows"
+              "title": "CLI Sorting"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68b935097210d919",
+  "active": "0512094f12017e6d",
   "lastOpenFiles": [
-    "README.md",
-    "Interviewing/Sentinel Threat Investigation Analyst.md",
-    "Interviewing/RSM Interview.md",
-    "Interviewing/Interviewing Prep.md",
     "Cybersecurity Notes/CLI Sorting.md",
+    "Interviewing/Interviewing Prep.md",
+    "Interviewing/RSM Interview.md",
+    "Interviewing/Sentinel Threat Investigation Analyst.md",
+    "README.md",
+    "Installing Splunk Forwarder on Windows.md",
     "Interviewing",
     "SysInternals.md",
     "Cybersecurity Notes/Zeek.md",

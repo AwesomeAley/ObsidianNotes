@@ -32,3 +32,27 @@ An example of the usages of some important logs
 `zeek-cut` can be used to sort based on *#fields* which are in the log files
 example: `cat conn.log | zeek-cut uid proto id.orig_h id.orig_p id_resp_h id.resp_p`
 
+## Zeek Signatures
+
+Run Zeek with signature file
+`zeek -C -r sample.pcap -s sample.sig`
+
+Zeek signature files use the *.sig* extension.
+
+Zeek signatures are composed of three logical paths; signature id, conditions and action. The signature breakdown is shown in the table below;
+
+| **Signature id** | **Unique** signature name.                                                                                                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Conditions**   | **Header:** Filtering the packet headers for specific source and destination addresses, protocol and port numbers.<br><br>**<br><br>**Content:** Filtering the packet payload for specific value/pattern.<br><br>** |
+| **Action**       | **Default action:** Create the "signatures.log" file in case of a signature match.<br><br>**Additional action:** Trigger a Zeek script.                                                                             |
+
+Now let's dig more into the Zeek signatures. The below table provides the most common conditions and filters for the Zeek signatures.
+
+| Condition Field               | Available Filters                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Header                        | src-ip: Source IP.<br><br>dst-ip: Destination IP.<br><br>src-port: Source port.<br><br>dst-port: Destination port.<br><br>ip-proto: Target protocol. Supported protocols; TCP, UDP, ICMP, ICMP6, IP, IP6                                                                                                                                                         |
+| Content                       | **payload:** Packet payload.  <br>**http-request:** Decoded HTTP requests.  <br>**http-request-header:** Client-side HTTP headers.  <br>**http-request-body:** Client-side HTTP request bodys.  <br>**http-reply-header:** Server-side HTTP headers.  <br>**http-reply-body:** Server-side HTTP request bodys.  <br>**ftp:** Command line input of FTP sessions. |
+| **Context**                   | **same-ip:** Filtering the source and destination addresses for duplication.                                                                                                                                                                                                                                                                                     |
+| Action                        | **event:** Signature match message.                                                                                                                                                                                                                                                                                                                              |
+| **Comparison  <br>Operators** | **==**, **!=**, **<**, **<=**, **>**, **>=**                                                                                                                                                                                                                                                                                                                     |
+| **NOTE!**                     | Filters accept string, numeric and regex values.                                                                                                                                                                                                                                                                                                                 |
