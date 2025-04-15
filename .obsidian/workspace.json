@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeek.md",
+                "file": "Cybersecurity Notes/Zeek.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,10 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0512094f12017e6d",
+  "active": "7319686e09fd2f64",
   "lastOpenFiles": [
+    "Untitled.md",
+    "~GIT/Cybersecurity Notes/Pen Testing/-Penetration Testing.md",
+    "Cybersecurity Notes/Zeek.md",
     "SysInternals.md",
-    "Zeek.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux Tools/Snort.md",
     "Cybersecurity Notes/Windows/Windows Scripts/Microsoft Activation Script.md",
@@ -227,9 +229,7 @@
     "Misc/Cut Research.md",
     "Misc/Untitled.md",
     "Misc/Untitled",
-    "Misc/Welcome.md",
     "Misc",
-    "Cybersecurity Notes/Pen Testing/BotNet Creation.md",
     "School Class Notes/Pasted image 20250317154729.png",
     "Z - Pasted Images/Pasted image 20250305105617.png",
     "Z - Pasted Images/Pasted image 20250225120708.png",
