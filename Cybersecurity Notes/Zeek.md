@@ -85,3 +85,5 @@ Running with signature and script
 `zeek -r sample.pcap -s sample.sig sample.zeek`
 Running with all local scripts
 `zeek -r sample.pcap local`
+
+Frameworks also exist in `/opt/zeek/share/zeek/policy/frameworks/files/`
