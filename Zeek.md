@@ -13,8 +13,22 @@ Start Zeek as a service (control module)
 
 `zeek -C -r sample.pcap`
 
+Logs will be generated into the current directory
+
 | Parameter | Description                           |
 | --------- | ------------------------------------- |
 | -r        | reading option to process a pcap file |
 | -C        | ignore checksum errors                |
+### Log reading
+An example of the usages of some important logs
+
+| **Overall Info**     | **Protocol Based** | **Detection**    | **Observation**      |
+| -------------------- | ------------------ | ---------------- | -------------------- |
+| _conn.log_           | _http.log_         | _notice.log_     | _known_host.log_     |
+| _files.log_          | _dns.log_          | _signatures.log_ | _known_services.log_ |
+| _intel.log_          | _ftp.log_          | _pe.log_         | _software.log_       |
+| _loaded_scripts.log_ | _ssh.log_          | _traceroute.log_ | _weird.log_          |
+
+`zeek-cut` can be used to sort based on *#fields* which are in the log files
+example: `cat conn.log | zeek-cut uid proto id.orig_h id.orig_p id_resp_h id.resp_p`
 
