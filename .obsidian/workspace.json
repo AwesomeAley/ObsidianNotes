@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Zeek.md",
+                "file": "Cybersecurity Notes/Linux/Linux Tools/Zeek.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0512094f12017e6d",
+  "active": "7319686e09fd2f64",
   "lastOpenFiles": [
     "Cybersecurity Notes/CLI Sorting.md",
-    "Cybersecurity Notes/Zeek.md",
+    "Cybersecurity Notes/Linux/Linux Tools/Zeek.md",
     "Interviewing/Interviewing Prep.md",
     "Interviewing/RSM Interview.md",
     "Interviewing/Sentinel Threat Investigation Analyst.md",
