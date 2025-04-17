@@ -22,21 +22,7 @@
             }
           },
           {
-            "id": "68b935097210d919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity Notes/CLI Sorting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLI Sorting"
-            }
-          },
-          {
-            "id": "0512094f12017e6d",
+            "id": "029de6b75f0cc959",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +35,7 @@
               "title": "Zeek"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7319686e09fd2f64",
+  "active": "b3b8e7fa2c28092a",
   "lastOpenFiles": [
-    "Cybersecurity Notes/CLI Sorting.md",
     "Cybersecurity Notes/Linux/Linux Tools/Zeek.md",
+    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Cybersecurity Notes/CLI Sorting.md",
     "Interviewing/Interviewing Prep.md",
     "Interviewing/RSM Interview.md",
     "Interviewing/Sentinel Threat Investigation Analyst.md",
@@ -210,7 +196,6 @@
     "Interviewing",
     "SysInternals.md",
     "~GIT/Cybersecurity Notes/Pen Testing/-Penetration Testing.md",
-    "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux Tools/Snort.md",
     "Cybersecurity Notes/Windows/Windows Scripts/Microsoft Activation Script.md",
     "Cybersecurity Notes/Enterprise/Children Related Standards and Regulations.md",
