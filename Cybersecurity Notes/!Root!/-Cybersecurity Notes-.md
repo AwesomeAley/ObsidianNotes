@@ -32,6 +32,7 @@ Hub for all notes cybersecurity
 		- [[OpenVAS]] vulnerability scanner
 		- [[Snort]] Packet sniffer, logger, IDS, and IPS
 		- [[Zeek]] (Bro) IDS with scripting functionality 
+		- [[Brim]] GUI for parsing through pcap logs (zeek logs, etc)
 		- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - Network forensics analysis tool
 - ### Windows
 	- **Windows Tools**

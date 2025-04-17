@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brim.md",
+                "file": "Cybersecurity Notes/Linux/Linux Tools/Brim.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +49,7 @@
               "title": "Brim"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "586299e0b97a388c",
+  "active": "b3b8e7fa2c28092a",
   "lastOpenFiles": [
+    "Cybersecurity Notes/Linux/Linux Tools/Brim.md",
     "Cybersecurity Notes/Linux/Linux Tools/Zeek.md",
-    "Brim.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/CLI Sorting.md",
     "Interviewing/Interviewing Prep.md",
