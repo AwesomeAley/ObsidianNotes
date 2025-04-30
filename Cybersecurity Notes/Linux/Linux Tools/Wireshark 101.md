@@ -35,5 +35,6 @@ Organize all endpoints and IPs found within a specific capture.  To use the Endp
 navigate to Statistics > Endpoints.
 
 
-*statistics* > *resolved addresses* : list all ip addresses and domain names found in capture
-*statistics* > *protocol hierarchy* : list all protocols found in capture
+**statistics** > **resolved addresses** : list all ip addresses and domain names found in capture
+**statistics** > **protocol hierarchy** : list all protocols found in capture
+**statistics** > **conversations** : list all conversations between endpoints found in capture
