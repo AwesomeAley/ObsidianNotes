@@ -49,8 +49,7 @@
               "title": "Wireshark 101"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49a979eefc77dad7",
+  "active": "b3b8e7fa2c28092a",
   "lastOpenFiles": [
+    "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux Tools/Brim.md",
-    "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
     "Cybersecurity Notes/Enterprise/8 Secure Design Principles.md",
     "Interviewing/Interviewing Prep.md",
     "Interviewing/Sentinel Threat Investigation Analyst.md",

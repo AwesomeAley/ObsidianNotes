@@ -13,10 +13,13 @@ Hub for all notes cybersecurity
 			Knowledge bank of cybersecurity countermeasures
 		- **ATT&CK Emulation Plans** - https://mitre-engenuity.org
 			Plans to simulate attacks from certain threat groups
-	- [Talos Intelligence](https://talosintelligence.com/)
+	- [Talos Intelligence](https://talosintelligence.com/) - analyze files and their characteristics
+	- [VirusTotal](https://www.virustotal.com/gui/home/upload) - analyze files and their characteristics (hashes, domains, ips, urls)
 		
 	- [any.run](https://any.run/) - malware info and sandbox
-	- [VirusTotal](https://www.virustotal.com/gui/home/upload) - analyze files and their characteristics (hashes, domains, ips, urls)
+	- [Hybrid Analysis]([https://www.hybrid-analysis.com/](https://www.hybrid-analysis.com/)) - malware info and sandbox
+	- [JoeSecurity](- [https://www.joesecurity.org/](https://www.joesecurity.org/)) - malware info and sandbox
+	
 	- [AbuseIP](www.abuseipdb.com) - check ip addresses
 - ### Linux
 	- [[Linux System Hardening]]
