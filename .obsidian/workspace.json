@@ -34,43 +34,23 @@
               "icon": "lucide-file",
               "title": "Brim"
             }
-          }
-        ]
-      },
-      {
-        "id": "680b55ba8a4d4718",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "029de6b75f0cc959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "-Cybersecurity Notes-"
-            }
           },
           {
-            "id": "109f2e68d18a86f3",
+            "id": "49a979eefc77dad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Notes/Enterprise/8 Secure Design Principles.md",
+                "file": "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 Secure Design Principles"
+              "title": "Wireshark 101"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "princ",
+                "query": "wireshar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "109f2e68d18a86f3",
+  "active": "49a979eefc77dad7",
   "lastOpenFiles": [
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "Cybersecurity Notes/Linux/Linux Tools/Brim.md",
+    "Cybersecurity Notes/Linux/Linux Tools/Wireshark 101.md",
     "Cybersecurity Notes/Enterprise/8 Secure Design Principles.md",
     "Interviewing/Interviewing Prep.md",
     "Interviewing/Sentinel Threat Investigation Analyst.md",
@@ -248,7 +229,6 @@
     "School Class Notes/Introduction to Unix/Hardware Configuration.md",
     "Cybersecurity Notes/Linux/Linux System Hardening.md",
     "Cybersecurity Notes/Resources.md",
-    "Cybersecurity Notes/Linux/Linux Tools/Nmap.md",
     "Z - Pasted Images/Pasted image 20250407192752.png",
     "Z - Pasted Images/Pasted image 20250317182734.png",
     "Misc/Untitled",
