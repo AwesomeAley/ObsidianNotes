@@ -7,6 +7,10 @@ apt install wireshark
 ## Basic Filtering
 **Documentation:** https://wiki.wireshark.org/DisplayFilters
 
+**Analyze** > **Display Filter Expression** menu for building display
+
+
+
 Basic syntax involves  (protocol).(filter parameter) == (value)
 for example: 
 ```
