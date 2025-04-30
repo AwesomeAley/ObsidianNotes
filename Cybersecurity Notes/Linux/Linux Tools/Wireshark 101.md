@@ -34,7 +34,8 @@ Navigate to Statistics > Protocol Hierarchy.
 Organize all endpoints and IPs found within a specific capture.  To use the Endpoints feature
 navigate to Statistics > Endpoints.
 
-
+### Statistics info
 **statistics** > **resolved addresses** : list all ip addresses and domain names found in capture
 **statistics** > **protocol hierarchy** : list all protocols found in capture
 **statistics** > **conversations** : list all conversations between endpoints found in capture
+**statistics** menu contains many more useful info windows such as DNS, HTTP, and IPvX statistics
