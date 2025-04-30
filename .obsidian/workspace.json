@@ -68,21 +68,9 @@
               "icon": "lucide-file",
               "title": "8 Secure Design Principles"
             }
-          },
-          {
-            "id": "4c9f4d3f9a3b9034",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +220,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c9f4d3f9a3b9034",
+  "active": "109f2e68d18a86f3",
   "lastOpenFiles": [
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
+    "Cybersecurity Notes/Linux/Linux Tools/Brim.md",
+    "Cybersecurity Notes/Enterprise/8 Secure Design Principles.md",
     "Interviewing/Interviewing Prep.md",
     "Interviewing/Sentinel Threat Investigation Analyst.md",
     "Cybersecurity Notes/Linux/Linux Tools/Zeek.md",
-    "Cybersecurity Notes/Linux/Linux Tools/Brim.md",
     "Cybersecurity Notes/CLI Sorting.md",
     "Interviewing/RSM Interview.md",
     "README.md",
@@ -260,7 +249,6 @@
     "Cybersecurity Notes/Linux/Linux System Hardening.md",
     "Cybersecurity Notes/Resources.md",
     "Cybersecurity Notes/Linux/Linux Tools/Nmap.md",
-    "Cybersecurity Notes/Linux/Linux Tools/-Tools.md",
     "Z - Pasted Images/Pasted image 20250407192752.png",
     "Z - Pasted Images/Pasted image 20250317182734.png",
     "Misc/Untitled",
