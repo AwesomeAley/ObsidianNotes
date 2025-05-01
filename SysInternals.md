@@ -8,6 +8,8 @@ open powershell
 
 click on the *advanced* tab
 select *path* from under *system variables* and select edit
-click new and add path to sysinternals folder
+click new and add path of sysinternals folder
+
+
 
 
