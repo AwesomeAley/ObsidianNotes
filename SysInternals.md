@@ -10,6 +10,8 @@ click on the *advanced* tab
 select *path* from under *system variables* and select edit
 click new and add path of sysinternals folder
 
+Now you can use any tool from any location
+Test open procmon: `procmon`
 ## Sigcheck
 
 Check for unsigned files in C:\Windows\System32
