@@ -30,3 +30,7 @@ Identify all processes configured during system bootup or login. Find malicious 
 
 `autoruns`
 
+
+## Process Explorer
+Shows currently active processes and their information.
+`procexp`
