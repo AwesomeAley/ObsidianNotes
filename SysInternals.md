@@ -24,3 +24,6 @@ Show detailed listings of all TCP and UDP endpoints on the system
 click on the green flag on the tool bar to display further filters for states
 
 To view all established connections, deselect "listen" in the states filters and activate only TCP v4 and TCP v6.
+
+## Autoruns
+Identify all processes configured during system bootup or login. Find malicious processes used for persistence. 
