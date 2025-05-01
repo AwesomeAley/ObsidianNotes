@@ -17,5 +17,8 @@ Test open procmon: `procmon`
 Check for unsigned files in C:\Windows\System32
 `sigcheck -u -e C:\Windows\System32`
 
+### TCPView
+Show detailed listings of all TCP and UDP endpoints on the system
+`tcpview -accepteula`
 
 
