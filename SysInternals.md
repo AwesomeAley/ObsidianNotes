@@ -21,4 +21,5 @@ Check for unsigned files in C:\Windows\System32
 Show detailed listings of all TCP and UDP endpoints on the system
 `tcpview -accepteula`
 
+click on the green flag on the tool bar to display further filters for states
 
