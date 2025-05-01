@@ -27,3 +27,6 @@ To view all established connections, deselect "listen" in the states filters and
 
 ## Autoruns
 Identify all processes configured during system bootup or login. Find malicious processes used for persistence. 
+
+`autoruns`
+
