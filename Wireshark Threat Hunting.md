@@ -11,3 +11,7 @@ Spot Nmap network scans on network traffic
 | - Only RST flag.<br>- RST flag is set. The rest of the bits are not important.           | - `tcp.flags == 4`<br><br>- `tcp.flags.reset == 1`                             |
 | - Only RST, ACK flags.<br>- RST and ACK are set. The rest of the bits are not important. | - `tcp.flags == 20`<br><br>- `(tcp.flags.reset == 1) and (tcp.flags.ack == 1)` |
 | - Only FIN flag<br>- FIN flag is set. The rest of the bits are not important.            | - `tcp.flags == 1`<br><br>- `tcp.flags.fin == 1`                               |
+
+Filter to find TCP Connect scan patterns in a capture file to easier locate tcp handshakes
+``tcp.flags.syn==1 and tcp.flags.ack==0 and tcp.window_size > 1024``
+
