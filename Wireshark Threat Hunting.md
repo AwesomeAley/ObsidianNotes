@@ -23,7 +23,7 @@ Filter to find UDP scan patterns in a capture file
 
 
 ## ARP Poisoning/Spoofing
-Spot attempts to poison arp tables for man-in-the-middle attacks
+Spot attempts to poison ARP tables for man-in-the-middle attacks. This often occurs when an ARP request receives multiple responses.
 
 | **Notes**                                                                                                                                                                                                                                          | **Wireshark filter**                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
