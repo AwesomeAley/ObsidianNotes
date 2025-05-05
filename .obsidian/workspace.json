@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sysintern",
+                "query": "sysmon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3b8e7fa2c28092a",
+  "active": "6469f5f9764d1b6e",
   "lastOpenFiles": [
     "Cybersecurity Notes/!Root!/-Cybersecurity Notes-.md",
     "SysInternals.md",
