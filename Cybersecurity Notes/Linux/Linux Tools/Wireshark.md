@@ -28,6 +28,7 @@ tcp.port eq <Port #> or <Protocol Name>
 ```
 You can also filter for udp `udp.port == <port #>`
 
+To filter by protocol just put the protocol name in the filter bar
 ### TCP and UDP Filtering
 
 | Filter                | Description                                     | Filter                | Expression                                      |
