@@ -56,3 +56,5 @@ navigate to Statistics > Endpoints.
 **statistics** > **protocol hierarchy** : list all protocols found in capture
 **statistics** > **conversations** : list all conversations between endpoints found in capture
 **statistics** menu contains many more useful info windows such as DNS, HTTP, and IPvX statistics
+
+

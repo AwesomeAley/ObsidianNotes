@@ -21,6 +21,10 @@ Hub for all notes cybersecurity
 	- [JoeSecurity](- [https://www.joesecurity.org/](https://www.joesecurity.org/)) - malware info and sandbox
 	
 	- [AbuseIP](www.abuseipdb.com) - check ip addresses
+
+- ### Traffic Analysis and Packet Capture
+	- [[Wireshark]]
+	  
 - ### Linux
 	- [[Linux System Hardening]]
 	- [[Monitoring Linux Systems]] basic commands for basic monitoring
@@ -30,7 +34,7 @@ Hub for all notes cybersecurity
 	- [[IP Tables]]
 	- **Linux Tools**
 		- [[Nmap]] - network exploration
-		- Packet inspection with [[Wireshark 101]]
+		- Packet inspection with [[Wireshark]]
 		- [[Yara]] (Loki, yarGen) file signature finder 
 		- [[OpenVAS]] vulnerability scanner
 		- [[Snort]] Packet sniffer, logger, IDS, and IPS
