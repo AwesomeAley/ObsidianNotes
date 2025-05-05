@@ -15,3 +15,5 @@ Spot Nmap network scans on network traffic
 Filter to find TCP Connect scan patterns in a capture file to easier locate tcp handshakes
 ``tcp.flags.syn==1 and tcp.flags.ack==0 and tcp.window_size > 1024``
 
+Filter to find TCP SYN scan patterns in capture file
+``tcp.flags.syn==1 and tcp.flags.ack==0 and tcp.window_size <= 1024`
