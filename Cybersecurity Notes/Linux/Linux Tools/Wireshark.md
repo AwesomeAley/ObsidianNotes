@@ -58,4 +58,3 @@ navigate to Statistics > Endpoints.
 **statistics** menu contains many more useful info windows such as DNS, HTTP, and IPvX statistics
 
 
- and 
