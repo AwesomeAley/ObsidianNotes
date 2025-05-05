@@ -51,3 +51,13 @@ Spot attempts to poison ARP tables for man-in-the-middle attacks. This often occ
 | Global search.                                                                                                                                                                                                                                                                                                                                                                      | - `kerberos`                                                                                                       |
 | User account search:<br><br>- **CNameString:** The username.<br><br>**Note:** Some packets could provide hostname information in this field. To avoid this confusion, filter the **"$"** value. The values end with **"$"** are hostnames, and the ones without it are user names.                                                                                                  | - `kerberos.CNameString contains "keyword"` <br>- `kerberos.CNameString and !(kerberos.CNameString contains "$" )` |
 | "Kerberos" options for grabbing the low-hanging fruits:<br><br>- **pvno:** Protocol version.<br>- **realm:** Domain name for the generated ticket.  <br>    <br>- **sname:** Service and domain name for the generated ticket.<br>- **addresses:** Client IP address and NetBIOS name.  <br>    <br><br>**Note:** the "addresses" information is only available in request packets. | - `kerberos.pvno == 5`<br><br>- `kerberos.realm contains ".org"` <br><br>- `kerberos.SNameString == "krbtg"`       |
+
+## Tunneling Traffic with ICMP and DNS
+
+### ICMP
+Anomalous ICMP traffic such as large packet sizes or large quantities might be indication of tunneling using ICMP
+
+| **Notes**                                                                                                                                                                | **Wireshark filters**      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| Global search                                                                                                                                                            | - `icmp`                   |
+| "ICMP" options for grabbing the low-hanging fruits:<br><br>- Packet length.<br>- ICMP destination addresses.  <br>    <br>- Encapsulated protocol signs in ICMP payload. | - `data.len > 64 and icmp` |
