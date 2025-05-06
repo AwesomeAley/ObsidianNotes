@@ -104,3 +104,6 @@ Similar to the TCP three-way handshake process, the TLS protocol has its hands
 
 You will need to set up an encryption log file to save key-pairs for packet decryption.
 
+## Hunt Cleartext Passwords!
+**Tools** > **Credentials**
+
