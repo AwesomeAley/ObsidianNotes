@@ -11,3 +11,10 @@ Helpful tools to pipe data into
 | **nl**           | Views the number of shown lines.                                                                                                                       |
 | **sed**          | A stream editor.                                                                                                                                       |
 | **awk**          | Scripting language that helps pattern search and processing.                                                                                           |
+|                  |                                                                                                                                                        |
+| **Parameter**    | **Purpose**                                                                                                                                            |
+| -h               | - Display the help page with the most common features.<br>- `tshark -h`                                                                                |
+| -v               | - Show version info.<br>- `tshark -v`                                                                                                                  |
+| -D               | - List available sniffing interfaces.<br>- `tshark -D`                                                                                                 |
+| -i               | - Choose an interface to capture live traffic.<br>- `tshark -i 1`<br>- `tshark -i ens55`                                                               |
+| **No Parameter** | - Sniff the traffic like tcpdump.<br>- `tshark`                                                                                                        |
