@@ -102,3 +102,5 @@ Similar to the TCP three-way handshake process, the TLS protocol has its hands
 - Client Hello: `(http.request or tls.handshake.type == 1) and !(ssdp)` 
 - Server Hello: `(http.request or tls.handshake.type == 2) and !(ssdp)`
 
+You will need to set up an encryption log file to save key-pairs for packet decryption.
+
