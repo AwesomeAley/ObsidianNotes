@@ -80,3 +80,18 @@ You can filter the packets and follow the streams by using the parameters given 
 Detect cleartext credentials
 `tshark -r demo.pcapng -z credentials -q`
 
+## Extract
+*Note:* You can use "contains" and "matches" just like in Wireshark GUI
+
+This option helps analysts to extract specific parts of data from the packets. In this way, analysts have the opportunity to collect and correlate various fields from the packets. It also helps analysts manage the query output on the terminal. The query structure is explained in the table given below.
+
+|                 |                  |                     |
+| --------------- | ---------------- | ------------------- |
+| **Main Filter** | **Target Field** | **Show Field Name** |
+| -T fields       | -e <field name>  | -E header=y         |
+
+**Note:** You need to use the -e parameter for each field you want to display.
+
+You can filter any field by using the field names as shown below.
+
+- `-T fields -e ip.src -e ip.dst -E header=y`
