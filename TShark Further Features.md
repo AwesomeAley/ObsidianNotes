@@ -58,7 +58,25 @@ Filter by HTTP
 
 ## Streams
 Follow traffic streams
+- **TCP Streams:** `-z follow,tcp,ascii,0 -q`
+- **UDP Streams:** `-z follow,udp,ascii,0 -q`
+- **HTTP Streams:** `-z follow,http,ascii,0 -q`
 
 | **Main Parameter** | **Protocol**                        | **View Mode**    | **Stream Number**    | **Additional Parameter** |
 | ------------------ | ----------------------------------- | ---------------- | -------------------- | ------------------------ |
 | -z follow          | - TCP<br>- UDP<br>- HTTP<br>- HTTP2 | - HEX<br>- ASCII | 0 \| 1 \| 2 \| 3 ... | -q                       |
+## Export options
+This option helps analysts to extract files from DICOM, HTTP, IMF, SMB and TFTP. The query structure is explained in the table given below.
+
+| **Main Parameter** | **Protocol**                                  | **Target Folder**                | **Additional Parameter** |
+| ------------------ | --------------------------------------------- | -------------------------------- | ------------------------ |
+| --export-objects   | - DICOM<br>- HTTP<br>- IMF<br>- SMB<br>- TFTP | Target folder to save the files. | -q                       |
+
+You can filter the packets and follow the streams by using the parameters given below.  
+
+- `--export-objects http,/home/ubuntu/Desktop/extracted-by-tshark -q`
+
+## Credentials
+Detect cleartext credentials
+`tshark -r demo.pcapng -z credentials -q`
+
