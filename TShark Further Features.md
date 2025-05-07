@@ -35,3 +35,24 @@ View expert comments
 Filter by protocol
 `tshark -r demo.pcapng -z ptype,tree -q`
 
+Filter by ip addresses
+IPv4: `tshark -r demo.pcapng -z ip_hosts,tree -q'
+IPv6: `tshark -r demo.pcapng -z ipv6_hosts,tree -q'
+
+Filter by source or destination address
+Source
+	IPv4: `tshark -r demo.pcapng -z ip_srcdst,tree -q'
+	IPv6: `tshark -r demo.pcapng -z ipv6_srcdst,tree -q'
+Destination
+	IPv4: `tshark -r demo.pcapng -z dests,tree -q'
+	IPv6: `tshark -r demo.pcapng -z ipv6_dests,tree -q'
+
+Filter by DNS
+`tshark -r demo.pcapng -z dns,tree -q'
+Filter by HTTP
+- **Packet and status counter for HTTP:** `-z http,tree -q`
+- **Packet and status counter for HTTP2:** `-z http2,tree -q`
+- **Load distribution:** `-z http_srv,tree -q`
+- **Requests:** `-z http_req,tree -q`
+- **Requests and responses:** `-z http_seq,tree -q`
+
