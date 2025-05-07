@@ -105,6 +105,7 @@ You can filter any field by using the field names as shown below.
 | `tshark -r hostnames.pcapng -T fields -e dhcp.option.hostname` | Main query.  <br>Extract the DHCP hostname value.                                   |
 | `dns.qry.name`                                                 | dns queries                                                                         |
 | `http.user_agent`                                              | user agents                                                                         |
+| `http.host`                                                    | http hostname                                                                       |
 | **Sorting in CLI that could be useful**                        |                                                                                     |
 | `awk NF`                                                       | Remove empty lines.                                                                 |
 | `sort -r`                                                      | Sort recursively before handling the values.                                        |
