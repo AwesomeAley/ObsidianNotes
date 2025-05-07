@@ -81,10 +81,6 @@ Detect cleartext credentials
 `tshark -r demo.pcapng -z credentials -q`
 
 ## Extract
-*Note:* You can use "contains" and "matches" just like in Wireshark GUI
-![[Pasted image 20250507152632.png]]
-
-
 This option helps analysts to extract specific parts of data from the packets. In this way, analysts have the opportunity to collect and correlate various fields from the packets. It also helps analysts manage the query output on the terminal. The query structure is explained in the table given below.
 
 |                 |                  |                     |
@@ -97,3 +93,6 @@ This option helps analysts to extract specific parts of data from the packets. I
 You can filter any field by using the field names as shown below.
 
 - `-T fields -e ip.src -e ip.dst -E header=y`
+
+*Note:* You can use "contains" and "matches" just like in Wireshark GUI
+![[Pasted image 20250507152632.png]]
