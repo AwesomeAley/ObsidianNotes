@@ -12,4 +12,13 @@ View a table of packet sizes to identify anomalous sizes
 
 View endpoint statistics and packets associated with each endpoint
 `tshark -r demo.pcapng -z endpoints,ip -q`\
-You can also sort by other p
+You can also sort by other parameters other than "ip"
+
+| **Filter** | **Purpose**                                       |
+| ---------- | ------------------------------------------------- |
+| eth        | - Ethernet addresses                              |
+| ip         | - IPv4 addresses                                  |
+| ipv6       | - IPv6 addresses                                  |
+| tcp        | - TCP addresses<br>- Valid for both IPv4 and IPv6 |
+| udp        | - UDP addresses<br>- Valid for both IPv4 and IPv6 |
+| wlan       | - IEEE 802.11 addresses                           |
