@@ -82,6 +82,8 @@ Detect cleartext credentials
 
 ## Extract
 *Note:* You can use "contains" and "matches" just like in Wireshark GUI
+![[Pasted image 20250507152632.png]]
+
 
 This option helps analysts to extract specific parts of data from the packets. In this way, analysts have the opportunity to collect and correlate various fields from the packets. It also helps analysts manage the query output on the terminal. The query structure is explained in the table given below.
 
