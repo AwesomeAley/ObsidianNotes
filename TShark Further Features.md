@@ -96,3 +96,18 @@ You can filter any field by using the field names as shown below.
 
 *Note:* You can use "contains" and "matches" just like in Wireshark GUI
 ![[Pasted image 20250507152632.png]]
+
+### Extract Hostnames, DNS queries, and User Agents
+
+| Extract and filter specifics                                   |                                                                                     |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Query**                                                      | **Purpose**                                                                         |
+| `tshark -r hostnames.pcapng -T fields -e dhcp.option.hostname` | Main query.  <br>Extract the DHCP hostname value.                                   |
+| `dns.qry.name`                                                 | dns queries                                                                         |
+| `http.user_agent`                                              | user agents                                                                         |
+| **Sorting in CLI that could be useful**                        |                                                                                     |
+| `awk NF`                                                       | Remove empty lines.                                                                 |
+| `sort -r`                                                      | Sort recursively before handling the values.                                        |
+| `uniq -c`                                                      | Show unique values, but calculate and show the number of occurrences.               |
+| `sort -r`                                                      | The final sort process.  <br>Show the output/results from high occurrences to less. |
+
