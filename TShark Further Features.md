@@ -31,3 +31,7 @@ View traffic flow between connection points
 View expert comments
 `tshark -r demo.pcapng -z expert -q`
 
+## Filters for Specific Protocols
+Filter by protocol
+`tshark -r demo.pcapng -z ptype,tree -q`
+
