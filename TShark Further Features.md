@@ -10,3 +10,6 @@ Add filters to focus on specific protocols (for example UDP)
 View a table of packet sizes to identify anomalous sizes
 `tshark -r demo.pcapng -z plen,tree -q`
 
+View endpoint statistics and packets associated with each endpoint
+`tshark -r demo.pcapng -z endpoints,ip -q`\
+You can also sort by other p
