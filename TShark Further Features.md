@@ -56,3 +56,9 @@ Filter by HTTP
 - **Requests:** `-z http_req,tree -q`
 - **Requests and responses:** `-z http_seq,tree -q`
 
+## Streams
+Follow traffic streams
+
+| **Main Parameter** | **Protocol**                        | **View Mode**    | **Stream Number**    | **Additional Parameter** |
+| ------------------ | ----------------------------------- | ---------------- | -------------------- | ------------------------ |
+| -z follow          | - TCP<br>- UDP<br>- HTTP<br>- HTTP2 | - HEX<br>- ASCII | 0 \| 1 \| 2 \| 3 ... | -q                       |
