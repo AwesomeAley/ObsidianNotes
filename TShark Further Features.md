@@ -10,6 +10,7 @@ Add filters to focus on specific protocols (for example UDP)
 View a table of packet sizes to identify anomalous sizes
 `tshark -r demo.pcapng -z plen,tree -q`
 
+## Endpoints
 View endpoint statistics and packets associated with each endpoint
 `tshark -r demo.pcapng -z endpoints,ip -q`\
 You can also sort by other parameters other than "ip"
@@ -22,3 +23,11 @@ You can also sort by other parameters other than "ip"
 | tcp        | - TCP addresses<br>- Valid for both IPv4 and IPv6 |
 | udp        | - UDP addresses<br>- Valid for both IPv4 and IPv6 |
 | wlan       | - IEEE 802.11 addresses                           |
+
+## Conversations
+View traffic flow between connection points
+`tshark -r demo.pcapng -z conv,ip -q`
+
+View expert comments
+`tshark -r demo.pcapng -z expert -q`
+
