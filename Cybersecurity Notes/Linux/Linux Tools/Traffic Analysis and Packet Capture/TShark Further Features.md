@@ -104,11 +104,13 @@ You can filter any field by using the field names as shown below.
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | **Query**                                                      | **Purpose**                                                                         |
 | `tshark -r hostnames.pcapng -T fields -e dhcp.option.hostname` | Main query.  <br>Extract the DHCP hostname value.                                   |
+| **Extract Fields**                                             | **Purpose**                                                                         |
 | `-e dns.qry.name`                                              | dns queries                                                                         |
 | `-ehttp.user_agent`                                            | user agents                                                                         |
 | `-e http.host`                                                 | http hostname                                                                       |
 | `-e http.request.full_uri`                                     | http requests                                                                       |
 | `-e dns.a`                                                     | dns A record (ip address associated with dns query)                                 |
+| `http.server`                                                  | http servers                                                                        |
 | **Sorting in CLI that could be useful**                        |                                                                                     |
 | `awk NF`                                                       | Remove empty lines.                                                                 |
 | `sort -r`                                                      | Sort recursively before handling the values.                                        |
