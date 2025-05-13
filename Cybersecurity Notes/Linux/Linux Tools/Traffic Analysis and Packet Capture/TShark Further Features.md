@@ -98,6 +98,7 @@ You can filter any field by using the field names as shown below.
 ![[Pasted image 20250507152632.png]]
 
 ### Extract Hostnames, DNS queries, and User Agents
+`thsakr -r demo.pcapng -T fields -e <field>`
 
 | Extract and filter specifics                                   |                                                                                     |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
