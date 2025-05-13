@@ -108,6 +108,7 @@ You can filter any field by using the field names as shown below.
 | `-ehttp.user_agent`                                            | user agents                                                                         |
 | `-e http.host`                                                 | http hostname                                                                       |
 | `-e http.request.full_uri`                                     | http requests                                                                       |
+| `-e dns.a`                                                     | dns A record (ip address associated with dns query)                                 |
 | **Sorting in CLI that could be useful**                        |                                                                                     |
 | `awk NF`                                                       | Remove empty lines.                                                                 |
 | `sort -r`                                                      | Sort recursively before handling the values.                                        |
