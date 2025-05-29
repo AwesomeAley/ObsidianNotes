@@ -98,14 +98,19 @@ You can filter any field by using the field names as shown below.
 ![[Pasted image 20250507152632.png]]
 
 ### Extract Hostnames, DNS queries, and User Agents
+`thsakr -r demo.pcapng -T fields -e <field>`
 
 | Extract and filter specifics                                   |                                                                                     |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | **Query**                                                      | **Purpose**                                                                         |
 | `tshark -r hostnames.pcapng -T fields -e dhcp.option.hostname` | Main query.  <br>Extract the DHCP hostname value.                                   |
-| `dns.qry.name`                                                 | dns queries                                                                         |
-| `http.user_agent`                                              | user agents                                                                         |
-| `http.host`                                                    | http hostname                                                                       |
+| **Extract Fields**                                             | **Purpose**                                                                         |
+| `-e dns.qry.name`                                              | dns queries                                                                         |
+| `-ehttp.user_agent`                                            | user agents                                                                         |
+| `-e http.host`                                                 | http hostname                                                                       |
+| `-e http.request.full_uri`                                     | http requests                                                                       |
+| `-e dns.a`                                                     | dns A record (ip address associated with dns query)                                 |
+| `http.server`                                                  | http servers                                                                        |
 | **Sorting in CLI that could be useful**                        |                                                                                     |
 | `awk NF`                                                       | Remove empty lines.                                                                 |
 | `sort -r`                                                      | Sort recursively before handling the values.                                        |
