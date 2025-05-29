@@ -38,6 +38,7 @@ Hub for all notes cybersecurity
 		- [[Wireshark]] Top packet capture and analysis
 			- [[Wireshark Threat Hunting]]
 			- [[TShark]]
+			- [[TShark Further Features]]
 		- [[Snort]] Packet sniffer, logger, IDS, and IPS
 		- [[Zeek]] (Bro) IDS with scripting functionality 
 		- [[Brim]] GUI for parsing through pcap logs (zeek logs, etc)
